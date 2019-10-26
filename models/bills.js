@@ -51,6 +51,6 @@ object we receive from api:
 
  */
 
-const Reps = mongoose.model("Bills", billSchema);
+const Bills = mongoose.model("Bills", billSchema);
 
 module.exports = Bills;
