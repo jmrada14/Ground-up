@@ -1,35 +1,13 @@
-const https = require('https');
+//IT IS WORKING BUDDY!!!
+const axios = require('axios');
 
-https.get('https://api.propublica.org/congress/v1/115/senate/members.json', {'X-API-key':"9q67HMZ2ly0hOrXWjT9l31WN6TiGuh7XrkBl1vC"}
-, (resp) => {
-    let data = '';
-        console.log('statusCode:', resp.statusCode);
-        console.log('headers:', resp.headers);
-    // A chunk of data has been recieved.
-    resp.on('data', (chunk) => {
-        data += chunk;
-    });
-
-    // The whole response has been received. Print out the result.
-    resp.on('end', () => {
-        console.log(JSON.parse(data).explanation);
-    });
-
-}).on("error", (err) => {
-    console.log("Error: " + err.message);
+axios.request({
+    url: "https://api.propublica.org/congress/v1/members/house/FL/current.json",
+    headers: { 'X-API-Key': "9q67HMZ2ly0hOrXWjT9l31WN6TiGuh7XrkBl1vC" },
+    method: 'get'
+}).then(response => {
+    // console.log(response.data.url);
+    console.log(response.data)
+}).catch(error => {
+    console.log(error);
 });
-// const axios = require('axios');
-//
-// axios.all([
-//     axios.get('"https://api.propublica.org/congress/v1/115/senate/members.json"', {
-//         headers:
-//     {'X-API-key': "9q67HMZ2ly0hOrXWjT9l31WN6TiGuh7XrkBl1vC"}
-//     })
-// ])
-//     .then(axios.spread((response) => {
-//     console.log(response.data.url);
-// })).catch(error => {
-//     console.log(error);
-// });
-//
-//
