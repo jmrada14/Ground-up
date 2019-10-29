@@ -3,6 +3,8 @@ const axios = require('axios');
 const state = "fl";
 const chamber = "senate";
 const db = require("../models/representatives");
+const mongoose = require('mongoose');
+mongoose.connect('mongodb://localhost/ground-up');
 ////////////////////////
 axios.request({
     url: `https://api.propublica.org/congress/v1/members/${chamber}/${state}/current.json`,
