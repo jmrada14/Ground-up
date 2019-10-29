@@ -3,6 +3,8 @@ const Schema = mongoose.Schema;
 
 const  representativeSchema = new Schema({
     name: {type: String, required: true},//Full name
+    state: {type: String, required: true},
+    chamber: {type: String, required: true},
     role: {type: String, required:true},//Role
     gender: {type: String, required:true},// F-M or other if applies
     party: {type: String, required:true},//nothing to comment
