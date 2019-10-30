@@ -2,7 +2,6 @@ const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
 const billSchema = new Schema({
-     billID: {type: String, required: true},
      title: {type: String, required: true},
      sponsorState: {type: String, required: true},
      sponsorParty: {type: String, required: true},
