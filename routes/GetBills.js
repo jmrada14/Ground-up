@@ -1,7 +1,7 @@
 //IT IS WORKING BUDDY!!!
 const dotenv = require('dotenv');
 const axios = require('axios');
-const subject = "internet"
+const subject = "environment";
 // const db = require("../models/bills");
 // const mongoose = require('mongoose');
 // mongoose.connect('mongodb://localhost/ground-up');
@@ -13,15 +13,19 @@ axios.request({
 }).then(response => {
     // console.log(response.data);
     let dataArray = response.data.results;
+ // console.log(dataArray)
     for (let i = 0; i < dataArray.length; i++){
         // console.log(dataArray[i])
-    let title = dataArray.title[i]
-        console.log(title)
+        console.log(dataArray[i].title)
     }
-    let billsObj = {
-
-
-    }
+    //     // console.log(dataArray[i])
+    // let title = dataArray.title[i]
+    //     console.log(title)
+    // }
+    // let billsObj = {
+    //
+    //
+    // }
 //         console.log(billsObj);
 // /////////////////////////////////////
 //         db.create(billsObj);
