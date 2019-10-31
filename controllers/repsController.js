@@ -1,6 +1,13 @@
 const db = require("../models/representatives");
 console.log(db);
 module.exports = {
+    findAll: function(req, res) {
+        db
+            .find(req.query)
+            .sort({ state: 0 })
+            .then(dbModel => res.json(dbModel))
+            .catch(err => res.status(422).json(err));
+    },
     findById: function (req, res) {
         db
             .findById(req.params.id)
@@ -11,7 +18,7 @@ module.exports = {
     },
     findByState: function (req, res) {
         db
-            .findByState(req.params.state)
+            .find({ state: req.params.state })
             .then(dbModel => res.json(dbModel))
             .catch(err => res.status(422).json(err));
         console.log(req.params.state)
