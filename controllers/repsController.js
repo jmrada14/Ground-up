@@ -24,9 +24,10 @@ module.exports = {
         console.log(req.params.state)
 
     },
+
     findByChamber: function (req, res) {
         db
-            .findByChamber(req.params.chamber)
+            .find({ state: req.params.chamber })
             .then(dbModel => res.json(dbModel))
             .catch(err => res.status(422).json(err));
         console.log(req.params.chamber)
@@ -34,7 +35,7 @@ module.exports = {
     },
     findByGender: function (req, res) {
         db
-            .findByGender(req.params.gender)
+            .find({ state: req.params.gender })
             .then(dbModel => res.json(dbModel))
             .catch(err => res.status(422).json(err));
         console.log(req.params.gender)
@@ -42,7 +43,7 @@ module.exports = {
     },
     findByParty: function (req, res) {
         db
-            .findByParty(req.params.party)
+            .find({ state: req.params.party })
             .then(dbModel => res.json(dbModel))
             .catch(err => res.status(422).json(err));
         console.log(req.params.party)
