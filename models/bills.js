@@ -6,7 +6,10 @@ const billSchema = new Schema({
      sponsorState: {type: String, required: true},
      sponsorParty: {type: String, required: true},
      summary: {type: String},
-     primarySubject: {type: String, required: true}
+     primarySubject: {type: String},
+     introducedDate: {type: String, required: true},
+     latestMajorAction: {type: String},
+     latestMajorActionDate: {type: String}
 });
 
 /*
