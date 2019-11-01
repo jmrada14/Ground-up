@@ -2,7 +2,7 @@
 const dotenv = require('dotenv');
 const axios = require('axios');
 const state = "ny";
-const chamber = "senate";
+const chamber = "house";
 const db = require("../models/representatives");
 const mongoose = require('mongoose');
 mongoose.connect('mongodb://localhost/ground-up');

@@ -48,7 +48,16 @@ module.exports = {
             .catch(err => res.status(422).json(err));
         console.log(req.params.party)
 
-    }
+    },
+    findByChamberAndState: function (req, res) {
+        db
+            .find({ chamber: req.params.chamber, state: req.params.state })
+            .then(dbModel => res.json(dbModel))
+            .catch(err => res.status(422).json(err));
+        console.log(req.params.chamber)
+
+    },
+
 };
 
 
