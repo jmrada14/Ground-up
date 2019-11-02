@@ -54,10 +54,40 @@ module.exports = {
             .find({ chamber: req.params.chamber, state: req.params.state })
             .then(dbModel => res.json(dbModel))
             .catch(err => res.status(422).json(err));
-        console.log(req.params.chamber)
 
     },
 
+    findByChamberAndParty: function (req, res) {
+        db
+            .find({ chamber: req.params.chamber, state: req.params.party })
+            .then(dbModel => res.json(dbModel))
+            .catch(err => res.status(422).json(err));
+
+    },
+
+    findByChamberAndGender: function (req, res) {
+        db
+            .find({ chamber: req.params.chamber, state: req.params.gender })
+            .then(dbModel => res.json(dbModel))
+            .catch(err => res.status(422).json(err));
+
+    },
+
+    findByPartyAndState: function (req, res) {
+        db
+            .find({ party: req.params.party, state: req.params.state })
+            .then(dbModel => res.json(dbModel))
+            .catch(err => res.status(422).json(err));
+
+    },
+
+    findByGenderAndParty: function (req, res) {
+        db
+            .find({ gender: req.params.gender, party: req.params.party })
+            .then(dbModel => res.json(dbModel))
+            .catch(err => res.status(422).json(err));
+
+    },
 };
 
 
