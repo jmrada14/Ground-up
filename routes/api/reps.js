@@ -23,4 +23,17 @@ router.route("/party/:party")
 router.route("/chamber/:chamber/state/:state")
     .get(repsController.findByChamberAndState);
 
+router.route("/chamber/:chamber/party/:party")
+    .get(repsController.findByChamberAndParty);
+
+router.route("/chamber/:chamber/gender/:gender")
+    .get(repsController.findByChamberAndGender);
+
+router.route("/party/:party/state/:state")
+    .get(repsController.findByPartyAndState);
+
+router.route("/gender/:gender/party/:party")
+    .get(repsController.findByGenderAndParty);
+
+
 module.exports = router;
