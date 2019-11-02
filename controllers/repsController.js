@@ -59,7 +59,7 @@ module.exports = {
 
     findByChamberAndParty: function (req, res) {
         db
-            .find({ chamber: req.params.chamber, state: req.params.party })
+            .find({ chamber: req.params.chamber, party: req.params.party })
             .then(dbModel => res.json(dbModel))
             .catch(err => res.status(422).json(err));
 
@@ -67,7 +67,7 @@ module.exports = {
 
     findByChamberAndGender: function (req, res) {
         db
-            .find({ chamber: req.params.chamber, state: req.params.gender })
+            .find({ chamber: req.params.chamber, gender: req.params.gender })
             .then(dbModel => res.json(dbModel))
             .catch(err => res.status(422).json(err));
 

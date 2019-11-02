@@ -8,8 +8,8 @@ const billSchema = new Schema({
      summary: {type: String},
      primarySubject: {type: String},
      introducedDate: {type: String, required: true},
-     latestMajorAction: {type: String},
-     latestMajorActionDate: {type: String}
+     latestMAction: {type: String},
+     latestMActionDate: {type: String}
 });
 
 /*
