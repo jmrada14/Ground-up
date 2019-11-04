@@ -1,5 +1,3 @@
-//IT IS WORKING BUDDY!!!
-// const dotenv = require('dotenv');
 const axios = require('axios');
 const subject = "climate pollution environment";
 const db = require("../models/bills");
