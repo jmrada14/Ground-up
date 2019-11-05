@@ -1,6 +1,6 @@
 const axios = require('axios');
-const congress = "whatever";
-const billId = "whatever";
+const congress = "116";
+const billId = "S2767";
 const db = require("../models/bills");
 const mongoose = require('mongoose');
 mongoose.connect('mongodb://localhost/ground-up');
@@ -11,10 +11,10 @@ axios.request({
     method: 'get'
 }).then(response => {
     // console.log(response.data);
-    let dataArray = response.data.results[0].bills;
- // console.log(dataArray);
-    for (let i = 0; i < dataArray.length; i++){
-        // console.log(dataArray[i])
+    let dataArray = response.data.results;
+ console.log(dataArray);
+    for (let i = 0; i < dataArray.length; i++) {
+        console.log(dataArray[i])
 
         let title = dataArray[i].title;
         console.log("title: " + title);
@@ -57,7 +57,6 @@ axios.request({
         console.log(billsObj);
 
         db.create(billsObj);
-
 
 
     }
