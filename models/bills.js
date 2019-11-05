@@ -3,6 +3,7 @@ const Schema = mongoose.Schema;
 
 const billSchema = new Schema({
      title: {type: String, required: true},
+     bill_id: {type: String, required: true},
      sponsorState: {type: String, required: true},
      sponsorParty: {type: String, required: true},
      summary: {type: String},

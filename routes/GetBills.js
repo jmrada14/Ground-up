@@ -39,7 +39,10 @@ axios.request({
         let latestMActionDate = dataArray[i].latest_major_action_date;
         console.log("LMAD: " + latestMActionDate);
 
+        let bill_id = dataArray[i].bill_id;
+
         let billsObj = {
+            bill_id: bill_id,
             title: title,
             sponsorState: sponsorState,
             sponsorParty: sponsorParty,
