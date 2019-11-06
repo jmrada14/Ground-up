@@ -1,6 +1,6 @@
 const axios = require('axios');
 const congress = "116";
-const billId = "hr1373";
+const billId = "hr312";
 const db = require("../models/bills");
 const mongoose = require('mongoose');
 mongoose.connect('mongodb://localhost/ground-up');
