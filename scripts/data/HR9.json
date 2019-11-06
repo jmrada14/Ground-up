@@ -59,7 +59,7 @@
       "0": 1,
       "400440": 412400,
       "AK": "AR",
-      "No": "No",
+      "No": "Not Voting",
       "Rep. Don Young [R]": "Rep. Eric “Rick” Crawford [R]",
       "Republican": "Republican"
     },
@@ -216,6 +216,14 @@
       "Republican": "Republican"
     },
     {
+      "0": 12,
+      "400440": 400314,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Nancy Pelosi [D]",
+      "Republican": "Democrat"
+    },
+    {
       "0": 40,
       "400440": 400347,
       "AK": "CA",
@@ -251,7 +259,7 @@
       "0": 5,
       "400440": 400403,
       "AK": "CA",
-      "No": "Not Voting",
+      "No": "Aye",
       "Rep. Don Young [R]": "Rep. Mike Thompson [D]",
       "Republican": "Democrat"
     },
@@ -371,7 +379,7 @@
       "0": 8,
       "400440": 412513,
       "AK": "CA",
-      "No": "Aye",
+      "No": "No",
       "Rep. Don Young [R]": "Rep. Paul Cook [R]",
       "Republican": "Republican"
     },
@@ -427,7 +435,7 @@
       "0": 51,
       "400440": 412522,
       "AK": "CA",
-      "No": "Aye",
+      "No": "Not Voting",
       "Rep. Don Young [R]": "Rep. Juan Vargas [D]",
       "Republican": "Democrat"
     },
@@ -539,7 +547,7 @@
       "0": 25,
       "400440": 412756,
       "AK": "CA",
-      "No": "Not Voting",
+      "No": "Aye",
       "Rep. Don Young [R]": "Rep. Katie Hill [D, 2019-2019]",
       "Republican": "Democrat"
     },
@@ -563,7 +571,7 @@
       "0": 48,
       "400440": 412759,
       "AK": "CA",
-      "No": "Aye",
+      "No": "Not Voting",
       "Rep. Don Young [R]": "Rep. Harley Rouda [D]",
       "Republican": "Democrat"
     },
@@ -691,7 +699,7 @@
       "0": 20,
       "400440": 400170,
       "AK": "FL",
-      "No": "Aye",
+      "No": "Not Voting",
       "Rep. Don Young [R]": "Rep. Alcee Hastings [D]",
       "Republican": "Democrat"
     },
@@ -715,7 +723,7 @@
       "0": 16,
       "400440": 412196,
       "AK": "FL",
-      "No": "No",
+      "No": "Aye",
       "Rep. Don Young [R]": "Rep. Vern Buchanan [R]",
       "Republican": "Republican"
     },
@@ -851,7 +859,7 @@
       "0": 19,
       "400440": 412699,
       "AK": "FL",
-      "No": "Aye",
+      "No": "Not Voting",
       "Rep. Don Young [R]": "Rep. Francis Rooney [R]",
       "Republican": "Republican"
     },
@@ -971,7 +979,7 @@
       "0": 10,
       "400440": 412623,
       "AK": "GA",
-      "No": "Not Voting",
+      "No": "No",
       "Rep. Don Young [R]": "Rep. Jody Hice [R]",
       "Republican": "Republican"
     },
@@ -979,7 +987,7 @@
       "0": 11,
       "400440": 412624,
       "AK": "GA",
-      "No": "No",
+      "No": "Not Voting",
       "Rep. Don Young [R]": "Rep. Barry Loudermilk [R]",
       "Republican": "Republican"
     },
@@ -1019,7 +1027,7 @@
       "0": 2,
       "400440": 412532,
       "AK": "HI",
-      "No": "Not Voting",
+      "No": "Aye",
       "Rep. Don Young [R]": "Rep. Tulsi Gabbard [D]",
       "Republican": "Democrat"
     },
@@ -1227,7 +1235,7 @@
       "0": 7,
       "400440": 412258,
       "AK": "IN",
-      "No": "No",
+      "No": "Aye",
       "Rep. Don Young [R]": "Rep. André Carson [D]",
       "Republican": "Democrat"
     },
@@ -1387,7 +1395,7 @@
       "0": 5,
       "400440": 412630,
       "AK": "LA",
-      "No": "No",
+      "No": "Not Voting",
       "Rep. Don Young [R]": "Rep. Ralph Abraham [R]",
       "Republican": "Republican"
     },
@@ -1488,6 +1496,14 @@
       "Republican": "Democrat"
     },
     {
+      "0": 7,
+      "400440": 400090,
+      "AK": "MD",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Elijah Cummings [D, 1996-2019]",
+      "Republican": "Democrat"
+    },
+    {
       "0": 5,
       "400440": 400189,
       "AK": "MD",
@@ -1563,7 +1579,7 @@
       "0": 6,
       "400440": 400414,
       "AK": "MI",
-      "No": "Aye",
+      "No": "No",
       "Rep. Don Young [R]": "Rep. Fred Upton [R]",
       "Republican": "Republican"
     },
@@ -1589,7 +1605,7 @@
       "AK": "MI",
       "No": "No",
       "Rep. Don Young [R]": "Rep. Justin Amash [I]",
-      "Republican": "Independent"
+      "Republican": "Republican"
     },
     {
       "0": 5,
@@ -1803,7 +1819,7 @@
       "0": 2,
       "400440": 400402,
       "AK": "MS",
-      "No": "Aye",
+      "No": "Not Voting",
       "Rep. Don Young [R]": "Rep. Bennie Thompson [D]",
       "Republican": "Democrat"
     },
@@ -1875,7 +1891,7 @@
       "0": 8,
       "400440": 412550,
       "AK": "NC",
-      "No": "Not Voting",
+      "No": "No",
       "Rep. Don Young [R]": "Rep. Richard Hudson [R]",
       "Republican": "Republican"
     },
@@ -1899,7 +1915,7 @@
       "0": 12,
       "400440": 412607,
       "AK": "NC",
-      "No": "Aye",
+      "No": "Not Voting",
       "Rep. Don Young [R]": "Rep. Alma Adams [D]",
       "Republican": "Democrat"
     },
@@ -1925,22 +1941,6 @@
       "AK": "NC",
       "No": "No",
       "Rep. Don Young [R]": "Rep. Ted Budd [R]",
-      "Republican": "Republican"
-    },
-    {
-      "0": 9,
-      "400440": 412844,
-      "AK": "NC",
-      "No": "No",
-      "Rep. Don Young [R]": "Rep. Dan Bishop [R]",
-      "Republican": "Republican"
-    },
-    {
-      "0": 3,
-      "400440": 412845,
-      "AK": "NC",
-      "No": "No",
-      "Rep. Don Young [R]": "Rep. Gregory Murphy [R]",
       "Republican": "Republican"
     },
     {
@@ -2011,7 +2011,7 @@
       "0": 4,
       "400440": 400380,
       "AK": "NJ",
-      "No": "Aye",
+      "No": "No",
       "Rep. Don Young [R]": "Rep. Christopher “Chris” Smith [R]",
       "Republican": "Republican"
     },
@@ -2115,7 +2115,7 @@
       "0": 1,
       "400440": 412318,
       "AK": "NV",
-      "No": "Aye",
+      "No": "Not Voting",
       "Rep. Don Young [R]": "Rep. Dina Titus [D]",
       "Republican": "Democrat"
     },
@@ -2264,6 +2264,14 @@
       "Republican": "Democrat"
     },
     {
+      "0": 27,
+      "400440": 412563,
+      "AK": "NY",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Chris Collins [R, 2013-2019]",
+      "Republican": "Republican"
+    },
+    {
       "0": 1,
       "400440": 412646,
       "AK": "NY",
@@ -2291,7 +2299,7 @@
       "0": 24,
       "400440": 412649,
       "AK": "NY",
-      "No": "Aye",
+      "No": "No",
       "Rep. Don Young [R]": "Rep. John Katko [R]",
       "Republican": "Republican"
     },
@@ -2403,7 +2411,7 @@
       "0": 11,
       "400440": 412327,
       "AK": "OH",
-      "No": "Aye",
+      "No": "Not Voting",
       "Rep. Don Young [R]": "Rep. Marcia Fudge [D]",
       "Republican": "Democrat"
     },
@@ -2443,7 +2451,7 @@
       "0": 3,
       "400440": 412565,
       "AK": "OH",
-      "No": "Not Voting",
+      "No": "Aye",
       "Rep. Don Young [R]": "Rep. Joyce Beatty [D]",
       "Republican": "Democrat"
     },
@@ -2483,7 +2491,7 @@
       "0": 4,
       "400440": 400077,
       "AK": "OK",
-      "No": "Aye",
+      "No": "No",
       "Rep. Don Young [R]": "Rep. Tom Cole [R]",
       "Republican": "Republican"
     },
@@ -2696,14 +2704,6 @@
       "Republican": "Republican"
     },
     {
-      "0": 12,
-      "400440": 412843,
-      "AK": "PA",
-      "No": "No",
-      "Rep. Don Young [R]": "Rep. Fred Keller [R]",
-      "Republican": "Republican"
-    },
-    {
       "0": 2,
       "400440": 400230,
       "AK": "RI",
@@ -2771,7 +2771,7 @@
       "0": 4,
       "400440": 412815,
       "AK": "SC",
-      "No": "Not Voting",
+      "No": "No",
       "Rep. Don Young [R]": "Rep. William Timmons [R]",
       "Republican": "Republican"
     },
@@ -2851,7 +2851,7 @@
       "0": 6,
       "400440": 412818,
       "AK": "TN",
-      "No": "Not Voting",
+      "No": "No",
       "Rep. Don Young [R]": "Rep. John Rose [R]",
       "Republican": "Republican"
     },
@@ -3227,7 +3227,7 @@
       "0": 4,
       "400440": 412728,
       "AK": "VA",
-      "No": "Not Voting",
+      "No": "Aye",
       "Rep. Don Young [R]": "Rep. Donald McEachin [D]",
       "Republican": "Democrat"
     },
@@ -3299,7 +3299,7 @@
       "0": 5,
       "400440": 400659,
       "AK": "WA",
-      "No": "Not Voting",
+      "No": "No",
       "Rep. Don Young [R]": "Rep. Cathy McMorris Rodgers [R]",
       "Republican": "Republican"
     },
@@ -3307,7 +3307,7 @@
       "0": 3,
       "400440": 412486,
       "AK": "WA",
-      "No": "Aye",
+      "No": "No",
       "Rep. Don Young [R]": "Rep. Jaime Herrera Beutler [R]",
       "Republican": "Republican"
     },
@@ -3382,6 +3382,14 @@
       "No": "Aye",
       "Rep. Don Young [R]": "Rep. Gwen Moore [D]",
       "Republican": "Democrat"
+    },
+    {
+      "0": 7,
+      "400440": 412488,
+      "AK": "WI",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Sean Duffy [R, 2011-2019]",
+      "Republican": "Republican"
     },
     {
       "0": 2,

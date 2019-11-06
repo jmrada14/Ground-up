@@ -1,3466 +1,3458 @@
 [
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400440,
-      "": "AK",
-      "__1": 0,
-      "__2": "No",
-      "__3": "Rep. Don Young [R]",
-      "__4": "Republican"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400004,
-      "": "AL",
-      "__1": 4,
-      "__2": "No",
-      "__3": "Rep. Robert Aderholt [R]",
-      "__4": "Republican"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400341,
-      "": "AL",
-      "__1": 3,
-      "__2": "No",
-      "__3": "Rep. Mike Rogers [R]",
-      "__4": "Republican"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412394,
-      "": "AL",
-      "__1": 2,
-      "__2": "No",
-      "__3": "Rep. Martha Roby [R]",
-      "__4": "Republican"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412395,
-      "": "AL",
-      "__1": 5,
-      "__2": "No",
-      "__3": "Rep. Mo Brooks [R]",
-      "__4": "Republican"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412396,
-      "": "AL",
-      "__1": 7,
-      "__2": "Aye",
-      "__3": "Rep. Terri Sewell [D]",
-      "__4": "Democrat"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412601,
-      "": "AL",
-      "__1": 1,
-      "__2": "No",
-      "__3": "Rep. Bradley Byrne [R]",
-      "__4": "Republican"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412608,
-      "": "AL",
-      "__1": 6,
-      "__2": "No",
-      "__3": "Rep. Gary Palmer [R]",
-      "__4": "Republican"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412400,
-      "": "AR",
-      "__1": 1,
-      "__2": "No",
-      "__3": "Rep. Eric “Rick” Crawford [R]",
-      "__4": "Republican"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412402,
-      "": "AR",
-      "__1": 3,
-      "__2": "No",
-      "__3": "Rep. Steve Womack [R]",
-      "__4": "Republican"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412609,
-      "": "AR",
-      "__1": 2,
-      "__2": "No",
-      "__3": "Rep. French Hill [R]",
-      "__4": "Republican"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412610,
-      "": "AR",
-      "__1": 4,
-      "__2": "No",
-      "__3": "Rep. Bruce Westerman [R]",
-      "__4": "Republican"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400162,
-      "": "AZ",
-      "__1": 3,
-      "__2": "Aye",
-      "__3": "Rep. Raúl Grijalva [D]",
-      "__4": "Democrat"
+      "0": 4,
+      "400440": 400004,
+      "AK": "AL",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Robert Aderholt [R]",
+      "Republican": "Republican"
+    },
+    {
+      "0": 3,
+      "400440": 400341,
+      "AK": "AL",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Mike Rogers [R]",
+      "Republican": "Republican"
+    },
+    {
+      "0": 2,
+      "400440": 412394,
+      "AK": "AL",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Martha Roby [R]",
+      "Republican": "Republican"
+    },
+    {
+      "0": 5,
+      "400440": 412395,
+      "AK": "AL",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Mo Brooks [R]",
+      "Republican": "Republican"
+    },
+    {
+      "0": 7,
+      "400440": 412396,
+      "AK": "AL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Terri Sewell [D]",
+      "Republican": "Democrat"
+    },
+    {
+      "0": 1,
+      "400440": 412601,
+      "AK": "AL",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Bradley Byrne [R]",
+      "Republican": "Republican"
+    },
+    {
+      "0": 6,
+      "400440": 412608,
+      "AK": "AL",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Gary Palmer [R]",
+      "Republican": "Republican"
+    },
+    {
+      "0": 1,
+      "400440": 412400,
+      "AK": "AR",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Eric “Rick” Crawford [R]",
+      "Republican": "Republican"
+    },
+    {
+      "0": 3,
+      "400440": 412402,
+      "AK": "AR",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Steve Womack [R]",
+      "Republican": "Republican"
+    },
+    {
+      "0": 2,
+      "400440": 412609,
+      "AK": "AR",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. French Hill [R]",
+      "Republican": "Republican"
+    },
+    {
+      "0": 4,
+      "400440": 412610,
+      "AK": "AR",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Bruce Westerman [R]",
+      "Republican": "Republican"
+    },
+    {
+      "0": 3,
+      "400440": 400162,
+      "AK": "AZ",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Raúl Grijalva [D]",
+      "Republican": "Democrat"
+    },
+    {
+      "0": 2,
+      "400440": 412286,
+      "AK": "AZ",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Ann Kirkpatrick [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412286,
-      "": "AZ",
-      "__1": 2,
-      "__2": "Aye",
-      "__3": "Rep. Ann Kirkpatrick [D]",
-      "__4": "Democrat"
+      "0": 4,
+      "400440": 412397,
+      "AK": "AZ",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Paul Gosar [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412397,
-      "": "AZ",
-      "__1": 4,
-      "__2": "No",
-      "__3": "Rep. Paul Gosar [R]",
-      "__4": "Republican"
+      "0": 6,
+      "400440": 412399,
+      "AK": "AZ",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. David Schweikert [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412399,
-      "": "AZ",
-      "__1": 6,
-      "__2": "No",
-      "__3": "Rep. David Schweikert [R]",
-      "__4": "Republican"
+      "0": 7,
+      "400440": 412612,
+      "AK": "AZ",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Ruben Gallego [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412612,
-      "": "AZ",
-      "__1": 7,
-      "__2": "Aye",
-      "__3": "Rep. Ruben Gallego [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 412682,
+      "AK": "AZ",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Tom O’Halleran [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412682,
-      "": "AZ",
-      "__1": 1,
-      "__2": "Aye",
-      "__3": "Rep. Tom O’Halleran [D]",
-      "__4": "Democrat"
+      "0": 5,
+      "400440": 412683,
+      "AK": "AZ",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Andy Biggs [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412683,
-      "": "AZ",
-      "__1": 5,
-      "__2": "No",
-      "__3": "Rep. Andy Biggs [R]",
-      "__4": "Republican"
+      "0": 8,
+      "400440": 412745,
+      "AK": "AZ",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Debbie Lesko [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412745,
-      "": "AZ",
-      "__1": 8,
-      "__2": "No",
-      "__3": "Rep. Debbie Lesko [R]",
-      "__4": "Republican"
+      "0": 9,
+      "400440": 412753,
+      "AK": "AZ",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Greg Stanton [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412753,
-      "": "AZ",
-      "__1": 9,
-      "__2": "Aye",
-      "__3": "Rep. Greg Stanton [D]",
-      "__4": "Democrat"
+      "0": 42,
+      "400440": 400057,
+      "AK": "CA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Ken Calvert [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400057,
-      "": "CA",
-      "__1": 42,
-      "__2": "No",
-      "__3": "Rep. Ken Calvert [R]",
-      "__4": "Republican"
+      "0": 53,
+      "400440": 400097,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Susan Davis [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400097,
-      "": "CA",
-      "__1": 53,
-      "__2": "Aye",
-      "__3": "Rep. Susan Davis [D]",
-      "__4": "Democrat"
+      "0": 18,
+      "400440": 400124,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Anna Eshoo [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400124,
-      "": "CA",
-      "__1": 18,
-      "__2": "Aye",
-      "__3": "Rep. Anna Eshoo [D]",
-      "__4": "Democrat"
+      "0": 13,
+      "400440": 400237,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Barbara Lee [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400237,
-      "": "CA",
-      "__1": 13,
-      "__2": "Aye",
-      "__3": "Rep. Barbara Lee [D]",
-      "__4": "Democrat"
+      "0": 19,
+      "400440": 400245,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Zoe Lofgren [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400245,
-      "": "CA",
-      "__1": 19,
-      "__2": "Aye",
-      "__3": "Rep. Zoe Lofgren [D]",
-      "__4": "Democrat"
+      "0": 32,
+      "400440": 400290,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Grace Napolitano [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400290,
-      "": "CA",
-      "__1": 32,
-      "__2": "Aye",
-      "__3": "Rep. Grace Napolitano [D]",
-      "__4": "Democrat"
+      "0": 22,
+      "400440": 400297,
+      "AK": "CA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Devin Nunes [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400297,
-      "": "CA",
-      "__1": 22,
-      "__2": "No",
-      "__3": "Rep. Devin Nunes [R]",
-      "__4": "Republican"
+      "0": 40,
+      "400440": 400347,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Lucille Roybal-Allard [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400347,
-      "": "CA",
-      "__1": 40,
-      "__2": "Aye",
-      "__3": "Rep. Lucille Roybal-Allard [D]",
-      "__4": "Democrat"
+      "0": 38,
+      "400440": 400355,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Linda Sánchez [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400355,
-      "": "CA",
-      "__1": 38,
-      "__2": "Aye",
-      "__3": "Rep. Linda Sánchez [D]",
-      "__4": "Democrat"
+      "0": 28,
+      "400440": 400361,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Adam Schiff [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400361,
-      "": "CA",
-      "__1": 28,
-      "__2": "Aye",
-      "__3": "Rep. Adam Schiff [D]",
-      "__4": "Democrat"
+      "0": 30,
+      "400440": 400371,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Brad Sherman [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400371,
-      "": "CA",
-      "__1": 30,
-      "__2": "Aye",
-      "__3": "Rep. Brad Sherman [D]",
-      "__4": "Democrat"
+      "0": 5,
+      "400440": 400403,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Mike Thompson [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400403,
-      "": "CA",
-      "__1": 5,
-      "__2": "Aye",
-      "__3": "Rep. Mike Thompson [D]",
-      "__4": "Democrat"
+      "0": 43,
+      "400440": 400422,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Maxine Waters [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400422,
-      "": "CA",
-      "__1": 43,
-      "__2": "Aye",
-      "__3": "Rep. Maxine Waters [D]",
-      "__4": "Democrat"
+      "0": 16,
+      "400440": 400618,
+      "AK": "CA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Jim Costa [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400618,
-      "": "CA",
-      "__1": 16,
-      "__2": "No",
-      "__3": "Rep. Jim Costa [D]",
-      "__4": "Democrat"
+      "0": 6,
+      "400440": 400663,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Doris Matsui [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400663,
-      "": "CA",
-      "__1": 6,
-      "__2": "Aye",
-      "__3": "Rep. Doris Matsui [D]",
-      "__4": "Democrat"
+      "0": 9,
+      "400440": 412189,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Jerry McNerney [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412189,
-      "": "CA",
-      "__1": 9,
-      "__2": "Aye",
-      "__3": "Rep. Jerry McNerney [D]",
-      "__4": "Democrat"
+      "0": 23,
+      "400440": 412190,
+      "AK": "CA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Kevin McCarthy [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412190,
-      "": "CA",
-      "__1": 23,
-      "__2": "No",
-      "__3": "Rep. Kevin McCarthy [R]",
-      "__4": "Republican"
+      "0": 14,
+      "400440": 412259,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Jackie Speier [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412259,
-      "": "CA",
-      "__1": 14,
-      "__2": "Aye",
-      "__3": "Rep. Jackie Speier [D]",
-      "__4": "Democrat"
+      "0": 50,
+      "400440": 412283,
+      "AK": "CA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Duncan Hunter [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412283,
-      "": "CA",
-      "__1": 50,
-      "__2": "No",
-      "__3": "Rep. Duncan Hunter [R]",
-      "__4": "Republican"
+      "0": 4,
+      "400440": 412295,
+      "AK": "CA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Tom McClintock [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412295,
-      "": "CA",
-      "__1": 4,
-      "__2": "No",
-      "__3": "Rep. Tom McClintock [R]",
-      "__4": "Republican"
+      "0": 27,
+      "400440": 412379,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Judy Chu [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412379,
-      "": "CA",
-      "__1": 27,
-      "__2": "Aye",
-      "__3": "Rep. Judy Chu [D]",
-      "__4": "Democrat"
+      "0": 3,
+      "400440": 412382,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. John Garamendi [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412382,
-      "": "CA",
-      "__1": 3,
-      "__2": "Aye",
-      "__3": "Rep. John Garamendi [D]",
-      "__4": "Democrat"
+      "0": 37,
+      "400440": 412404,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Karen Bass [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412404,
-      "": "CA",
-      "__1": 37,
-      "__2": "Aye",
-      "__3": "Rep. Karen Bass [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 412510,
+      "AK": "CA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Doug LaMalfa [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412510,
-      "": "CA",
-      "__1": 1,
-      "__2": "No",
-      "__3": "Rep. Doug LaMalfa [R]",
-      "__4": "Republican"
+      "0": 2,
+      "400440": 412511,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Jared Huffman [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412511,
-      "": "CA",
-      "__1": 2,
-      "__2": "Aye",
-      "__3": "Rep. Jared Huffman [D]",
-      "__4": "Democrat"
+      "0": 7,
+      "400440": 412512,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Ami Bera [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412512,
-      "": "CA",
-      "__1": 7,
-      "__2": "Aye",
-      "__3": "Rep. Ami Bera [D]",
-      "__4": "Democrat"
+      "0": 8,
+      "400440": 412513,
+      "AK": "CA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Paul Cook [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412513,
-      "": "CA",
-      "__1": 8,
-      "__2": "No",
-      "__3": "Rep. Paul Cook [R]",
-      "__4": "Republican"
+      "0": 15,
+      "400440": 412514,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Eric Swalwell [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412514,
-      "": "CA",
-      "__1": 15,
-      "__2": "Aye",
-      "__3": "Rep. Eric Swalwell [D]",
-      "__4": "Democrat"
+      "0": 26,
+      "400440": 412516,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Julia Brownley [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412516,
-      "": "CA",
-      "__1": 26,
-      "__2": "Aye",
-      "__3": "Rep. Julia Brownley [D]",
-      "__4": "Democrat"
+      "0": 29,
+      "400440": 412517,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Tony Cárdenas [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412517,
-      "": "CA",
-      "__1": 29,
-      "__2": "Aye",
-      "__3": "Rep. Tony Cárdenas [D]",
-      "__4": "Democrat"
+      "0": 36,
+      "400440": 412519,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Raul Ruiz [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412519,
-      "": "CA",
-      "__1": 36,
-      "__2": "Aye",
-      "__3": "Rep. Raul Ruiz [D]",
-      "__4": "Democrat"
+      "0": 41,
+      "400440": 412520,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Mark Takano [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412520,
-      "": "CA",
-      "__1": 41,
-      "__2": "Aye",
-      "__3": "Rep. Mark Takano [D]",
-      "__4": "Democrat"
+      "0": 47,
+      "400440": 412521,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Alan Lowenthal [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412521,
-      "": "CA",
-      "__1": 47,
-      "__2": "Aye",
-      "__3": "Rep. Alan Lowenthal [D]",
-      "__4": "Democrat"
+      "0": 51,
+      "400440": 412522,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Juan Vargas [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412522,
-      "": "CA",
-      "__1": 51,
-      "__2": "Aye",
-      "__3": "Rep. Juan Vargas [D]",
-      "__4": "Democrat"
+      "0": 52,
+      "400440": 412523,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Scott Peters [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412523,
-      "": "CA",
-      "__1": 52,
-      "__2": "Aye",
-      "__3": "Rep. Scott Peters [D]",
-      "__4": "Democrat"
+      "0": 11,
+      "400440": 412613,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Mark DeSaulnier [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412613,
-      "": "CA",
-      "__1": 11,
-      "__2": "Aye",
-      "__3": "Rep. Mark DeSaulnier [D]",
-      "__4": "Democrat"
+      "0": 31,
+      "400440": 412615,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Pete Aguilar [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412615,
-      "": "CA",
-      "__1": 31,
-      "__2": "Aye",
-      "__3": "Rep. Pete Aguilar [D]",
-      "__4": "Democrat"
+      "0": 33,
+      "400440": 412616,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Ted Lieu [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412616,
-      "": "CA",
-      "__1": 33,
-      "__2": "Aye",
-      "__3": "Rep. Ted Lieu [D]",
-      "__4": "Democrat"
+      "0": 35,
+      "400440": 412617,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Norma Torres [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412617,
-      "": "CA",
-      "__1": 35,
-      "__2": "Aye",
-      "__3": "Rep. Norma Torres [D]",
-      "__4": "Democrat"
+      "0": 17,
+      "400440": 412684,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Ro Khanna [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412684,
-      "": "CA",
-      "__1": 17,
-      "__2": "Aye",
-      "__3": "Rep. Ro Khanna [D]",
-      "__4": "Democrat"
+      "0": 20,
+      "400440": 412685,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Jimmy Panetta [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412685,
-      "": "CA",
-      "__1": 20,
-      "__2": "Aye",
-      "__3": "Rep. Jimmy Panetta [D]",
-      "__4": "Democrat"
+      "0": 24,
+      "400440": 412686,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Salud Carbajal [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412686,
-      "": "CA",
-      "__1": 24,
-      "__2": "Aye",
-      "__3": "Rep. Salud Carbajal [D]",
-      "__4": "Democrat"
+      "0": 44,
+      "400440": 412687,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Nanette Barragán [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412687,
-      "": "CA",
-      "__1": 44,
-      "__2": "Aye",
-      "__3": "Rep. Nanette Barragán [D]",
-      "__4": "Democrat"
+      "0": 46,
+      "400440": 412688,
+      "AK": "CA",
+      "No": "Not Voting",
+      "Rep. Don Young [R]": "Rep. Luis Correa [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412688,
-      "": "CA",
-      "__1": 46,
-      "__2": "Not Voting",
-      "__3": "Rep. Luis Correa [D]",
-      "__4": "Democrat"
+      "0": 34,
+      "400440": 412739,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Jimmy Gomez [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412739,
-      "": "CA",
-      "__1": 34,
-      "__2": "Aye",
-      "__3": "Rep. Jimmy Gomez [D]",
-      "__4": "Democrat"
+      "0": 10,
+      "400440": 412754,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Josh Harder [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412754,
-      "": "CA",
-      "__1": 10,
-      "__2": "Aye",
-      "__3": "Rep. Josh Harder [D]",
-      "__4": "Democrat"
+      "0": 21,
+      "400440": 412755,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. TJ Cox [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412755,
-      "": "CA",
-      "__1": 21,
-      "__2": "Aye",
-      "__3": "Rep. TJ Cox [D]",
-      "__4": "Democrat"
+      "0": 25,
+      "400440": 412756,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Katie Hill [D, 2019-2019]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412756,
-      "": "CA",
-      "__1": 25,
-      "__2": "Aye",
-      "__3": "Rep. Katie Hill [D, 2019-2019]",
-      "__4": "Democrat"
+      "0": 39,
+      "400440": 412757,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Gilbert Cisneros [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412757,
-      "": "CA",
-      "__1": 39,
-      "__2": "Aye",
-      "__3": "Rep. Gilbert Cisneros [D]",
-      "__4": "Democrat"
+      "0": 45,
+      "400440": 412758,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Katie Porter [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412758,
-      "": "CA",
-      "__1": 45,
-      "__2": "Aye",
-      "__3": "Rep. Katie Porter [D]",
-      "__4": "Democrat"
+      "0": 48,
+      "400440": 412759,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Harley Rouda [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412759,
-      "": "CA",
-      "__1": 48,
-      "__2": "Aye",
-      "__3": "Rep. Harley Rouda [D]",
-      "__4": "Democrat"
+      "0": 49,
+      "400440": 412760,
+      "AK": "CA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Mike Levin [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412760,
-      "": "CA",
-      "__1": 49,
-      "__2": "Aye",
-      "__3": "Rep. Mike Levin [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 400101,
+      "AK": "CO",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Diana DeGette [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400101,
-      "": "CO",
-      "__1": 1,
-      "__2": "Aye",
-      "__3": "Rep. Diana DeGette [D]",
-      "__4": "Democrat"
+      "0": 5,
+      "400440": 412191,
+      "AK": "CO",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Doug Lamborn [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412191,
-      "": "CO",
-      "__1": 5,
-      "__2": "No",
-      "__3": "Rep. Doug Lamborn [R]",
-      "__4": "Republican"
+      "0": 7,
+      "400440": 412192,
+      "AK": "CO",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Ed Perlmutter [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412192,
-      "": "CO",
-      "__1": 7,
-      "__2": "Aye",
-      "__3": "Rep. Ed Perlmutter [D]",
-      "__4": "Democrat"
+      "0": 3,
+      "400440": 412405,
+      "AK": "CO",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Scott Tipton [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412405,
-      "": "CO",
-      "__1": 3,
-      "__2": "No",
-      "__3": "Rep. Scott Tipton [R]",
-      "__4": "Republican"
+      "0": 4,
+      "400440": 412619,
+      "AK": "CO",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Ken Buck [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412619,
-      "": "CO",
-      "__1": 4,
-      "__2": "No",
-      "__3": "Rep. Ken Buck [R]",
-      "__4": "Republican"
+      "0": 2,
+      "400440": 412761,
+      "AK": "CO",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Joe Neguse [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412761,
-      "": "CO",
-      "__1": 2,
-      "__2": "Aye",
-      "__3": "Rep. Joe Neguse [D]",
-      "__4": "Democrat"
+      "0": 6,
+      "400440": 412762,
+      "AK": "CO",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Jason Crow [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412762,
-      "": "CO",
-      "__1": 6,
-      "__2": "Aye",
-      "__3": "Rep. Jason Crow [D]",
-      "__4": "Democrat"
+      "0": 3,
+      "400440": 400103,
+      "AK": "CT",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Rosa DeLauro [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400103,
-      "": "CT",
-      "__1": 3,
-      "__2": "Aye",
-      "__3": "Rep. Rosa DeLauro [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 400233,
+      "AK": "CT",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. John Larson [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400233,
-      "": "CT",
-      "__1": 1,
-      "__2": "Aye",
-      "__3": "Rep. John Larson [D]",
-      "__4": "Democrat"
+      "0": 2,
+      "400440": 412193,
+      "AK": "CT",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Joe Courtney [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412193,
-      "": "CT",
-      "__1": 2,
-      "__2": "Aye",
-      "__3": "Rep. Joe Courtney [D]",
-      "__4": "Democrat"
+      "0": 4,
+      "400440": 412282,
+      "AK": "CT",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. James Himes [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412282,
-      "": "CT",
-      "__1": 4,
-      "__2": "Aye",
-      "__3": "Rep. James Himes [D]",
-      "__4": "Democrat"
+      "0": 5,
+      "400440": 412763,
+      "AK": "CT",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Jahana Hayes [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412763,
-      "": "CT",
-      "__1": 5,
-      "__2": "Aye",
-      "__3": "Rep. Jahana Hayes [D]",
-      "__4": "Democrat"
+      "0": 0,
+      "400440": 412689,
+      "AK": "DE",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Lisa Blunt Rochester [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412689,
-      "": "DE",
-      "__1": 0,
-      "__2": "Aye",
-      "__3": "Rep. Lisa Blunt Rochester [D]",
-      "__4": "Democrat"
+      "0": 25,
+      "400440": 400108,
+      "AK": "FL",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Mario Diaz-Balart [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400108,
-      "": "FL",
-      "__1": 25,
-      "__2": "No",
-      "__3": "Rep. Mario Diaz-Balart [R]",
-      "__4": "Republican"
+      "0": 20,
+      "400440": 400170,
+      "AK": "FL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Alcee Hastings [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400170,
-      "": "FL",
-      "__1": 20,
-      "__2": "Aye",
-      "__3": "Rep. Alcee Hastings [D]",
-      "__4": "Democrat"
+      "0": 23,
+      "400440": 400623,
+      "AK": "FL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Debbie Wasserman Schultz [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400623,
-      "": "FL",
-      "__1": 23,
-      "__2": "Aye",
-      "__3": "Rep. Debbie Wasserman Schultz [D]",
-      "__4": "Democrat"
+      "0": 14,
+      "400440": 412195,
+      "AK": "FL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Kathy Castor [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412195,
-      "": "FL",
-      "__1": 14,
-      "__2": "Aye",
-      "__3": "Rep. Kathy Castor [D]",
-      "__4": "Democrat"
+      "0": 16,
+      "400440": 412196,
+      "AK": "FL",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Vern Buchanan [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412196,
-      "": "FL",
-      "__1": 16,
-      "__2": "No",
-      "__3": "Rep. Vern Buchanan [R]",
-      "__4": "Republican"
+      "0": 12,
+      "400440": 412250,
+      "AK": "FL",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Gus Bilirakis [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412250,
-      "": "FL",
-      "__1": 12,
-      "__2": "No",
-      "__3": "Rep. Gus Bilirakis [R]",
-      "__4": "Republican"
+      "0": 8,
+      "400440": 412309,
+      "AK": "FL",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Bill Posey [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412309,
-      "": "FL",
-      "__1": 8,
-      "__2": "No",
-      "__3": "Rep. Bill Posey [R]",
-      "__4": "Republican"
+      "0": 22,
+      "400440": 412385,
+      "AK": "FL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Theodore Deutch [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412385,
-      "": "FL",
-      "__1": 22,
-      "__2": "Aye",
-      "__3": "Rep. Theodore Deutch [D]",
-      "__4": "Democrat"
+      "0": 11,
+      "400440": 412410,
+      "AK": "FL",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Daniel Webster [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412410,
-      "": "FL",
-      "__1": 11,
-      "__2": "No",
-      "__3": "Rep. Daniel Webster [R]",
-      "__4": "Republican"
+      "0": 24,
+      "400440": 412412,
+      "AK": "FL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Frederica Wilson [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412412,
-      "": "FL",
-      "__1": 24,
-      "__2": "Aye",
-      "__3": "Rep. Frederica Wilson [D]",
-      "__4": "Democrat"
+      "0": 3,
+      "400440": 412525,
+      "AK": "FL",
+      "No": "Not Voting",
+      "Rep. Don Young [R]": "Rep. Ted Yoho [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412525,
-      "": "FL",
-      "__1": 3,
-      "__2": "Not Voting",
-      "__3": "Rep. Ted Yoho [R]",
-      "__4": "Republican"
+      "0": 21,
+      "400440": 412529,
+      "AK": "FL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Lois Frankel [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412529,
-      "": "FL",
-      "__1": 21,
-      "__2": "Aye",
-      "__3": "Rep. Lois Frankel [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 412690,
+      "AK": "FL",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Matt Gaetz [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412690,
-      "": "FL",
-      "__1": 1,
-      "__2": "No",
-      "__3": "Rep. Matt Gaetz [R]",
-      "__4": "Republican"
+      "0": 2,
+      "400440": 412691,
+      "AK": "FL",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Neal Dunn [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412691,
-      "": "FL",
-      "__1": 2,
-      "__2": "No",
-      "__3": "Rep. Neal Dunn [R]",
-      "__4": "Republican"
+      "0": 4,
+      "400440": 412692,
+      "AK": "FL",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. John Rutherford [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412692,
-      "": "FL",
-      "__1": 4,
-      "__2": "No",
-      "__3": "Rep. John Rutherford [R]",
-      "__4": "Republican"
+      "0": 5,
+      "400440": 412693,
+      "AK": "FL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Al Lawson [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412693,
-      "": "FL",
-      "__1": 5,
-      "__2": "Aye",
-      "__3": "Rep. Al Lawson [D]",
-      "__4": "Democrat"
+      "0": 7,
+      "400440": 412694,
+      "AK": "FL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Stephanie Murphy [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412694,
-      "": "FL",
-      "__1": 7,
-      "__2": "Aye",
-      "__3": "Rep. Stephanie Murphy [D]",
-      "__4": "Democrat"
+      "0": 9,
+      "400440": 412695,
+      "AK": "FL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Darren Soto [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412695,
-      "": "FL",
-      "__1": 9,
-      "__2": "Aye",
-      "__3": "Rep. Darren Soto [D]",
-      "__4": "Democrat"
+      "0": 10,
+      "400440": 412696,
+      "AK": "FL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Val Demings [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412696,
-      "": "FL",
-      "__1": 10,
-      "__2": "Aye",
-      "__3": "Rep. Val Demings [D]",
-      "__4": "Democrat"
+      "0": 13,
+      "400440": 412697,
+      "AK": "FL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Charlie Crist [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412697,
-      "": "FL",
-      "__1": 13,
-      "__2": "Aye",
-      "__3": "Rep. Charlie Crist [D]",
-      "__4": "Democrat"
+      "0": 18,
+      "400440": 412698,
+      "AK": "FL",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Brian Mast [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412698,
-      "": "FL",
-      "__1": 18,
-      "__2": "No",
-      "__3": "Rep. Brian Mast [R]",
-      "__4": "Republican"
+      "0": 19,
+      "400440": 412699,
+      "AK": "FL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Francis Rooney [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412699,
-      "": "FL",
-      "__1": 19,
-      "__2": "Aye",
-      "__3": "Rep. Francis Rooney [R]",
-      "__4": "Republican"
+      "0": 6,
+      "400440": 412764,
+      "AK": "FL",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Michael Waltz [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412764,
-      "": "FL",
-      "__1": 6,
-      "__2": "No",
-      "__3": "Rep. Michael Waltz [R]",
-      "__4": "Republican"
+      "0": 15,
+      "400440": 412765,
+      "AK": "FL",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Ross Spano [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412765,
-      "": "FL",
-      "__1": 15,
-      "__2": "No",
-      "__3": "Rep. Ross Spano [R]",
-      "__4": "Republican"
+      "0": 17,
+      "400440": 412766,
+      "AK": "FL",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Gregory Steube [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412766,
-      "": "FL",
-      "__1": 17,
-      "__2": "No",
-      "__3": "Rep. Gregory Steube [R]",
-      "__4": "Republican"
+      "0": 26,
+      "400440": 412767,
+      "AK": "FL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Debbie Mucarsel-Powell [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412767,
-      "": "FL",
-      "__1": 26,
-      "__2": "Aye",
-      "__3": "Rep. Debbie Mucarsel-Powell [D]",
-      "__4": "Democrat"
+      "0": 27,
+      "400440": 412768,
+      "AK": "FL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Donna Shalala [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412768,
-      "": "FL",
-      "__1": 27,
-      "__2": "Aye",
-      "__3": "Rep. Donna Shalala [D]",
-      "__4": "Democrat"
+      "0": 2,
+      "400440": 400030,
+      "AK": "GA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Sanford Bishop Jr. [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400030,
-      "": "GA",
-      "__1": 2,
-      "__2": "Aye",
-      "__3": "Rep. Sanford Bishop Jr. [D]",
-      "__4": "Democrat"
+      "0": 5,
+      "400440": 400240,
+      "AK": "GA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. John Lewis [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400240,
-      "": "GA",
-      "__1": 5,
-      "__2": "Aye",
-      "__3": "Rep. John Lewis [D]",
-      "__4": "Democrat"
+      "0": 13,
+      "400440": 400363,
+      "AK": "GA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. David Scott [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400363,
-      "": "GA",
-      "__1": 13,
-      "__2": "Aye",
-      "__3": "Rep. David Scott [D]",
-      "__4": "Democrat"
+      "0": 4,
+      "400440": 412199,
+      "AK": "GA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Henry “Hank” Johnson Jr. [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412199,
-      "": "GA",
-      "__1": 4,
-      "__2": "Aye",
-      "__3": "Rep. Henry “Hank” Johnson Jr. [D]",
-      "__4": "Democrat"
+      "0": 14,
+      "400440": 412388,
+      "AK": "GA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Tom Graves [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412388,
-      "": "GA",
-      "__1": 14,
-      "__2": "No",
-      "__3": "Rep. Tom Graves [R]",
-      "__4": "Republican"
+      "0": 7,
+      "400440": 412416,
+      "AK": "GA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Rob Woodall [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412416,
-      "": "GA",
-      "__1": 7,
-      "__2": "No",
-      "__3": "Rep. Rob Woodall [R]",
-      "__4": "Republican"
+      "0": 8,
+      "400440": 412417,
+      "AK": "GA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Austin Scott [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412417,
-      "": "GA",
-      "__1": 8,
-      "__2": "No",
-      "__3": "Rep. Austin Scott [R]",
-      "__4": "Republican"
+      "0": 9,
+      "400440": 412531,
+      "AK": "GA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Doug Collins [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412531,
-      "": "GA",
-      "__1": 9,
-      "__2": "No",
-      "__3": "Rep. Doug Collins [R]",
-      "__4": "Republican"
+      "0": 1,
+      "400440": 412622,
+      "AK": "GA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Buddy Carter [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412622,
-      "": "GA",
-      "__1": 1,
-      "__2": "No",
-      "__3": "Rep. Buddy Carter [R]",
-      "__4": "Republican"
+      "0": 10,
+      "400440": 412623,
+      "AK": "GA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Jody Hice [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412623,
-      "": "GA",
-      "__1": 10,
-      "__2": "No",
-      "__3": "Rep. Jody Hice [R]",
-      "__4": "Republican"
+      "0": 11,
+      "400440": 412624,
+      "AK": "GA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Barry Loudermilk [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412624,
-      "": "GA",
-      "__1": 11,
-      "__2": "No",
-      "__3": "Rep. Barry Loudermilk [R]",
-      "__4": "Republican"
+      "0": 12,
+      "400440": 412625,
+      "AK": "GA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Rick Allen [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412625,
-      "": "GA",
-      "__1": 12,
-      "__2": "No",
-      "__3": "Rep. Rick Allen [R]",
-      "__4": "Republican"
+      "0": 3,
+      "400440": 412700,
+      "AK": "GA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Drew Ferguson IV [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412700,
-      "": "GA",
-      "__1": 3,
-      "__2": "No",
-      "__3": "Rep. Drew Ferguson IV [R]",
-      "__4": "Republican"
+      "0": 6,
+      "400440": 412769,
+      "AK": "GA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Lucy McBath [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412769,
-      "": "GA",
-      "__1": 6,
-      "__2": "Aye",
-      "__3": "Rep. Lucy McBath [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 400069,
+      "AK": "HI",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Ed Case [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400069,
-      "": "HI",
-      "__1": 1,
-      "__2": "Aye",
-      "__3": "Rep. Ed Case [D]",
-      "__4": "Democrat"
+      "0": 2,
+      "400440": 412532,
+      "AK": "HI",
+      "No": "Not Voting",
+      "Rep. Don Young [R]": "Rep. Tulsi Gabbard [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412532,
-      "": "HI",
-      "__1": 2,
-      "__2": "Not Voting",
-      "__3": "Rep. Tulsi Gabbard [D]",
-      "__4": "Democrat"
+      "0": 4,
+      "400440": 400220,
+      "AK": "IA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Steve King [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400220,
-      "": "IA",
-      "__1": 4,
-      "__2": "No",
-      "__3": "Rep. Steve King [R]",
-      "__4": "Republican"
+      "0": 2,
+      "400440": 412209,
+      "AK": "IA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. David Loebsack [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412209,
-      "": "IA",
-      "__1": 2,
-      "__2": "Aye",
-      "__3": "Rep. David Loebsack [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 412771,
+      "AK": "IA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Abby Finkenauer [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412771,
-      "": "IA",
-      "__1": 1,
-      "__2": "Aye",
-      "__3": "Rep. Abby Finkenauer [D]",
-      "__4": "Democrat"
+      "0": 3,
+      "400440": 412772,
+      "AK": "IA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Cynthia Axne [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412772,
-      "": "IA",
-      "__1": 3,
-      "__2": "Aye",
-      "__3": "Rep. Cynthia Axne [D]",
-      "__4": "Democrat"
+      "0": 2,
+      "400440": 400376,
+      "AK": "ID",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Michael “Mike” Simpson [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400376,
-      "": "ID",
-      "__1": 2,
-      "__2": "No",
-      "__3": "Rep. Michael “Mike” Simpson [R]",
-      "__4": "Republican"
+      "0": 1,
+      "400440": 412773,
+      "AK": "ID",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Russ Fulcher [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412773,
-      "": "ID",
-      "__1": 1,
-      "__2": "No",
-      "__3": "Rep. Russ Fulcher [R]",
-      "__4": "Republican"
+      "0": 7,
+      "400440": 400093,
+      "AK": "IL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Danny Davis [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400093,
-      "": "IL",
-      "__1": 7,
-      "__2": "Aye",
-      "__3": "Rep. Danny Davis [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 400350,
+      "AK": "IL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Bobby Rush [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400350,
-      "": "IL",
-      "__1": 1,
-      "__2": "Aye",
-      "__3": "Rep. Bobby Rush [D]",
-      "__4": "Democrat"
+      "0": 9,
+      "400440": 400360,
+      "AK": "IL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Janice “Jan” Schakowsky [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400360,
-      "": "IL",
-      "__1": 9,
-      "__2": "Aye",
-      "__3": "Rep. Janice “Jan” Schakowsky [D]",
-      "__4": "Democrat"
+      "0": 15,
+      "400440": 400373,
+      "AK": "IL",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. John Shimkus [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400373,
-      "": "IL",
-      "__1": 15,
-      "__2": "No",
-      "__3": "Rep. John Shimkus [R]",
-      "__4": "Republican"
+      "0": 3,
+      "400440": 400630,
+      "AK": "IL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Daniel Lipinski [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400630,
-      "": "IL",
-      "__1": 3,
-      "__2": "Aye",
-      "__3": "Rep. Daniel Lipinski [D]",
-      "__4": "Democrat"
+      "0": 11,
+      "400440": 412257,
+      "AK": "IL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Bill Foster [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412257,
-      "": "IL",
-      "__1": 11,
-      "__2": "Aye",
-      "__3": "Rep. Bill Foster [D]",
-      "__4": "Democrat"
+      "0": 5,
+      "400440": 412331,
+      "AK": "IL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Mike Quigley [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412331,
-      "": "IL",
-      "__1": 5,
-      "__2": "Aye",
-      "__3": "Rep. Mike Quigley [D]",
-      "__4": "Democrat"
+      "0": 16,
+      "400440": 412421,
+      "AK": "IL",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Adam Kinzinger [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412421,
-      "": "IL",
-      "__1": 16,
-      "__2": "No",
-      "__3": "Rep. Adam Kinzinger [R]",
-      "__4": "Republican"
+      "0": 10,
+      "400440": 412534,
+      "AK": "IL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Bradley Schneider [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412534,
-      "": "IL",
-      "__1": 10,
-      "__2": "Aye",
-      "__3": "Rep. Bradley Schneider [D]",
-      "__4": "Democrat"
+      "0": 13,
+      "400440": 412536,
+      "AK": "IL",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Rodney Davis [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412536,
-      "": "IL",
-      "__1": 13,
-      "__2": "No",
-      "__3": "Rep. Rodney Davis [R]",
-      "__4": "Republican"
+      "0": 17,
+      "400440": 412537,
+      "AK": "IL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Cheri Bustos [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412537,
-      "": "IL",
-      "__1": 17,
-      "__2": "Aye",
-      "__3": "Rep. Cheri Bustos [D]",
-      "__4": "Democrat"
+      "0": 2,
+      "400440": 412595,
+      "AK": "IL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Robin Kelly [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412595,
-      "": "IL",
-      "__1": 2,
-      "__2": "Aye",
-      "__3": "Rep. Robin Kelly [D]",
-      "__4": "Democrat"
+      "0": 12,
+      "400440": 412629,
+      "AK": "IL",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Mike Bost [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412629,
-      "": "IL",
-      "__1": 12,
-      "__2": "No",
-      "__3": "Rep. Mike Bost [R]",
-      "__4": "Republican"
+      "0": 18,
+      "400440": 412674,
+      "AK": "IL",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Darin LaHood [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412674,
-      "": "IL",
-      "__1": 18,
-      "__2": "No",
-      "__3": "Rep. Darin LaHood [R]",
-      "__4": "Republican"
+      "0": 8,
+      "400440": 412701,
+      "AK": "IL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Raja Krishnamoorthi [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412701,
-      "": "IL",
-      "__1": 8,
-      "__2": "Aye",
-      "__3": "Rep. Raja Krishnamoorthi [D]",
-      "__4": "Democrat"
+      "0": 4,
+      "400440": 412774,
+      "AK": "IL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Jesús García [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412774,
-      "": "IL",
-      "__1": 4,
-      "__2": "Aye",
-      "__3": "Rep. Jesús García [D]",
-      "__4": "Democrat"
+      "0": 6,
+      "400440": 412775,
+      "AK": "IL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Sean Casten [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412775,
-      "": "IL",
-      "__1": 6,
-      "__2": "Aye",
-      "__3": "Rep. Sean Casten [D]",
-      "__4": "Democrat"
+      "0": 14,
+      "400440": 412776,
+      "AK": "IL",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Lauren Underwood [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412776,
-      "": "IL",
-      "__1": 14,
-      "__2": "Aye",
-      "__3": "Rep. Lauren Underwood [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 400417,
+      "AK": "IN",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Peter Visclosky [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400417,
-      "": "IN",
-      "__1": 1,
-      "__2": "Aye",
-      "__3": "Rep. Peter Visclosky [D]",
-      "__4": "Democrat"
+      "0": 7,
+      "400440": 412258,
+      "AK": "IN",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. André Carson [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412258,
-      "": "IN",
-      "__1": 7,
-      "__2": "Aye",
-      "__3": "Rep. André Carson [D]",
-      "__4": "Democrat"
+      "0": 8,
+      "400440": 412427,
+      "AK": "IN",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Larry Bucshon [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412427,
-      "": "IN",
-      "__1": 8,
-      "__2": "No",
-      "__3": "Rep. Larry Bucshon [R]",
-      "__4": "Republican"
+      "0": 2,
+      "400440": 412538,
+      "AK": "IN",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Jackie Walorski [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412538,
-      "": "IN",
-      "__1": 2,
-      "__2": "No",
-      "__3": "Rep. Jackie Walorski [R]",
-      "__4": "Republican"
+      "0": 5,
+      "400440": 412539,
+      "AK": "IN",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Susan Brooks [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412539,
-      "": "IN",
-      "__1": 5,
-      "__2": "No",
-      "__3": "Rep. Susan Brooks [R]",
-      "__4": "Republican"
+      "0": 3,
+      "400440": 412702,
+      "AK": "IN",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Jim Banks [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412702,
-      "": "IN",
-      "__1": 3,
-      "__2": "No",
-      "__3": "Rep. Jim Banks [R]",
-      "__4": "Republican"
+      "0": 9,
+      "400440": 412703,
+      "AK": "IN",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Trey Hollingsworth [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412703,
-      "": "IN",
-      "__1": 9,
-      "__2": "No",
-      "__3": "Rep. Trey Hollingsworth [R]",
-      "__4": "Republican"
+      "0": 4,
+      "400440": 412777,
+      "AK": "IN",
+      "No": "Not Voting",
+      "Rep. Don Young [R]": "Rep. James Baird [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412777,
-      "": "IN",
-      "__1": 4,
-      "__2": "Not Voting",
-      "__3": "Rep. James Baird [R]",
-      "__4": "Republican"
+      "0": 6,
+      "400440": 412778,
+      "AK": "IN",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Greg Pence [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412778,
-      "": "IN",
-      "__1": 6,
-      "__2": "No",
-      "__3": "Rep. Greg Pence [R]",
-      "__4": "Republican"
+      "0": 1,
+      "400440": 412704,
+      "AK": "KS",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Roger Marshall [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412704,
-      "": "KS",
-      "__1": 1,
-      "__2": "No",
-      "__3": "Rep. Roger Marshall [R]",
-      "__4": "Republican"
+      "0": 4,
+      "400440": 412735,
+      "AK": "KS",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Ron Estes [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412735,
-      "": "KS",
-      "__1": 4,
-      "__2": "No",
-      "__3": "Rep. Ron Estes [R]",
-      "__4": "Republican"
+      "0": 2,
+      "400440": 412779,
+      "AK": "KS",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Steven Watkins [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412779,
-      "": "KS",
-      "__1": 2,
-      "__2": "No",
-      "__3": "Rep. Steven Watkins [R]",
-      "__4": "Republican"
+      "0": 3,
+      "400440": 412780,
+      "AK": "KS",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Sharice Davids [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412780,
-      "": "KS",
-      "__1": 3,
-      "__2": "Aye",
-      "__3": "Rep. Sharice Davids [D]",
-      "__4": "Democrat"
+      "0": 5,
+      "400440": 400340,
+      "AK": "KY",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Harold “Hal” Rogers [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400340,
-      "": "KY",
-      "__1": 5,
-      "__2": "No",
-      "__3": "Rep. Harold “Hal” Rogers [R]",
-      "__4": "Republican"
+      "0": 3,
+      "400440": 412211,
+      "AK": "KY",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. John Yarmuth [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412211,
-      "": "KY",
-      "__1": 3,
-      "__2": "Aye",
-      "__3": "Rep. John Yarmuth [D]",
-      "__4": "Democrat"
+      "0": 2,
+      "400440": 412278,
+      "AK": "KY",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Brett Guthrie [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412278,
-      "": "KY",
-      "__1": 2,
-      "__2": "No",
-      "__3": "Rep. Brett Guthrie [R]",
-      "__4": "Republican"
+      "0": 4,
+      "400440": 412503,
+      "AK": "KY",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Thomas Massie [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412503,
-      "": "KY",
-      "__1": 4,
-      "__2": "No",
-      "__3": "Rep. Thomas Massie [R]",
-      "__4": "Republican"
+      "0": 6,
+      "400440": 412541,
+      "AK": "KY",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Garland “Andy” Barr [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412541,
-      "": "KY",
-      "__1": 6,
-      "__2": "No",
-      "__3": "Rep. Garland “Andy” Barr [R]",
-      "__4": "Republican"
+      "0": 1,
+      "400440": 412676,
+      "AK": "KY",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. James Comer [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412676,
-      "": "KY",
-      "__1": 1,
-      "__2": "No",
-      "__3": "Rep. James Comer [R]",
-      "__4": "Republican"
+      "0": 1,
+      "400440": 412261,
+      "AK": "LA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Steve Scalise [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412261,
-      "": "LA",
-      "__1": 1,
-      "__2": "No",
-      "__3": "Rep. Steve Scalise [R]",
-      "__4": "Republican"
+      "0": 2,
+      "400440": 412432,
+      "AK": "LA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Cedric Richmond [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412432,
-      "": "LA",
-      "__1": 2,
-      "__2": "Aye",
-      "__3": "Rep. Cedric Richmond [D]",
-      "__4": "Democrat"
+      "0": 5,
+      "400440": 412630,
+      "AK": "LA",
+      "No": "Not Voting",
+      "Rep. Don Young [R]": "Rep. Ralph Abraham [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412630,
-      "": "LA",
-      "__1": 5,
-      "__2": "Not Voting",
-      "__3": "Rep. Ralph Abraham [R]",
-      "__4": "Republican"
+      "0": 6,
+      "400440": 412631,
+      "AK": "LA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Garret Graves [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412631,
-      "": "LA",
-      "__1": 6,
-      "__2": "No",
-      "__3": "Rep. Garret Graves [R]",
-      "__4": "Republican"
+      "0": 3,
+      "400440": 412705,
+      "AK": "LA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Clay Higgins [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412705,
-      "": "LA",
-      "__1": 3,
-      "__2": "No",
-      "__3": "Rep. Clay Higgins [R]",
-      "__4": "Republican"
+      "0": 4,
+      "400440": 412706,
+      "AK": "LA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Mike Johnson [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412706,
-      "": "LA",
-      "__1": 4,
-      "__2": "No",
-      "__3": "Rep. Mike Johnson [R]",
-      "__4": "Republican"
+      "0": 8,
+      "400440": 400249,
+      "AK": "MA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Stephen Lynch [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400249,
-      "": "MA",
-      "__1": 8,
-      "__2": "Aye",
-      "__3": "Rep. Stephen Lynch [D]",
-      "__4": "Democrat"
+      "0": 2,
+      "400440": 400263,
+      "AK": "MA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. James “Jim” McGovern [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400263,
-      "": "MA",
-      "__1": 2,
-      "__2": "Aye",
-      "__3": "Rep. James “Jim” McGovern [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 400291,
+      "AK": "MA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Richard Neal [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400291,
-      "": "MA",
-      "__1": 1,
-      "__2": "Aye",
-      "__3": "Rep. Richard Neal [D]",
-      "__4": "Democrat"
+      "0": 9,
+      "400440": 412435,
+      "AK": "MA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. William Keating [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412435,
-      "": "MA",
-      "__1": 9,
-      "__2": "Aye",
-      "__3": "Rep. William Keating [D]",
-      "__4": "Democrat"
+      "0": 4,
+      "400440": 412543,
+      "AK": "MA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Joseph Kennedy III [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412543,
-      "": "MA",
-      "__1": 4,
-      "__2": "Aye",
-      "__3": "Rep. Joseph Kennedy III [D]",
-      "__4": "Democrat"
+      "0": 5,
+      "400440": 412600,
+      "AK": "MA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Katherine Clark [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412600,
-      "": "MA",
-      "__1": 5,
-      "__2": "Aye",
-      "__3": "Rep. Katherine Clark [D]",
-      "__4": "Democrat"
+      "0": 6,
+      "400440": 412632,
+      "AK": "MA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Seth Moulton [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412632,
-      "": "MA",
-      "__1": 6,
-      "__2": "Aye",
-      "__3": "Rep. Seth Moulton [D]",
-      "__4": "Democrat"
+      "0": 3,
+      "400440": 412781,
+      "AK": "MA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Lori Trahan [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412781,
-      "": "MA",
-      "__1": 3,
-      "__2": "Aye",
-      "__3": "Rep. Lori Trahan [D]",
-      "__4": "Democrat"
+      "0": 7,
+      "400440": 412782,
+      "AK": "MA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Ayanna Pressley [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412782,
-      "": "MA",
-      "__1": 7,
-      "__2": "Aye",
-      "__3": "Rep. Ayanna Pressley [D]",
-      "__4": "Democrat"
+      "0": 7,
+      "400440": 400090,
+      "AK": "MD",
+      "No": "Not Voting",
+      "Rep. Don Young [R]": "Rep. Elijah Cummings [D, 1996-2019]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400090,
-      "": "MD",
-      "__1": 7,
-      "__2": "Not Voting",
-      "__3": "Rep. Elijah Cummings [D, 1996-2019]",
-      "__4": "Democrat"
+      "0": 5,
+      "400440": 400189,
+      "AK": "MD",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Steny Hoyer [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400189,
-      "": "MD",
-      "__1": 5,
-      "__2": "Aye",
-      "__3": "Rep. Steny Hoyer [D]",
-      "__4": "Democrat"
+      "0": 2,
+      "400440": 400349,
+      "AK": "MD",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. A. Dutch Ruppersberger [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400349,
-      "": "MD",
-      "__1": 2,
-      "__2": "Aye",
-      "__3": "Rep. A. Dutch Ruppersberger [D]",
-      "__4": "Democrat"
+      "0": 3,
+      "400440": 412212,
+      "AK": "MD",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. John Sarbanes [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412212,
-      "": "MD",
-      "__1": 3,
-      "__2": "Aye",
-      "__3": "Rep. John Sarbanes [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 412434,
+      "AK": "MD",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Andy Harris [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412434,
-      "": "MD",
-      "__1": 1,
-      "__2": "No",
-      "__3": "Rep. Andy Harris [R]",
-      "__4": "Republican"
+      "0": 4,
+      "400440": 412707,
+      "AK": "MD",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Anthony Brown [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412707,
-      "": "MD",
-      "__1": 4,
-      "__2": "Aye",
-      "__3": "Rep. Anthony Brown [D]",
-      "__4": "Democrat"
+      "0": 8,
+      "400440": 412708,
+      "AK": "MD",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Jamie Raskin [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412708,
-      "": "MD",
-      "__1": 8,
-      "__2": "Aye",
-      "__3": "Rep. Jamie Raskin [D]",
-      "__4": "Democrat"
+      "0": 6,
+      "400440": 412783,
+      "AK": "MD",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. David Trone [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412783,
-      "": "MD",
-      "__1": 6,
-      "__2": "Aye",
-      "__3": "Rep. David Trone [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 412307,
+      "AK": "ME",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Chellie Pingree [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412307,
-      "": "ME",
-      "__1": 1,
-      "__2": "Aye",
-      "__3": "Rep. Chellie Pingree [D]",
-      "__4": "Democrat"
+      "0": 2,
+      "400440": 412842,
+      "AK": "ME",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Jared Golden [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412842,
-      "": "ME",
-      "__1": 2,
-      "__2": "Aye",
-      "__3": "Rep. Jared Golden [D]",
-      "__4": "Democrat"
+      "0": 6,
+      "400440": 400414,
+      "AK": "MI",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Fred Upton [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400414,
-      "": "MI",
-      "__1": 6,
-      "__2": "No",
-      "__3": "Rep. Fred Upton [R]",
-      "__4": "Republican"
+      "0": 7,
+      "400440": 412213,
+      "AK": "MI",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Tim Walberg [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412213,
-      "": "MI",
-      "__1": 7,
-      "__2": "No",
-      "__3": "Rep. Tim Walberg [R]",
-      "__4": "Republican"
+      "0": 2,
+      "400440": 412437,
+      "AK": "MI",
+      "No": "Not Voting",
+      "Rep. Don Young [R]": "Rep. Bill Huizenga [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412437,
-      "": "MI",
-      "__1": 2,
-      "__2": "Not Voting",
-      "__3": "Rep. Bill Huizenga [R]",
-      "__4": "Republican"
+      "0": 3,
+      "400440": 412438,
+      "AK": "MI",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Justin Amash [I]",
+      "Republican": "Independent"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412438,
-      "": "MI",
-      "__1": 3,
-      "__2": "No",
-      "__3": "Rep. Justin Amash [I]",
-      "__4": "Independent"
+      "0": 5,
+      "400440": 412546,
+      "AK": "MI",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Daniel Kildee [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412546,
-      "": "MI",
-      "__1": 5,
-      "__2": "Aye",
-      "__3": "Rep. Daniel Kildee [D]",
-      "__4": "Democrat"
+      "0": 4,
+      "400440": 412634,
+      "AK": "MI",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. John Moolenaar [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412634,
-      "": "MI",
-      "__1": 4,
-      "__2": "No",
-      "__3": "Rep. John Moolenaar [R]",
-      "__4": "Republican"
+      "0": 12,
+      "400440": 412637,
+      "AK": "MI",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Debbie Dingell [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412637,
-      "": "MI",
-      "__1": 12,
-      "__2": "Aye",
-      "__3": "Rep. Debbie Dingell [D]",
-      "__4": "Democrat"
+      "0": 14,
+      "400440": 412638,
+      "AK": "MI",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Brenda Lawrence [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412638,
-      "": "MI",
-      "__1": 14,
-      "__2": "Aye",
-      "__3": "Rep. Brenda Lawrence [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 412709,
+      "AK": "MI",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Jack Bergman [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412709,
-      "": "MI",
-      "__1": 1,
-      "__2": "No",
-      "__3": "Rep. Jack Bergman [R]",
-      "__4": "Republican"
+      "0": 10,
+      "400440": 412710,
+      "AK": "MI",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Paul Mitchell [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412710,
-      "": "MI",
-      "__1": 10,
-      "__2": "No",
-      "__3": "Rep. Paul Mitchell [R]",
-      "__4": "Republican"
+      "0": 8,
+      "400440": 412784,
+      "AK": "MI",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Elissa Slotkin [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412784,
-      "": "MI",
-      "__1": 8,
-      "__2": "Aye",
-      "__3": "Rep. Elissa Slotkin [D]",
-      "__4": "Democrat"
+      "0": 9,
+      "400440": 412785,
+      "AK": "MI",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Andy Levin [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412785,
-      "": "MI",
-      "__1": 9,
-      "__2": "Aye",
-      "__3": "Rep. Andy Levin [D]",
-      "__4": "Democrat"
+      "0": 11,
+      "400440": 412786,
+      "AK": "MI",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Haley Stevens [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412786,
-      "": "MI",
-      "__1": 11,
-      "__2": "Aye",
-      "__3": "Rep. Haley Stevens [D]",
-      "__4": "Democrat"
+      "0": 13,
+      "400440": 412787,
+      "AK": "MI",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Rashida Tlaib [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412787,
-      "": "MI",
-      "__1": 13,
-      "__2": "Aye",
-      "__3": "Rep. Rashida Tlaib [D]",
-      "__4": "Democrat"
+      "0": 4,
+      "400440": 400259,
+      "AK": "MN",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Betty McCollum [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400259,
-      "": "MN",
-      "__1": 4,
-      "__2": "Aye",
-      "__3": "Rep. Betty McCollum [D]",
-      "__4": "Democrat"
+      "0": 7,
+      "400440": 400316,
+      "AK": "MN",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Collin Peterson [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400316,
-      "": "MN",
-      "__1": 7,
-      "__2": "No",
-      "__3": "Rep. Collin Peterson [D]",
-      "__4": "Democrat"
+      "0": 6,
+      "400440": 412639,
+      "AK": "MN",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Tom Emmer [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412639,
-      "": "MN",
-      "__1": 6,
-      "__2": "No",
-      "__3": "Rep. Tom Emmer [R]",
-      "__4": "Republican"
+      "0": 1,
+      "400440": 412788,
+      "AK": "MN",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Jim Hagedorn [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412788,
-      "": "MN",
-      "__1": 1,
-      "__2": "No",
-      "__3": "Rep. Jim Hagedorn [R]",
-      "__4": "Republican"
+      "0": 2,
+      "400440": 412789,
+      "AK": "MN",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Angie Craig [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412789,
-      "": "MN",
-      "__1": 2,
-      "__2": "Aye",
-      "__3": "Rep. Angie Craig [D]",
-      "__4": "Democrat"
+      "0": 3,
+      "400440": 412790,
+      "AK": "MN",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Dean Phillips [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412790,
-      "": "MN",
-      "__1": 3,
-      "__2": "Aye",
-      "__3": "Rep. Dean Phillips [D]",
-      "__4": "Democrat"
+      "0": 5,
+      "400440": 412791,
+      "AK": "MN",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Ilhan Omar [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412791,
-      "": "MN",
-      "__1": 5,
-      "__2": "Aye",
-      "__3": "Rep. Ilhan Omar [D]",
-      "__4": "Democrat"
+      "0": 8,
+      "400440": 412792,
+      "AK": "MN",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Pete Stauber [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412792,
-      "": "MN",
-      "__1": 8,
-      "__2": "No",
-      "__3": "Rep. Pete Stauber [R]",
-      "__4": "Republican"
+      "0": 1,
+      "400440": 400074,
+      "AK": "MO",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Lacy Clay Jr. [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400074,
-      "": "MO",
-      "__1": 1,
-      "__2": "Aye",
-      "__3": "Rep. Lacy Clay Jr. [D]",
-      "__4": "Democrat"
+      "0": 6,
+      "400440": 400158,
+      "AK": "MO",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Sam Graves [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400158,
-      "": "MO",
-      "__1": 6,
-      "__2": "No",
-      "__3": "Rep. Sam Graves [R]",
-      "__4": "Republican"
+      "0": 5,
+      "400440": 400639,
+      "AK": "MO",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Emanuel Cleaver II [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400639,
-      "": "MO",
-      "__1": 5,
-      "__2": "Aye",
-      "__3": "Rep. Emanuel Cleaver II [D]",
-      "__4": "Democrat"
+      "0": 3,
+      "400440": 412292,
+      "AK": "MO",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Blaine Luetkemeyer [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412292,
-      "": "MO",
-      "__1": 3,
-      "__2": "No",
-      "__3": "Rep. Blaine Luetkemeyer [R]",
-      "__4": "Republican"
+      "0": 4,
+      "400440": 412444,
+      "AK": "MO",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Vicky Hartzler [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412444,
-      "": "MO",
-      "__1": 4,
-      "__2": "No",
-      "__3": "Rep. Vicky Hartzler [R]",
-      "__4": "Republican"
+      "0": 7,
+      "400440": 412445,
+      "AK": "MO",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Billy Long [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412445,
-      "": "MO",
-      "__1": 7,
-      "__2": "No",
-      "__3": "Rep. Billy Long [R]",
-      "__4": "Republican"
+      "0": 2,
+      "400440": 412548,
+      "AK": "MO",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Ann Wagner [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412548,
-      "": "MO",
-      "__1": 2,
-      "__2": "No",
-      "__3": "Rep. Ann Wagner [R]",
-      "__4": "Republican"
+      "0": 8,
+      "400440": 412596,
+      "AK": "MO",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Jason Smith [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412596,
-      "": "MO",
-      "__1": 8,
-      "__2": "No",
-      "__3": "Rep. Jason Smith [R]",
-      "__4": "Republican"
+      "0": 2,
+      "400440": 400402,
+      "AK": "MS",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Bennie Thompson [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400402,
-      "": "MS",
-      "__1": 2,
-      "__2": "Aye",
-      "__3": "Rep. Bennie Thompson [D]",
-      "__4": "Democrat"
+      "0": 4,
+      "400440": 412443,
+      "AK": "MS",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Steven Palazzo [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412443,
-      "": "MS",
-      "__1": 4,
-      "__2": "No",
-      "__3": "Rep. Steven Palazzo [R]",
-      "__4": "Republican"
+      "0": 1,
+      "400440": 412673,
+      "AK": "MS",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Trent Kelly [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412673,
-      "": "MS",
-      "__1": 1,
-      "__2": "No",
-      "__3": "Rep. Trent Kelly [R]",
-      "__4": "Republican"
+      "0": 3,
+      "400440": 412793,
+      "AK": "MS",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Michael Guest [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412793,
-      "": "MS",
-      "__1": 3,
-      "__2": "No",
-      "__3": "Rep. Michael Guest [R]",
-      "__4": "Republican"
+      "0": 0,
+      "400440": 412736,
+      "AK": "MT",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Greg Gianforte [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412736,
-      "": "MT",
-      "__1": 0,
-      "__2": "No",
-      "__3": "Rep. Greg Gianforte [R]",
-      "__4": "Republican"
+      "0": 4,
+      "400440": 400326,
+      "AK": "NC",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. David Price [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400326,
-      "": "NC",
-      "__1": 4,
-      "__2": "Aye",
-      "__3": "Rep. David Price [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 400616,
+      "AK": "NC",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. George “G.K.” Butterfield Jr. [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400616,
-      "": "NC",
-      "__1": 1,
-      "__2": "Aye",
-      "__3": "Rep. George “G.K.” Butterfield Jr. [D]",
-      "__4": "Democrat"
+      "0": 5,
+      "400440": 400643,
+      "AK": "NC",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Virginia Foxx [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400643,
-      "": "NC",
-      "__1": 5,
-      "__2": "No",
-      "__3": "Rep. Virginia Foxx [R]",
-      "__4": "Republican"
+      "0": 10,
+      "400440": 400644,
+      "AK": "NC",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Patrick McHenry [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400644,
-      "": "NC",
-      "__1": 10,
-      "__2": "No",
-      "__3": "Rep. Patrick McHenry [R]",
-      "__4": "Republican"
+      "0": 8,
+      "400440": 412550,
+      "AK": "NC",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Richard Hudson [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412550,
-      "": "NC",
-      "__1": 8,
-      "__2": "No",
-      "__3": "Rep. Richard Hudson [R]",
-      "__4": "Republican"
+      "0": 11,
+      "400440": 412552,
+      "AK": "NC",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Mark Meadows [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412552,
-      "": "NC",
-      "__1": 11,
-      "__2": "No",
-      "__3": "Rep. Mark Meadows [R]",
-      "__4": "Republican"
+      "0": 2,
+      "400440": 412553,
+      "AK": "NC",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. George Holding [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412553,
-      "": "NC",
-      "__1": 2,
-      "__2": "No",
-      "__3": "Rep. George Holding [R]",
-      "__4": "Republican"
+      "0": 12,
+      "400440": 412607,
+      "AK": "NC",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Alma Adams [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412607,
-      "": "NC",
-      "__1": 12,
-      "__2": "Aye",
-      "__3": "Rep. Alma Adams [D]",
-      "__4": "Democrat"
+      "0": 7,
+      "400440": 412641,
+      "AK": "NC",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. David Rouzer [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412641,
-      "": "NC",
-      "__1": 7,
-      "__2": "No",
-      "__3": "Rep. David Rouzer [R]",
-      "__4": "Republican"
+      "0": 6,
+      "400440": 412670,
+      "AK": "NC",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Mark Walker [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412670,
-      "": "NC",
-      "__1": 6,
-      "__2": "No",
-      "__3": "Rep. Mark Walker [R]",
-      "__4": "Republican"
+      "0": 13,
+      "400440": 412712,
+      "AK": "NC",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Ted Budd [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412712,
-      "": "NC",
-      "__1": 13,
-      "__2": "No",
-      "__3": "Rep. Ted Budd [R]",
-      "__4": "Republican"
+      "0": 0,
+      "400440": 412794,
+      "AK": "ND",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Kelly Armstrong [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412794,
-      "": "ND",
-      "__1": 0,
-      "__2": "No",
-      "__3": "Rep. Kelly Armstrong [R]",
-      "__4": "Republican"
+      "0": 1,
+      "400440": 400640,
+      "AK": "NE",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Jeff Fortenberry [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400640,
-      "": "NE",
-      "__1": 1,
-      "__2": "No",
-      "__3": "Rep. Jeff Fortenberry [R]",
-      "__4": "Republican"
+      "0": 3,
+      "400440": 412217,
+      "AK": "NE",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Adrian Smith [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412217,
-      "": "NE",
-      "__1": 3,
-      "__2": "No",
-      "__3": "Rep. Adrian Smith [R]",
-      "__4": "Republican"
+      "0": 2,
+      "400440": 412713,
+      "AK": "NE",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Don Bacon [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412713,
-      "": "NE",
-      "__1": 2,
-      "__2": "No",
-      "__3": "Rep. Don Bacon [R]",
-      "__4": "Republican"
+      "0": 2,
+      "400440": 412557,
+      "AK": "NH",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Ann Kuster [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412557,
-      "": "NH",
-      "__1": 2,
-      "__2": "Aye",
-      "__3": "Rep. Ann Kuster [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 412795,
+      "AK": "NH",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Chris Pappas [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412795,
-      "": "NH",
-      "__1": 1,
-      "__2": "Aye",
-      "__3": "Rep. Chris Pappas [D]",
-      "__4": "Democrat"
+      "0": 6,
+      "400440": 400308,
+      "AK": "NJ",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Frank Pallone Jr. [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400308,
-      "": "NJ",
-      "__1": 6,
-      "__2": "Aye",
-      "__3": "Rep. Frank Pallone Jr. [D]",
-      "__4": "Democrat"
+      "0": 9,
+      "400440": 400309,
+      "AK": "NJ",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Bill Pascrell Jr. [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400309,
-      "": "NJ",
-      "__1": 9,
-      "__2": "Aye",
-      "__3": "Rep. Bill Pascrell Jr. [D]",
-      "__4": "Democrat"
+      "0": 4,
+      "400440": 400380,
+      "AK": "NJ",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Christopher “Chris” Smith [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400380,
-      "": "NJ",
-      "__1": 4,
-      "__2": "Aye",
-      "__3": "Rep. Christopher “Chris” Smith [R]",
-      "__4": "Republican"
+      "0": 8,
+      "400440": 412186,
+      "AK": "NJ",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Albio Sires [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412186,
-      "": "NJ",
-      "__1": 8,
-      "__2": "Aye",
-      "__3": "Rep. Albio Sires [D]",
-      "__4": "Democrat"
+      "0": 10,
+      "400440": 412506,
+      "AK": "NJ",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Donald Payne Jr. [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412506,
-      "": "NJ",
-      "__1": 10,
-      "__2": "Aye",
-      "__3": "Rep. Donald Payne Jr. [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 412606,
+      "AK": "NJ",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Donald Norcross [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412606,
-      "": "NJ",
-      "__1": 1,
-      "__2": "Aye",
-      "__3": "Rep. Donald Norcross [D]",
-      "__4": "Democrat"
+      "0": 12,
+      "400440": 412644,
+      "AK": "NJ",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Bonnie Watson Coleman [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412644,
-      "": "NJ",
-      "__1": 12,
-      "__2": "Aye",
-      "__3": "Rep. Bonnie Watson Coleman [D]",
-      "__4": "Democrat"
+      "0": 5,
+      "400440": 412714,
+      "AK": "NJ",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Josh Gottheimer [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412714,
-      "": "NJ",
-      "__1": 5,
-      "__2": "Aye",
-      "__3": "Rep. Josh Gottheimer [D]",
-      "__4": "Democrat"
+      "0": 2,
+      "400440": 412796,
+      "AK": "NJ",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Jefferson Van Drew [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412796,
-      "": "NJ",
-      "__1": 2,
-      "__2": "Aye",
-      "__3": "Rep. Jefferson Van Drew [D]",
-      "__4": "Democrat"
+      "0": 3,
+      "400440": 412797,
+      "AK": "NJ",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Andy Kim [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412797,
-      "": "NJ",
-      "__1": 3,
-      "__2": "Aye",
-      "__3": "Rep. Andy Kim [D]",
-      "__4": "Democrat"
+      "0": 7,
+      "400440": 412798,
+      "AK": "NJ",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Tom Malinowski [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412798,
-      "": "NJ",
-      "__1": 7,
-      "__2": "Aye",
-      "__3": "Rep. Tom Malinowski [D]",
-      "__4": "Democrat"
+      "0": 11,
+      "400440": 412799,
+      "AK": "NJ",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Mikie Sherrill [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412799,
-      "": "NJ",
-      "__1": 11,
-      "__2": "Aye",
-      "__3": "Rep. Mikie Sherrill [D]",
-      "__4": "Democrat"
+      "0": 3,
+      "400440": 412293,
+      "AK": "NM",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Ben Luján [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412293,
-      "": "NM",
-      "__1": 3,
-      "__2": "Aye",
-      "__3": "Rep. Ben Luján [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 412800,
+      "AK": "NM",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Debra Haaland [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412800,
-      "": "NM",
-      "__1": 1,
-      "__2": "Aye",
-      "__3": "Rep. Debra Haaland [D]",
-      "__4": "Democrat"
+      "0": 2,
+      "400440": 412801,
+      "AK": "NM",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Xochitl Torres Small [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412801,
-      "": "NM",
-      "__1": 2,
-      "__2": "Aye",
-      "__3": "Rep. Xochitl Torres Small [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 412318,
+      "AK": "NV",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Dina Titus [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412318,
-      "": "NV",
-      "__1": 1,
-      "__2": "Aye",
-      "__3": "Rep. Dina Titus [D]",
-      "__4": "Democrat"
+      "0": 2,
+      "400440": 412500,
+      "AK": "NV",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Mark Amodei [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412500,
-      "": "NV",
-      "__1": 2,
-      "__2": "No",
-      "__3": "Rep. Mark Amodei [R]",
-      "__4": "Republican"
+      "0": 4,
+      "400440": 412559,
+      "AK": "NV",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Steven Horsford [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412559,
-      "": "NV",
-      "__1": 4,
-      "__2": "Aye",
-      "__3": "Rep. Steven Horsford [D]",
-      "__4": "Democrat"
+      "0": 3,
+      "400440": 412802,
+      "AK": "NV",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Susie Lee [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412802,
-      "": "NV",
-      "__1": 3,
-      "__2": "Aye",
-      "__3": "Rep. Susie Lee [D]",
-      "__4": "Democrat"
+      "0": 16,
+      "400440": 400122,
+      "AK": "NY",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Eliot Engel [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400122,
-      "": "NY",
-      "__1": 16,
-      "__2": "Aye",
-      "__3": "Rep. Eliot Engel [D]",
-      "__4": "Democrat"
+      "0": 2,
+      "400440": 400219,
+      "AK": "NY",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Peter “Pete” King [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400219,
-      "": "NY",
-      "__1": 2,
-      "__2": "No",
-      "__3": "Rep. Peter “Pete” King [R]",
-      "__4": "Republican"
+      "0": 17,
+      "400440": 400246,
+      "AK": "NY",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Nita Lowey [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400246,
-      "": "NY",
-      "__1": 17,
-      "__2": "Aye",
-      "__3": "Rep. Nita Lowey [D]",
-      "__4": "Democrat"
+      "0": 12,
+      "400440": 400251,
+      "AK": "NY",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Carolyn Maloney [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400251,
-      "": "NY",
-      "__1": 12,
-      "__2": "Aye",
-      "__3": "Rep. Carolyn Maloney [D]",
-      "__4": "Democrat"
+      "0": 5,
+      "400440": 400271,
+      "AK": "NY",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Gregory Meeks [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400271,
-      "": "NY",
-      "__1": 5,
-      "__2": "Aye",
-      "__3": "Rep. Gregory Meeks [D]",
-      "__4": "Democrat"
+      "0": 10,
+      "400440": 400289,
+      "AK": "NY",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Jerrold Nadler [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400289,
-      "": "NY",
-      "__1": 10,
-      "__2": "Aye",
-      "__3": "Rep. Jerrold Nadler [D]",
-      "__4": "Democrat"
+      "0": 15,
+      "400440": 400366,
+      "AK": "NY",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. José Serrano [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400366,
-      "": "NY",
-      "__1": 15,
-      "__2": "Aye",
-      "__3": "Rep. José Serrano [D]",
-      "__4": "Democrat"
+      "0": 7,
+      "400440": 400416,
+      "AK": "NY",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Nydia Velázquez [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400416,
-      "": "NY",
-      "__1": 7,
-      "__2": "Aye",
-      "__3": "Rep. Nydia Velázquez [D]",
-      "__4": "Democrat"
+      "0": 26,
+      "400440": 400641,
+      "AK": "NY",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Brian Higgins [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400641,
-      "": "NY",
-      "__1": 26,
-      "__2": "Aye",
-      "__3": "Rep. Brian Higgins [D]",
-      "__4": "Democrat"
+      "0": 9,
+      "400440": 412221,
+      "AK": "NY",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Yvette Clarke [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412221,
-      "": "NY",
-      "__1": 9,
-      "__2": "Aye",
-      "__3": "Rep. Yvette Clarke [D]",
-      "__4": "Democrat"
+      "0": 20,
+      "400440": 412319,
+      "AK": "NY",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Paul Tonko [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412319,
-      "": "NY",
-      "__1": 20,
-      "__2": "Aye",
-      "__3": "Rep. Paul Tonko [D]",
-      "__4": "Democrat"
+      "0": 23,
+      "400440": 412393,
+      "AK": "NY",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Tom Reed II [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412393,
-      "": "NY",
-      "__1": 23,
-      "__2": "No",
-      "__3": "Rep. Tom Reed II [R]",
-      "__4": "Republican"
+      "0": 6,
+      "400440": 412560,
+      "AK": "NY",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Grace Meng [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412560,
-      "": "NY",
-      "__1": 6,
-      "__2": "Aye",
-      "__3": "Rep. Grace Meng [D]",
-      "__4": "Democrat"
+      "0": 8,
+      "400440": 412561,
+      "AK": "NY",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Hakeem Jeffries [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412561,
-      "": "NY",
-      "__1": 8,
-      "__2": "Aye",
-      "__3": "Rep. Hakeem Jeffries [D]",
-      "__4": "Democrat"
+      "0": 18,
+      "400440": 412562,
+      "AK": "NY",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Sean Maloney [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412562,
-      "": "NY",
-      "__1": 18,
-      "__2": "Aye",
-      "__3": "Rep. Sean Maloney [D]",
-      "__4": "Democrat"
+      "0": 27,
+      "400440": 412563,
+      "AK": "NY",
+      "No": "Not Voting",
+      "Rep. Don Young [R]": "Rep. Chris Collins [R, 2013-2019]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412563,
-      "": "NY",
-      "__1": 27,
-      "__2": "Not Voting",
-      "__3": "Rep. Chris Collins [R, 2013-2019]",
-      "__4": "Republican"
+      "0": 1,
+      "400440": 412646,
+      "AK": "NY",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Lee Zeldin [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412646,
-      "": "NY",
-      "__1": 1,
-      "__2": "No",
-      "__3": "Rep. Lee Zeldin [R]",
-      "__4": "Republican"
+      "0": 4,
+      "400440": 412647,
+      "AK": "NY",
+      "No": "Not Voting",
+      "Rep. Don Young [R]": "Rep. Kathleen Rice [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412647,
-      "": "NY",
-      "__1": 4,
-      "__2": "Not Voting",
-      "__3": "Rep. Kathleen Rice [D]",
-      "__4": "Democrat"
+      "0": 21,
+      "400440": 412648,
+      "AK": "NY",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Elise Stefanik [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412648,
-      "": "NY",
-      "__1": 21,
-      "__2": "Aye",
-      "__3": "Rep. Elise Stefanik [R]",
-      "__4": "Republican"
+      "0": 24,
+      "400440": 412649,
+      "AK": "NY",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. John Katko [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412649,
-      "": "NY",
-      "__1": 24,
-      "__2": "No",
-      "__3": "Rep. John Katko [R]",
-      "__4": "Republican"
+      "0": 3,
+      "400440": 412717,
+      "AK": "NY",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Thomas Suozzi [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412717,
-      "": "NY",
-      "__1": 3,
-      "__2": "Aye",
-      "__3": "Rep. Thomas Suozzi [D]",
-      "__4": "Democrat"
+      "0": 13,
+      "400440": 412718,
+      "AK": "NY",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Adriano Espaillat [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412718,
-      "": "NY",
-      "__1": 13,
-      "__2": "Aye",
-      "__3": "Rep. Adriano Espaillat [D]",
-      "__4": "Democrat"
+      "0": 25,
+      "400440": 412749,
+      "AK": "NY",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Joseph Morelle [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412749,
-      "": "NY",
-      "__1": 25,
-      "__2": "Aye",
-      "__3": "Rep. Joseph Morelle [D]",
-      "__4": "Democrat"
+      "0": 11,
+      "400440": 412803,
+      "AK": "NY",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Max Rose [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412803,
-      "": "NY",
-      "__1": 11,
-      "__2": "Aye",
-      "__3": "Rep. Max Rose [D]",
-      "__4": "Democrat"
+      "0": 14,
+      "400440": 412804,
+      "AK": "NY",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Alexandria Ocasio-Cortez [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412804,
-      "": "NY",
-      "__1": 14,
-      "__2": "Aye",
-      "__3": "Rep. Alexandria Ocasio-Cortez [D]",
-      "__4": "Democrat"
+      "0": 19,
+      "400440": 412805,
+      "AK": "NY",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Antonio Delgado [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412805,
-      "": "NY",
-      "__1": 19,
-      "__2": "Aye",
-      "__3": "Rep. Antonio Delgado [D]",
-      "__4": "Democrat"
+      "0": 22,
+      "400440": 412806,
+      "AK": "NY",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Anthony Brindisi [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412806,
-      "": "NY",
-      "__1": 22,
-      "__2": "Aye",
-      "__3": "Rep. Anthony Brindisi [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 400071,
+      "AK": "OH",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Steve Chabot [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400071,
-      "": "OH",
-      "__1": 1,
-      "__2": "No",
-      "__3": "Rep. Steve Chabot [R]",
-      "__4": "Republican"
+      "0": 9,
+      "400440": 400211,
+      "AK": "OH",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Marcy Kaptur [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400211,
-      "": "OH",
-      "__1": 9,
-      "__2": "Aye",
-      "__3": "Rep. Marcy Kaptur [D]",
-      "__4": "Democrat"
+      "0": 13,
+      "400440": 400352,
+      "AK": "OH",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Tim Ryan [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400352,
-      "": "OH",
-      "__1": 13,
-      "__2": "Aye",
-      "__3": "Rep. Tim Ryan [D]",
-      "__4": "Democrat"
+      "0": 10,
+      "400440": 400411,
+      "AK": "OH",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Michael Turner [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400411,
-      "": "OH",
-      "__1": 10,
-      "__2": "No",
-      "__3": "Rep. Michael Turner [R]",
-      "__4": "Republican"
+      "0": 4,
+      "400440": 412226,
+      "AK": "OH",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Jim Jordan [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412226,
-      "": "OH",
-      "__1": 4,
-      "__2": "No",
-      "__3": "Rep. Jim Jordan [R]",
-      "__4": "Republican"
+      "0": 5,
+      "400440": 412256,
+      "AK": "OH",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Robert Latta [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412256,
-      "": "OH",
-      "__1": 5,
-      "__2": "No",
-      "__3": "Rep. Robert Latta [R]",
-      "__4": "Republican"
+      "0": 11,
+      "400440": 412327,
+      "AK": "OH",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Marcia Fudge [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412327,
-      "": "OH",
-      "__1": 11,
-      "__2": "Aye",
-      "__3": "Rep. Marcia Fudge [D]",
-      "__4": "Democrat"
+      "0": 6,
+      "400440": 412460,
+      "AK": "OH",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Bill Johnson [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412460,
-      "": "OH",
-      "__1": 6,
-      "__2": "No",
-      "__3": "Rep. Bill Johnson [R]",
-      "__4": "Republican"
+      "0": 15,
+      "400440": 412461,
+      "AK": "OH",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Steve Stivers [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412461,
-      "": "OH",
-      "__1": 15,
-      "__2": "No",
-      "__3": "Rep. Steve Stivers [R]",
-      "__4": "Republican"
+      "0": 7,
+      "400440": 412463,
+      "AK": "OH",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Bob Gibbs [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412463,
-      "": "OH",
-      "__1": 7,
-      "__2": "No",
-      "__3": "Rep. Bob Gibbs [R]",
-      "__4": "Republican"
+      "0": 2,
+      "400440": 412564,
+      "AK": "OH",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Brad Wenstrup [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412564,
-      "": "OH",
-      "__1": 2,
-      "__2": "No",
-      "__3": "Rep. Brad Wenstrup [R]",
-      "__4": "Republican"
+      "0": 3,
+      "400440": 412565,
+      "AK": "OH",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Joyce Beatty [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412565,
-      "": "OH",
-      "__1": 3,
-      "__2": "Aye",
-      "__3": "Rep. Joyce Beatty [D]",
-      "__4": "Democrat"
+      "0": 14,
+      "400440": 412566,
+      "AK": "OH",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. David Joyce [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412566,
-      "": "OH",
-      "__1": 14,
-      "__2": "No",
-      "__3": "Rep. David Joyce [R]",
-      "__4": "Republican"
+      "0": 8,
+      "400440": 412675,
+      "AK": "OH",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Warren Davidson [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412675,
-      "": "OH",
-      "__1": 8,
-      "__2": "No",
-      "__3": "Rep. Warren Davidson [R]",
-      "__4": "Republican"
+      "0": 12,
+      "400440": 412747,
+      "AK": "OH",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Troy Balderson [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412747,
-      "": "OH",
-      "__1": 12,
-      "__2": "No",
-      "__3": "Rep. Troy Balderson [R]",
-      "__4": "Republican"
+      "0": 16,
+      "400440": 412807,
+      "AK": "OH",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Anthony Gonzalez [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412807,
-      "": "OH",
-      "__1": 16,
-      "__2": "No",
-      "__3": "Rep. Anthony Gonzalez [R]",
-      "__4": "Republican"
+      "0": 4,
+      "400440": 400077,
+      "AK": "OK",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Tom Cole [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400077,
-      "": "OK",
-      "__1": 4,
-      "__2": "No",
-      "__3": "Rep. Tom Cole [R]",
-      "__4": "Republican"
+      "0": 3,
+      "400440": 400247,
+      "AK": "OK",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Frank Lucas [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400247,
-      "": "OK",
-      "__1": 3,
-      "__2": "No",
-      "__3": "Rep. Frank Lucas [R]",
-      "__4": "Republican"
+      "0": 2,
+      "400440": 412568,
+      "AK": "OK",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Markwayne Mullin [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412568,
-      "": "OK",
-      "__1": 2,
-      "__2": "No",
-      "__3": "Rep. Markwayne Mullin [R]",
-      "__4": "Republican"
+      "0": 1,
+      "400440": 412748,
+      "AK": "OK",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Kevin Hern [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412748,
-      "": "OK",
-      "__1": 1,
-      "__2": "No",
-      "__3": "Rep. Kevin Hern [R]",
-      "__4": "Republican"
+      "0": 5,
+      "400440": 412808,
+      "AK": "OK",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Kendra Horn [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412808,
-      "": "OK",
-      "__1": 5,
-      "__2": "Aye",
-      "__3": "Rep. Kendra Horn [D]",
-      "__4": "Democrat"
+      "0": 3,
+      "400440": 400033,
+      "AK": "OR",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Earl Blumenauer [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400033,
-      "": "OR",
-      "__1": 3,
-      "__2": "Aye",
-      "__3": "Rep. Earl Blumenauer [D]",
-      "__4": "Democrat"
+      "0": 4,
+      "400440": 400100,
+      "AK": "OR",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Peter DeFazio [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400100,
-      "": "OR",
-      "__1": 4,
-      "__2": "Aye",
-      "__3": "Rep. Peter DeFazio [D]",
-      "__4": "Democrat"
+      "0": 2,
+      "400440": 400419,
+      "AK": "OR",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Greg Walden [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400419,
-      "": "OR",
-      "__1": 2,
-      "__2": "No",
-      "__3": "Rep. Greg Walden [R]",
-      "__4": "Republican"
+      "0": 5,
+      "400440": 412315,
+      "AK": "OR",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Kurt Schrader [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412315,
-      "": "OR",
-      "__1": 5,
-      "__2": "Aye",
-      "__3": "Rep. Kurt Schrader [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 412501,
+      "AK": "OR",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Suzanne Bonamici [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412501,
-      "": "OR",
-      "__1": 1,
-      "__2": "Aye",
-      "__3": "Rep. Suzanne Bonamici [D]",
-      "__4": "Democrat"
+      "0": 18,
+      "400440": 400114,
+      "AK": "PA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Michael “Mike” Doyle Jr. [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400114,
-      "": "PA",
-      "__1": 18,
-      "__2": "Aye",
-      "__3": "Rep. Michael “Mike” Doyle Jr. [D]",
-      "__4": "Democrat"
+      "0": 15,
+      "400440": 412317,
+      "AK": "PA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Glenn Thompson [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412317,
-      "": "PA",
-      "__1": 15,
-      "__2": "No",
-      "__3": "Rep. Glenn Thompson [R]",
-      "__4": "Republican"
+      "0": 16,
+      "400440": 412465,
+      "AK": "PA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Mike Kelly [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412465,
-      "": "PA",
-      "__1": 16,
-      "__2": "No",
-      "__3": "Rep. Mike Kelly [R]",
-      "__4": "Republican"
+      "0": 10,
+      "400440": 412569,
+      "AK": "PA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Scott Perry [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412569,
-      "": "PA",
-      "__1": 10,
-      "__2": "No",
-      "__3": "Rep. Scott Perry [R]",
-      "__4": "Republican"
+      "0": 8,
+      "400440": 412571,
+      "AK": "PA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Matthew Cartwright [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412571,
-      "": "PA",
-      "__1": 8,
-      "__2": "Aye",
-      "__3": "Rep. Matthew Cartwright [D]",
-      "__4": "Democrat"
+      "0": 2,
+      "400440": 412652,
+      "AK": "PA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Brendan Boyle [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412652,
-      "": "PA",
-      "__1": 2,
-      "__2": "Aye",
-      "__3": "Rep. Brendan Boyle [D]",
-      "__4": "Democrat"
+      "0": 3,
+      "400440": 412677,
+      "AK": "PA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Dwight Evans [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412677,
-      "": "PA",
-      "__1": 3,
-      "__2": "Aye",
-      "__3": "Rep. Dwight Evans [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 412721,
+      "AK": "PA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Brian Fitzpatrick [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412721,
-      "": "PA",
-      "__1": 1,
-      "__2": "Aye",
-      "__3": "Rep. Brian Fitzpatrick [R]",
-      "__4": "Republican"
+      "0": 11,
+      "400440": 412722,
+      "AK": "PA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Lloyd Smucker [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412722,
-      "": "PA",
-      "__1": 11,
-      "__2": "No",
-      "__3": "Rep. Lloyd Smucker [R]",
-      "__4": "Republican"
+      "0": 17,
+      "400440": 412744,
+      "AK": "PA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Conor Lamb [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412744,
-      "": "PA",
-      "__1": 17,
-      "__2": "Aye",
-      "__3": "Rep. Conor Lamb [D]",
-      "__4": "Democrat"
+      "0": 5,
+      "400440": 412750,
+      "AK": "PA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Mary Scanlon [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412750,
-      "": "PA",
-      "__1": 5,
-      "__2": "Aye",
-      "__3": "Rep. Mary Scanlon [D]",
-      "__4": "Democrat"
+      "0": 7,
+      "400440": 412751,
+      "AK": "PA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Susan Wild [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412751,
-      "": "PA",
-      "__1": 7,
-      "__2": "Aye",
-      "__3": "Rep. Susan Wild [D]",
-      "__4": "Democrat"
+      "0": 4,
+      "400440": 412809,
+      "AK": "PA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Madeleine Dean [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412809,
-      "": "PA",
-      "__1": 4,
-      "__2": "Aye",
-      "__3": "Rep. Madeleine Dean [D]",
-      "__4": "Democrat"
+      "0": 6,
+      "400440": 412810,
+      "AK": "PA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Chrissy Houlahan [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412810,
-      "": "PA",
-      "__1": 6,
-      "__2": "Aye",
-      "__3": "Rep. Chrissy Houlahan [D]",
-      "__4": "Democrat"
+      "0": 9,
+      "400440": 412811,
+      "AK": "PA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Daniel Meuser [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412811,
-      "": "PA",
-      "__1": 9,
-      "__2": "No",
-      "__3": "Rep. Daniel Meuser [R]",
-      "__4": "Republican"
+      "0": 13,
+      "400440": 412812,
+      "AK": "PA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. John Joyce [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412812,
-      "": "PA",
-      "__1": 13,
-      "__2": "No",
-      "__3": "Rep. John Joyce [R]",
-      "__4": "Republican"
+      "0": 14,
+      "400440": 412813,
+      "AK": "PA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Guy Reschenthaler [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412813,
-      "": "PA",
-      "__1": 14,
-      "__2": "No",
-      "__3": "Rep. Guy Reschenthaler [R]",
-      "__4": "Republican"
+      "0": 12,
+      "400440": 412843,
+      "AK": "PA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Fred Keller [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412843,
-      "": "PA",
-      "__1": 12,
-      "__2": "No",
-      "__3": "Rep. Fred Keller [R]",
-      "__4": "Republican"
+      "0": 2,
+      "400440": 400230,
+      "AK": "RI",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. James “Jim” Langevin [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400230,
-      "": "RI",
-      "__1": 2,
-      "__2": "Aye",
-      "__3": "Rep. James “Jim” Langevin [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 412470,
+      "AK": "RI",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. David Cicilline [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412470,
-      "": "RI",
-      "__1": 1,
-      "__2": "Aye",
-      "__3": "Rep. David Cicilline [D]",
-      "__4": "Democrat"
+      "0": 6,
+      "400440": 400075,
+      "AK": "SC",
+      "No": "Not Voting",
+      "Rep. Don Young [R]": "Rep. James “Jim” Clyburn [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400075,
-      "": "SC",
-      "__1": 6,
-      "__2": "Not Voting",
-      "__3": "Rep. James “Jim” Clyburn [D]",
-      "__4": "Democrat"
+      "0": 2,
+      "400440": 400433,
+      "AK": "SC",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Joe Wilson [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400433,
-      "": "SC",
-      "__1": 2,
-      "__2": "No",
-      "__3": "Rep. Joe Wilson [R]",
-      "__4": "Republican"
+      "0": 3,
+      "400440": 412472,
+      "AK": "SC",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Jeff Duncan [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412472,
-      "": "SC",
-      "__1": 3,
-      "__2": "No",
-      "__3": "Rep. Jeff Duncan [R]",
-      "__4": "Republican"
+      "0": 7,
+      "400440": 412572,
+      "AK": "SC",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Tom Rice [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412572,
-      "": "SC",
-      "__1": 7,
-      "__2": "No",
-      "__3": "Rep. Tom Rice [R]",
-      "__4": "Republican"
+      "0": 5,
+      "400440": 412738,
+      "AK": "SC",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Ralph Norman Jr. [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412738,
-      "": "SC",
-      "__1": 5,
-      "__2": "No",
-      "__3": "Rep. Ralph Norman Jr. [R]",
-      "__4": "Republican"
+      "0": 1,
+      "400440": 412814,
+      "AK": "SC",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Joe Cunningham [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412814,
-      "": "SC",
-      "__1": 1,
-      "__2": "Aye",
-      "__3": "Rep. Joe Cunningham [D]",
-      "__4": "Democrat"
+      "0": 4,
+      "400440": 412815,
+      "AK": "SC",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. William Timmons [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412815,
-      "": "SC",
-      "__1": 4,
-      "__2": "No",
-      "__3": "Rep. William Timmons [R]",
-      "__4": "Republican"
+      "0": 0,
+      "400440": 412816,
+      "AK": "SD",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Dusty Johnson [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412816,
-      "": "SD",
-      "__1": 0,
-      "__2": "No",
-      "__3": "Rep. Dusty Johnson [R]",
-      "__4": "Republican"
+      "0": "district",
+      "400440": "person",
+      "AK": "state",
+      "No": "vote",
+      "Rep. Don Young [R]": "name",
+      "Republican": "party"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": "person",
-      "": "state",
-      "__1": "district",
-      "__2": "vote",
-      "__3": "name",
-      "__4": "party"
+      "0": 5,
+      "400440": 400081,
+      "AK": "TN",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Jim Cooper [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400081,
-      "": "TN",
-      "__1": 5,
-      "__2": "Aye",
-      "__3": "Rep. Jim Cooper [D]",
-      "__4": "Democrat"
+      "0": 9,
+      "400440": 412236,
+      "AK": "TN",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Steve Cohen [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412236,
-      "": "TN",
-      "__1": 9,
-      "__2": "Aye",
-      "__3": "Rep. Steve Cohen [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 412310,
+      "AK": "TN",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. David “Phil” Roe [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412310,
-      "": "TN",
-      "__1": 1,
-      "__2": "No",
-      "__3": "Rep. David “Phil” Roe [R]",
-      "__4": "Republican"
+      "0": 3,
+      "400440": 412476,
+      "AK": "TN",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Charles “Chuck” Fleischmann [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412476,
-      "": "TN",
-      "__1": 3,
-      "__2": "No",
-      "__3": "Rep. Charles “Chuck” Fleischmann [R]",
-      "__4": "Republican"
+      "0": 4,
+      "400440": 412477,
+      "AK": "TN",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Scott DesJarlais [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412477,
-      "": "TN",
-      "__1": 4,
-      "__2": "No",
-      "__3": "Rep. Scott DesJarlais [R]",
-      "__4": "Republican"
+      "0": 8,
+      "400440": 412724,
+      "AK": "TN",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. David Kustoff [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412724,
-      "": "TN",
-      "__1": 8,
-      "__2": "No",
-      "__3": "Rep. David Kustoff [R]",
-      "__4": "Republican"
+      "0": 2,
+      "400440": 412817,
+      "AK": "TN",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Tim Burchett [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412817,
-      "": "TN",
-      "__1": 2,
-      "__2": "No",
-      "__3": "Rep. Tim Burchett [R]",
-      "__4": "Republican"
+      "0": 6,
+      "400440": 412818,
+      "AK": "TN",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. John Rose [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412818,
-      "": "TN",
-      "__1": 6,
-      "__2": "No",
-      "__3": "Rep. John Rose [R]",
-      "__4": "Republican"
+      "0": 7,
+      "400440": 412819,
+      "AK": "TN",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Mark Green [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412819,
-      "": "TN",
-      "__1": 7,
-      "__2": "No",
-      "__3": "Rep. Mark Green [R]",
-      "__4": "Republican"
+      "0": 8,
+      "400440": 400046,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Kevin Brady [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400046,
-      "": "TX",
-      "__1": 8,
-      "__2": "No",
-      "__3": "Rep. Kevin Brady [R]",
-      "__4": "Republican"
+      "0": 26,
+      "400440": 400052,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Michael Burgess [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400052,
-      "": "TX",
-      "__1": 26,
-      "__2": "No",
-      "__3": "Rep. Michael Burgess [R]",
-      "__4": "Republican"
+      "0": 31,
+      "400440": 400068,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. John Carter [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400068,
-      "": "TX",
-      "__1": 31,
-      "__2": "No",
-      "__3": "Rep. John Carter [R]",
-      "__4": "Republican"
+      "0": 35,
+      "400440": 400111,
+      "AK": "TX",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Lloyd Doggett [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400111,
-      "": "TX",
-      "__1": 35,
-      "__2": "Aye",
-      "__3": "Rep. Lloyd Doggett [D]",
-      "__4": "Democrat"
+      "0": 12,
+      "400440": 400157,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Kay Granger [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400157,
-      "": "TX",
-      "__1": 12,
-      "__2": "No",
-      "__3": "Rep. Kay Granger [R]",
-      "__4": "Republican"
+      "0": 18,
+      "400440": 400199,
+      "AK": "TX",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Sheila Jackson Lee [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400199,
-      "": "TX",
-      "__1": 18,
-      "__2": "Aye",
-      "__3": "Rep. Sheila Jackson Lee [D]",
-      "__4": "Democrat"
+      "0": 30,
+      "400440": 400204,
+      "AK": "TX",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Eddie Johnson [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400204,
-      "": "TX",
-      "__1": 30,
-      "__2": "Aye",
-      "__3": "Rep. Eddie Johnson [D]",
-      "__4": "Democrat"
+      "0": 13,
+      "400440": 400404,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Mac Thornberry [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400404,
-      "": "TX",
-      "__1": 13,
-      "__2": "No",
-      "__3": "Rep. Mac Thornberry [R]",
-      "__4": "Republican"
+      "0": 1,
+      "400440": 400651,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Louie Gohmert Jr. [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400651,
-      "": "TX",
-      "__1": 1,
-      "__2": "No",
-      "__3": "Rep. Louie Gohmert Jr. [R]",
-      "__4": "Republican"
+      "0": 9,
+      "400440": 400653,
+      "AK": "TX",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Al Green [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400653,
-      "": "TX",
-      "__1": 9,
-      "__2": "Aye",
-      "__3": "Rep. Al Green [D]",
-      "__4": "Democrat"
+      "0": 10,
+      "400440": 400654,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Michael McCaul [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400654,
-      "": "TX",
-      "__1": 10,
-      "__2": "No",
-      "__3": "Rep. Michael McCaul [R]",
-      "__4": "Republican"
+      "0": 11,
+      "400440": 400655,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Michael Conaway [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400655,
-      "": "TX",
-      "__1": 11,
-      "__2": "No",
-      "__3": "Rep. Michael Conaway [R]",
-      "__4": "Republican"
+      "0": 24,
+      "400440": 400656,
+      "AK": "TX",
+      "No": "Not Voting",
+      "Rep. Don Young [R]": "Rep. Kenny Marchant [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400656,
-      "": "TX",
-      "__1": 24,
-      "__2": "Not Voting",
-      "__3": "Rep. Kenny Marchant [R]",
-      "__4": "Republican"
+      "0": 28,
+      "400440": 400657,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Henry Cuellar [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400657,
-      "": "TX",
-      "__1": 28,
-      "__2": "No",
-      "__3": "Rep. Henry Cuellar [D]",
-      "__4": "Democrat"
+      "0": 22,
+      "400440": 412302,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Pete Olson [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412302,
-      "": "TX",
-      "__1": 22,
-      "__2": "No",
-      "__3": "Rep. Pete Olson [R]",
-      "__4": "Republican"
+      "0": 17,
+      "400440": 412480,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Bill Flores [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412480,
-      "": "TX",
-      "__1": 17,
-      "__2": "No",
-      "__3": "Rep. Bill Flores [R]",
-      "__4": "Republican"
+      "0": 14,
+      "400440": 412574,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Randy Weber [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412574,
-      "": "TX",
-      "__1": 14,
-      "__2": "No",
-      "__3": "Rep. Randy Weber [R]",
-      "__4": "Republican"
+      "0": 20,
+      "400440": 412576,
+      "AK": "TX",
+      "No": "Not Voting",
+      "Rep. Don Young [R]": "Rep. Joaquin Castro [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412576,
-      "": "TX",
-      "__1": 20,
-      "__2": "Not Voting",
-      "__3": "Rep. Joaquin Castro [D]",
-      "__4": "Democrat"
+      "0": 25,
+      "400440": 412578,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Roger Williams [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412578,
-      "": "TX",
-      "__1": 25,
-      "__2": "No",
-      "__3": "Rep. Roger Williams [R]",
-      "__4": "Republican"
+      "0": 33,
+      "400440": 412579,
+      "AK": "TX",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Marc Veasey [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412579,
-      "": "TX",
-      "__1": 33,
-      "__2": "Aye",
-      "__3": "Rep. Marc Veasey [D]",
-      "__4": "Democrat"
+      "0": 34,
+      "400440": 412580,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Filemon Vela [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412580,
-      "": "TX",
-      "__1": 34,
-      "__2": "No",
-      "__3": "Rep. Filemon Vela [D]",
-      "__4": "Democrat"
+      "0": 4,
+      "400440": 412653,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. John Ratcliffe [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412653,
-      "": "TX",
-      "__1": 4,
-      "__2": "No",
-      "__3": "Rep. John Ratcliffe [R]",
-      "__4": "Republican"
+      "0": 23,
+      "400440": 412654,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Will Hurd [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412654,
-      "": "TX",
-      "__1": 23,
-      "__2": "No",
-      "__3": "Rep. Will Hurd [R]",
-      "__4": "Republican"
+      "0": 36,
+      "400440": 412655,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Brian Babin [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412655,
-      "": "TX",
-      "__1": 36,
-      "__2": "No",
-      "__3": "Rep. Brian Babin [R]",
-      "__4": "Republican"
+      "0": 15,
+      "400440": 412725,
+      "AK": "TX",
+      "No": "Not Voting",
+      "Rep. Don Young [R]": "Rep. Vicente Gonzalez [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412725,
-      "": "TX",
-      "__1": 15,
-      "__2": "Not Voting",
-      "__3": "Rep. Vicente Gonzalez [D]",
-      "__4": "Democrat"
+      "0": 19,
+      "400440": 412726,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Jodey Arrington [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412726,
-      "": "TX",
-      "__1": 19,
-      "__2": "No",
-      "__3": "Rep. Jodey Arrington [R]",
-      "__4": "Republican"
+      "0": 27,
+      "400440": 412746,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Michael Cloud [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412746,
-      "": "TX",
-      "__1": 27,
-      "__2": "No",
-      "__3": "Rep. Michael Cloud [R]",
-      "__4": "Republican"
+      "0": 2,
+      "400440": 412820,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Dan Crenshaw [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412820,
-      "": "TX",
-      "__1": 2,
-      "__2": "No",
-      "__3": "Rep. Dan Crenshaw [R]",
-      "__4": "Republican"
+      "0": 3,
+      "400440": 412821,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Van Taylor [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412821,
-      "": "TX",
-      "__1": 3,
-      "__2": "No",
-      "__3": "Rep. Van Taylor [R]",
-      "__4": "Republican"
+      "0": 5,
+      "400440": 412822,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Lance Gooden [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412822,
-      "": "TX",
-      "__1": 5,
-      "__2": "No",
-      "__3": "Rep. Lance Gooden [R]",
-      "__4": "Republican"
+      "0": 6,
+      "400440": 412823,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Ron Wright [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412823,
-      "": "TX",
-      "__1": 6,
-      "__2": "No",
-      "__3": "Rep. Ron Wright [R]",
-      "__4": "Republican"
+      "0": 7,
+      "400440": 412824,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Lizzie Fletcher [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412824,
-      "": "TX",
-      "__1": 7,
-      "__2": "No",
-      "__3": "Rep. Lizzie Fletcher [D]",
-      "__4": "Democrat"
+      "0": 16,
+      "400440": 412825,
+      "AK": "TX",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Veronica Escobar [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412825,
-      "": "TX",
-      "__1": 16,
-      "__2": "Aye",
-      "__3": "Rep. Veronica Escobar [D]",
-      "__4": "Democrat"
+      "0": 21,
+      "400440": 412826,
+      "AK": "TX",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Chip Roy [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412826,
-      "": "TX",
-      "__1": 21,
-      "__2": "No",
-      "__3": "Rep. Chip Roy [R]",
-      "__4": "Republican"
+      "0": 29,
+      "400440": 412827,
+      "AK": "TX",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Sylvia Garcia [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412827,
-      "": "TX",
-      "__1": 29,
-      "__2": "Aye",
-      "__3": "Rep. Sylvia Garcia [D]",
-      "__4": "Democrat"
+      "0": 32,
+      "400440": 412828,
+      "AK": "TX",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Colin Allred [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412828,
-      "": "TX",
-      "__1": 32,
-      "__2": "Aye",
-      "__3": "Rep. Colin Allred [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 400029,
+      "AK": "UT",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Rob Bishop [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400029,
-      "": "UT",
-      "__1": 1,
-      "__2": "No",
-      "__3": "Rep. Rob Bishop [R]",
-      "__4": "Republican"
+      "0": 2,
+      "400440": 412581,
+      "AK": "UT",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Chris Stewart [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412581,
-      "": "UT",
-      "__1": 2,
-      "__2": "No",
-      "__3": "Rep. Chris Stewart [R]",
-      "__4": "Republican"
+      "0": 3,
+      "400440": 412740,
+      "AK": "UT",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. John Curtis [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412740,
-      "": "UT",
-      "__1": 3,
-      "__2": "No",
-      "__3": "Rep. John Curtis [R]",
-      "__4": "Republican"
+      "0": 4,
+      "400440": 412829,
+      "AK": "UT",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Ben McAdams [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412829,
-      "": "UT",
-      "__1": 4,
-      "__2": "Aye",
-      "__3": "Rep. Ben McAdams [D]",
-      "__4": "Democrat"
+      "0": 3,
+      "400440": 400364,
+      "AK": "VA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Robert “Bobby” Scott [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400364,
-      "": "VA",
-      "__1": 3,
-      "__2": "Aye",
-      "__3": "Rep. Robert “Bobby” Scott [D]",
-      "__4": "Democrat"
+      "0": 1,
+      "400440": 412255,
+      "AK": "VA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Robert Wittman [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412255,
-      "": "VA",
-      "__1": 1,
-      "__2": "No",
-      "__3": "Rep. Robert Wittman [R]",
-      "__4": "Republican"
+      "0": 11,
+      "400440": 412272,
+      "AK": "VA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Gerald Connolly [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412272,
-      "": "VA",
-      "__1": 11,
-      "__2": "Aye",
-      "__3": "Rep. Gerald Connolly [D]",
-      "__4": "Democrat"
+      "0": 9,
+      "400440": 412485,
+      "AK": "VA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Morgan Griffith [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412485,
-      "": "VA",
-      "__1": 9,
-      "__2": "No",
-      "__3": "Rep. Morgan Griffith [R]",
-      "__4": "Republican"
+      "0": 8,
+      "400440": 412657,
+      "AK": "VA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Donald Beyer [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412657,
-      "": "VA",
-      "__1": 8,
-      "__2": "Aye",
-      "__3": "Rep. Donald Beyer [D]",
-      "__4": "Democrat"
+      "0": 4,
+      "400440": 412728,
+      "AK": "VA",
+      "No": "Not Voting",
+      "Rep. Don Young [R]": "Rep. Donald McEachin [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412728,
-      "": "VA",
-      "__1": 4,
-      "__2": "Not Voting",
-      "__3": "Rep. Donald McEachin [D]",
-      "__4": "Democrat"
+      "0": 2,
+      "400440": 412830,
+      "AK": "VA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Elaine Luria [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412830,
-      "": "VA",
-      "__1": 2,
-      "__2": "Aye",
-      "__3": "Rep. Elaine Luria [D]",
-      "__4": "Democrat"
+      "0": 5,
+      "400440": 412831,
+      "AK": "VA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Denver Riggleman [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412831,
-      "": "VA",
-      "__1": 5,
-      "__2": "No",
-      "__3": "Rep. Denver Riggleman [R]",
-      "__4": "Republican"
+      "0": 6,
+      "400440": 412832,
+      "AK": "VA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Ben Cline [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412832,
-      "": "VA",
-      "__1": 6,
-      "__2": "No",
-      "__3": "Rep. Ben Cline [R]",
-      "__4": "Republican"
+      "0": 7,
+      "400440": 412833,
+      "AK": "VA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Abigail Spanberger [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412833,
-      "": "VA",
-      "__1": 7,
-      "__2": "Aye",
-      "__3": "Rep. Abigail Spanberger [D]",
-      "__4": "Democrat"
+      "0": 10,
+      "400440": 412834,
+      "AK": "VA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Jennifer Wexton [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412834,
-      "": "VA",
-      "__1": 10,
-      "__2": "Aye",
-      "__3": "Rep. Jennifer Wexton [D]",
-      "__4": "Democrat"
+      "0": 0,
+      "400440": 412239,
+      "AK": "VT",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Peter Welch [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412239,
-      "": "VT",
-      "__1": 0,
-      "__2": "Aye",
-      "__3": "Rep. Peter Welch [D]",
-      "__4": "Democrat"
+      "0": 2,
+      "400440": 400232,
+      "AK": "WA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Rick Larsen [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400232,
-      "": "WA",
-      "__1": 2,
-      "__2": "Aye",
-      "__3": "Rep. Rick Larsen [D]",
-      "__4": "Democrat"
+      "0": 9,
+      "400440": 400379,
+      "AK": "WA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Adam Smith [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400379,
-      "": "WA",
-      "__1": 9,
-      "__2": "Aye",
-      "__3": "Rep. Adam Smith [D]",
-      "__4": "Democrat"
+      "0": 5,
+      "400440": 400659,
+      "AK": "WA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Cathy McMorris Rodgers [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400659,
-      "": "WA",
-      "__1": 5,
-      "__2": "No",
-      "__3": "Rep. Cathy McMorris Rodgers [R]",
-      "__4": "Republican"
+      "0": 3,
+      "400440": 412486,
+      "AK": "WA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Jaime Herrera Beutler [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412486,
-      "": "WA",
-      "__1": 3,
-      "__2": "No",
-      "__3": "Rep. Jaime Herrera Beutler [R]",
-      "__4": "Republican"
+      "0": 1,
+      "400440": 412505,
+      "AK": "WA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Suzan DelBene [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412505,
-      "": "WA",
-      "__1": 1,
-      "__2": "Aye",
-      "__3": "Rep. Suzan DelBene [D]",
-      "__4": "Democrat"
+      "0": 6,
+      "400440": 412583,
+      "AK": "WA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Derek Kilmer [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412583,
-      "": "WA",
-      "__1": 6,
-      "__2": "Aye",
-      "__3": "Rep. Derek Kilmer [D]",
-      "__4": "Democrat"
+      "0": 10,
+      "400440": 412584,
+      "AK": "WA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Denny Heck [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412584,
-      "": "WA",
-      "__1": 10,
-      "__2": "Aye",
-      "__3": "Rep. Denny Heck [D]",
-      "__4": "Democrat"
+      "0": 4,
+      "400440": 412660,
+      "AK": "WA",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Dan Newhouse [R]",
+      "Republican": "Republican"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412660,
-      "": "WA",
-      "__1": 4,
-      "__2": "No",
-      "__3": "Rep. Dan Newhouse [R]",
-      "__4": "Republican"
+      "0": 7,
+      "400440": 412730,
+      "AK": "WA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Pramila Jayapal [D]",
+      "Republican": "Democrat"
     },
     {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412730,
-      "": "WA",
-      "__1": 7,
-      "__2": "Aye",
-      "__3": "Rep. Pramila Jayapal [D]",
-      "__4": "Democrat"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412835,
-      "": "WA",
-      "__1": 8,
-      "__2": "Aye",
-      "__3": "Rep. Kim Schrier [D]",
-      "__4": "Democrat"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400218,
-      "": "WI",
-      "__1": 3,
-      "__2": "Aye",
-      "__3": "Rep. Ron Kind [D]",
-      "__4": "Democrat"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400365,
-      "": "WI",
-      "__1": 5,
-      "__2": "No",
-      "__3": "Rep. James Sensenbrenner Jr. [R]",
-      "__4": "Republican"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 400661,
-      "": "WI",
-      "__1": 4,
-      "__2": "Aye",
-      "__3": "Rep. Gwen Moore [D]",
-      "__4": "Democrat"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412488,
-      "": "WI",
-      "__1": 7,
-      "__2": "No",
-      "__3": "Rep. Sean Duffy [R, 2011-2019]",
-      "__4": "Republican"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412585,
-      "": "WI",
-      "__1": 2,
-      "__2": "Aye",
-      "__3": "Rep. Mark Pocan [D]",
-      "__4": "Democrat"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412661,
-      "": "WI",
-      "__1": 6,
-      "__2": "No",
-      "__3": "Rep. Glenn Grothman [R]",
-      "__4": "Republican"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412731,
-      "": "WI",
-      "__1": 8,
-      "__2": "No",
-      "__3": "Rep. Mike Gallagher [R]",
-      "__4": "Republican"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412836,
-      "": "WI",
-      "__1": 1,
-      "__2": "No",
-      "__3": "Rep. Bryan Steil [R]",
-      "__4": "Republican"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412487,
-      "": "WV",
-      "__1": 1,
-      "__2": "No",
-      "__3": "Rep. David McKinley [R]",
-      "__4": "Republican"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412662,
-      "": "WV",
-      "__1": 2,
-      "__2": "No",
-      "__3": "Rep. Alex Mooney [R]",
-      "__4": "Republican"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412837,
-      "": "WV",
-      "__1": 3,
-      "__2": "No",
-      "__3": "Rep. Carol Miller [R]",
-      "__4": "Republican"
-    },
-    {
-      "House Vote #530 2019-09-12T12:02:00 - H.R. 1146: Arctic Cultural and Coastal Plain Protection Act": 412732,
-      "": "WY",
-      "__1": 0,
-      "__2": "No",
-      "__3": "Rep. Liz Cheney [R]",
-      "__4": "Republican"
+      "0": 8,
+      "400440": 412835,
+      "AK": "WA",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Kim Schrier [D]",
+      "Republican": "Democrat"
+    },
+    {
+      "0": 3,
+      "400440": 400218,
+      "AK": "WI",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Ron Kind [D]",
+      "Republican": "Democrat"
+    },
+    {
+      "0": 5,
+      "400440": 400365,
+      "AK": "WI",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. James Sensenbrenner Jr. [R]",
+      "Republican": "Republican"
+    },
+    {
+      "0": 4,
+      "400440": 400661,
+      "AK": "WI",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Gwen Moore [D]",
+      "Republican": "Democrat"
+    },
+    {
+      "0": 7,
+      "400440": 412488,
+      "AK": "WI",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Sean Duffy [R, 2011-2019]",
+      "Republican": "Republican"
+    },
+    {
+      "0": 2,
+      "400440": 412585,
+      "AK": "WI",
+      "No": "Aye",
+      "Rep. Don Young [R]": "Rep. Mark Pocan [D]",
+      "Republican": "Democrat"
+    },
+    {
+      "0": 6,
+      "400440": 412661,
+      "AK": "WI",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Glenn Grothman [R]",
+      "Republican": "Republican"
+    },
+    {
+      "0": 8,
+      "400440": 412731,
+      "AK": "WI",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Mike Gallagher [R]",
+      "Republican": "Republican"
+    },
+    {
+      "0": 1,
+      "400440": 412836,
+      "AK": "WI",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Bryan Steil [R]",
+      "Republican": "Republican"
+    },
+    {
+      "0": 1,
+      "400440": 412487,
+      "AK": "WV",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. David McKinley [R]",
+      "Republican": "Republican"
+    },
+    {
+      "0": 2,
+      "400440": 412662,
+      "AK": "WV",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Alex Mooney [R]",
+      "Republican": "Republican"
+    },
+    {
+      "0": 3,
+      "400440": 412837,
+      "AK": "WV",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Carol Miller [R]",
+      "Republican": "Republican"
+    },
+    {
+      "0": 0,
+      "400440": 412732,
+      "AK": "WY",
+      "No": "No",
+      "Rep. Don Young [R]": "Rep. Liz Cheney [R]",
+      "Republican": "Republican"
     }
   ]
