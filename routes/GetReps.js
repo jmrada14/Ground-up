@@ -44,7 +44,7 @@ axios.request({
         console.log(representativesObj);
 /////////////////////////////////////
          db.create(representativesObj);
-
+        db.find().then(res => console.log(res.length));
     }
 }).catch(error => {
     console.log(error);
