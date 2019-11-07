@@ -18,7 +18,7 @@ class Landing extends Component {
             </h4>
 
             <p className="flow-text grey-text text-darken-1">
-              Register or log in bellow, if you don't want an account use our demo account:
+              Register or log in bellow, if you don't want an account use our demo account:<br/>
                 demo@demo.com pass: welcomeDemo
             </p>
             <br />
@@ -30,7 +30,7 @@ class Landing extends Component {
                   borderRadius: "3px",
                   letterSpacing: "1.5px"
                 }}
-                className="btn btn-large waves-effect waves-light hoverable green accent-3"
+                className="btn btn-large waves-effect waves-light hoverable green accent-3 accent-3"
               >
                 Register
               </Link>
