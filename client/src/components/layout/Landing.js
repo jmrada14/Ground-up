@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import "../jumbotron.css"
+import {Row, Col, Card, CardTitle} from "react-materialize"
+// import "../jumbotron.css"
 
 class Landing extends Component {
   render() {
@@ -8,17 +9,19 @@ class Landing extends Component {
       <div style={{ height: "75vh" }} className="container valign-wrapper">
         <div className="row">
           <div className="col s12 center-align">
-              <div
-                  className="jumbotron">
-              </div>
-              <br/>
+              <Row>
+                  <Col m={6} s={12}>
+                      <Card style={{"background-image": "url('../../assets/happyBackgorund')"}} header={<CardTitle />} actions={[<a />]}>
+                      </Card>
+                  </Col>
+              </Row>
               <h4>
               <b>Welcome!</b> this is Ground-up the app that let's you follow{" "}
               <span style={{ fontFamily: "monospace" }}>local politics</span> in an easy and organized way.
             </h4>
 
             <p className="flow-text grey-text text-darken-1">
-              Register or log in bellow, if you don't want an account use our demo account:
+              Register or log in bellow, if you don't want an account use our demo account:<br/>
                 demo@demo.com pass: welcomeDemo
             </p>
             <br />
@@ -30,7 +33,7 @@ class Landing extends Component {
                   borderRadius: "3px",
                   letterSpacing: "1.5px"
                 }}
-                className="btn btn-large waves-effect waves-light hoverable green accent-3"
+                className="btn btn-large waves-effect waves-light hoverable green accent-3 accent-3"
               >
                 Register
               </Link>
