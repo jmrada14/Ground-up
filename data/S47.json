@@ -1,802 +1,702 @@
 [
-    {
-      "300075": 412665,
-      "AK": "AK",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Dan Sullivan [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 300089,
-      "AK": "AL",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Richard Shelby [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412741,
-      "AK": "AL",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Doug Jones [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 400040,
-      "AK": "AR",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. John Boozman [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412508,
-      "AK": "AR",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Tom Cotton [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412509,
-      "AK": "AZ",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Kyrsten Sinema [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412611,
-      "AK": "AZ",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Martha McSally [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 300043,
-      "AK": "CA",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Dianne Feinstein [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412678,
-      "AK": "CA",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Kamala Harris [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412330,
-      "AK": "CO",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Michael Bennet [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412406,
-      "AK": "CO",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Cory Gardner [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412194,
-      "AK": "CT",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Christopher Murphy [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412490,
-      "AK": "CT",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Richard Blumenthal [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 300019,
-      "AK": "DE",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Thomas Carper [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412390,
-      "AK": "DE",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Chris Coons [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412491,
-      "AK": "FL",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Marco Rubio [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412838,
-      "AK": "FL",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Rick Scott [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 400194,
-      "AK": "GA",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. John “Johnny” Isakson [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412666,
-      "AK": "GA",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. David Perdue [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412200,
-      "AK": "HI",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Mazie Hirono [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412507,
-      "AK": "HI",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Brian Schatz [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 300048,
-      "AK": "IA",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Charles “Chuck” Grassley [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412667,
-      "AK": "IA",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Joni Ernst [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 300030,
-      "AK": "ID",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Michael Crapo [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412322,
-      "AK": "ID",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. James Risch [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 300038,
-      "AK": "IL",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Richard Durbin [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412533,
-      "AK": "IL",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Tammy Duckworth [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412428,
-      "AK": "IN",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Todd Young [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412839,
-      "AK": "IN",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Mike Braun [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 300083,
-      "AK": "KS",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Pat Roberts [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 400284,
-      "AK": "KS",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Jerry Moran [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 300072,
-      "AK": "KY",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Mitch McConnell [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412492,
-      "AK": "KY",
-      "": "",
-      "Yea": "Nay",
-      "Sen. Lisa Murkowski [R]": "Sen. Rand Paul [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412269,
-      "AK": "LA",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Bill Cassidy [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412679,
-      "AK": "LA",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. John Kennedy [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 400253,
-      "AK": "MA",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Edward “Ed” Markey [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412542,
-      "AK": "MA",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Elizabeth Warren [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 400064,
-      "AK": "MD",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Benjamin Cardin [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 400415,
-      "AK": "MD",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Chris Van Hollen Jr. [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 300025,
-      "AK": "ME",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Susan Collins [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412545,
-      "AK": "ME",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Angus King [I]",
-      "Republican": "Independent"
-    },
-    {
-      "300075": 300093,
-      "AK": "MI",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Debbie Stabenow [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412305,
-      "AK": "MI",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Gary Peters [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412242,
-      "AK": "MN",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Amy Klobuchar [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412742,
-      "AK": "MN",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Tina Smith [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 400034,
-      "AK": "MO",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Roy Blunt [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412840,
-      "AK": "MO",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Joshua Hawley [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 400432,
-      "AK": "MS",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Roger Wicker [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412743,
-      "AK": "MS",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Cindy Hyde-Smith [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412244,
-      "AK": "MT",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Jon Tester [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412549,
-      "AK": "MT",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Steve Daines [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 400054,
-      "AK": "NC",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Richard Burr [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412668,
-      "AK": "NC",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Thom Tillis [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412494,
-      "AK": "ND",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. John Hoeven [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412555,
-      "AK": "ND",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Kevin Cramer [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412556,
-      "AK": "NE",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Deb Fischer [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412671,
-      "AK": "NE",
-      "": "",
-      "Yea": "Nay",
-      "Sen. Lisa Murkowski [R]": "Sen. Benjamin Sasse [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412323,
-      "AK": "NH",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Jeanne Shaheen [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412680,
-      "AK": "NH",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Margaret “Maggie” Hassan [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 400272,
-      "AK": "NJ",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Robert “Bob” Menendez [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412598,
-      "AK": "NJ",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Cory Booker [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 400413,
-      "AK": "NM",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Tom Udall [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412281,
-      "AK": "NM",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Martin Heinrich [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412681,
-      "AK": "NV",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Catherine Cortez Masto [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412715,
-      "AK": "NV",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Jacky Rosen [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 300087,
-      "AK": "NY",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Charles “Chuck” Schumer [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412223,
-      "AK": "NY",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Kirsten Gillibrand [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 400050,
-      "AK": "OH",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Sherrod Brown [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 400325,
-      "AK": "OH",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Robert “Rob” Portman [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 300055,
-      "AK": "OK",
-      "": "",
-      "Yea": "Nay",
-      "Sen. Lisa Murkowski [R]": "Sen. James “Jim” Inhofe [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412464,
-      "AK": "OK",
-      "": "",
-      "Yea": "Nay",
-      "Sen. Lisa Murkowski [R]": "Sen. James Lankford [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 300100,
-      "AK": "OR",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Ron Wyden [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412325,
-      "AK": "OR",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Jeff Merkley [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 400408,
-      "AK": "PA",
-      "": "",
-      "Yea": "Nay",
-      "Sen. Lisa Murkowski [R]": "Sen. Patrick “Pat” Toomey [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412246,
-      "AK": "PA",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Robert “Bob” Casey Jr. [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 300081,
-      "AK": "RI",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. John “Jack” Reed [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412247,
-      "AK": "RI",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Sheldon Whitehouse [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 300047,
-      "AK": "SC",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Lindsey Graham [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412471,
-      "AK": "SC",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Tim Scott [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 400546,
-      "AK": "SD",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. John Thune [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412669,
-      "AK": "SD",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Mike Rounds [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": "person",
-      "AK": "state",
-      "": "district",
-      "Yea": "vote",
-      "Sen. Lisa Murkowski [R]": "name",
-      "Republican": "party"
-    },
-    {
-      "300075": 300002,
-      "AK": "TN",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Lamar Alexander [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 400032,
-      "AK": "TN",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Marsha Blackburn [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 300027,
-      "AK": "TX",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. John Cornyn [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412573,
-      "AK": "TX",
-      "": "",
-      "Yea": "Nay",
-      "Sen. Lisa Murkowski [R]": "Sen. Ted Cruz [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412495,
-      "AK": "UT",
-      "": "",
-      "Yea": "Nay",
-      "Sen. Lisa Murkowski [R]": "Sen. Mike Lee [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412841,
-      "AK": "UT",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Mitt Romney [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412321,
-      "AK": "VA",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Mark Warner [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412582,
-      "AK": "VA",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Timothy “Tim” Kaine [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 300065,
-      "AK": "VT",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Patrick Leahy [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 400357,
-      "AK": "VT",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Bernard “Bernie” Sanders [I]",
-      "Republican": "Independent"
-    },
-    {
-      "300075": 300018,
-      "AK": "WA",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Maria Cantwell [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 300076,
-      "AK": "WA",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Patty Murray [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 400013,
-      "AK": "WI",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Tammy Baldwin [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 412496,
-      "AK": "WI",
-      "": "",
-      "Yea": "Nay",
-      "Sen. Lisa Murkowski [R]": "Sen. Ron Johnson [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 400061,
-      "AK": "WV",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Shelley Capito [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412391,
-      "AK": "WV",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Joe Manchin III [D]",
-      "Republican": "Democrat"
-    },
-    {
-      "300075": 300041,
-      "AK": "WY",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. Michael Enzi [R]",
-      "Republican": "Republican"
-    },
-    {
-      "300075": 412251,
-      "AK": "WY",
-      "": "",
-      "Yea": "Yea",
-      "Sen. Lisa Murkowski [R]": "Sen. John Barrasso [R]",
-      "Republican": "Republican"
-    }
-  ]
+  {
+    "person": 300075,
+    "state": "AK",
+    "vote": "Yea",
+    "name": "Sen. Lisa Murkowski [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412665,
+    "state": "AK",
+    "vote": "Yea",
+    "name": "Sen. Dan Sullivan [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 300089,
+    "state": "AL",
+    "vote": "Yea",
+    "name": "Sen. Richard Shelby [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412741,
+    "state": "AL",
+    "vote": "Yea",
+    "name": "Sen. Doug Jones [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400040,
+    "state": "AR",
+    "vote": "Yea",
+    "name": "Sen. John Boozman [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412508,
+    "state": "AR",
+    "vote": "Yea",
+    "name": "Sen. Tom Cotton [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412509,
+    "state": "AZ",
+    "vote": "Yea",
+    "name": "Sen. Kyrsten Sinema [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412611,
+    "state": "AZ",
+    "vote": "Yea",
+    "name": "Sen. Martha McSally [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 300043,
+    "state": "CA",
+    "vote": "Yea",
+    "name": "Sen. Dianne Feinstein [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412678,
+    "state": "CA",
+    "vote": "Yea",
+    "name": "Sen. Kamala Harris [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412330,
+    "state": "CO",
+    "vote": "Yea",
+    "name": "Sen. Michael Bennet [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412406,
+    "state": "CO",
+    "vote": "Yea",
+    "name": "Sen. Cory Gardner [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412194,
+    "state": "CT",
+    "vote": "Yea",
+    "name": "Sen. Christopher Murphy [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412490,
+    "state": "CT",
+    "vote": "Yea",
+    "name": "Sen. Richard Blumenthal [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 300019,
+    "state": "DE",
+    "vote": "Yea",
+    "name": "Sen. Thomas Carper [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412390,
+    "state": "DE",
+    "vote": "Yea",
+    "name": "Sen. Chris Coons [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412491,
+    "state": "FL",
+    "vote": "Yea",
+    "name": "Sen. Marco Rubio [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412838,
+    "state": "FL",
+    "vote": "Yea",
+    "name": "Sen. Rick Scott [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400194,
+    "state": "GA",
+    "vote": "Yea",
+    "name": "Sen. John “Johnny” Isakson [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412666,
+    "state": "GA",
+    "vote": "Yea",
+    "name": "Sen. David Perdue [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412200,
+    "state": "HI",
+    "vote": "Yea",
+    "name": "Sen. Mazie Hirono [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412507,
+    "state": "HI",
+    "vote": "Yea",
+    "name": "Sen. Brian Schatz [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 300048,
+    "state": "IA",
+    "vote": "Yea",
+    "name": "Sen. Charles “Chuck” Grassley [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412667,
+    "state": "IA",
+    "vote": "Yea",
+    "name": "Sen. Joni Ernst [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 300030,
+    "state": "ID",
+    "vote": "Yea",
+    "name": "Sen. Michael Crapo [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412322,
+    "state": "ID",
+    "vote": "Yea",
+    "name": "Sen. James Risch [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 300038,
+    "state": "IL",
+    "vote": "Yea",
+    "name": "Sen. Richard Durbin [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412533,
+    "state": "IL",
+    "vote": "Yea",
+    "name": "Sen. Tammy Duckworth [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412428,
+    "state": "IN",
+    "vote": "Yea",
+    "name": "Sen. Todd Young [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412839,
+    "state": "IN",
+    "vote": "Yea",
+    "name": "Sen. Mike Braun [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 300083,
+    "state": "KS",
+    "vote": "Yea",
+    "name": "Sen. Pat Roberts [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400284,
+    "state": "KS",
+    "vote": "Yea",
+    "name": "Sen. Jerry Moran [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 300072,
+    "state": "KY",
+    "vote": "Yea",
+    "name": "Sen. Mitch McConnell [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412492,
+    "state": "KY",
+    "vote": "Nay",
+    "name": "Sen. Rand Paul [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412269,
+    "state": "LA",
+    "vote": "Yea",
+    "name": "Sen. Bill Cassidy [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412679,
+    "state": "LA",
+    "vote": "Yea",
+    "name": "Sen. John Kennedy [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400253,
+    "state": "MA",
+    "vote": "Yea",
+    "name": "Sen. Edward “Ed” Markey [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412542,
+    "state": "MA",
+    "vote": "Yea",
+    "name": "Sen. Elizabeth Warren [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400064,
+    "state": "MD",
+    "vote": "Yea",
+    "name": "Sen. Benjamin Cardin [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400415,
+    "state": "MD",
+    "vote": "Yea",
+    "name": "Sen. Chris Van Hollen Jr. [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 300025,
+    "state": "ME",
+    "vote": "Yea",
+    "name": "Sen. Susan Collins [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412545,
+    "state": "ME",
+    "vote": "Yea",
+    "name": "Sen. Angus King [I]",
+    "party": "Independent"
+  },
+  {
+    "person": 300093,
+    "state": "MI",
+    "vote": "Yea",
+    "name": "Sen. Debbie Stabenow [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412305,
+    "state": "MI",
+    "vote": "Yea",
+    "name": "Sen. Gary Peters [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412242,
+    "state": "MN",
+    "vote": "Yea",
+    "name": "Sen. Amy Klobuchar [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412742,
+    "state": "MN",
+    "vote": "Yea",
+    "name": "Sen. Tina Smith [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400034,
+    "state": "MO",
+    "vote": "Yea",
+    "name": "Sen. Roy Blunt [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412840,
+    "state": "MO",
+    "vote": "Yea",
+    "name": "Sen. Joshua Hawley [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400432,
+    "state": "MS",
+    "vote": "Yea",
+    "name": "Sen. Roger Wicker [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412743,
+    "state": "MS",
+    "vote": "Yea",
+    "name": "Sen. Cindy Hyde-Smith [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412244,
+    "state": "MT",
+    "vote": "Yea",
+    "name": "Sen. Jon Tester [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412549,
+    "state": "MT",
+    "vote": "Yea",
+    "name": "Sen. Steve Daines [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400054,
+    "state": "NC",
+    "vote": "Yea",
+    "name": "Sen. Richard Burr [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412668,
+    "state": "NC",
+    "vote": "Yea",
+    "name": "Sen. Thom Tillis [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412494,
+    "state": "ND",
+    "vote": "Yea",
+    "name": "Sen. John Hoeven [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412555,
+    "state": "ND",
+    "vote": "Yea",
+    "name": "Sen. Kevin Cramer [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412556,
+    "state": "NE",
+    "vote": "Yea",
+    "name": "Sen. Deb Fischer [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412671,
+    "state": "NE",
+    "vote": "Nay",
+    "name": "Sen. Benjamin Sasse [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412323,
+    "state": "NH",
+    "vote": "Yea",
+    "name": "Sen. Jeanne Shaheen [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412680,
+    "state": "NH",
+    "vote": "Yea",
+    "name": "Sen. Margaret “Maggie” Hassan [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400272,
+    "state": "NJ",
+    "vote": "Yea",
+    "name": "Sen. Robert “Bob” Menendez [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412598,
+    "state": "NJ",
+    "vote": "Yea",
+    "name": "Sen. Cory Booker [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400413,
+    "state": "NM",
+    "vote": "Yea",
+    "name": "Sen. Tom Udall [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412281,
+    "state": "NM",
+    "vote": "Yea",
+    "name": "Sen. Martin Heinrich [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412681,
+    "state": "NV",
+    "vote": "Yea",
+    "name": "Sen. Catherine Cortez Masto [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412715,
+    "state": "NV",
+    "vote": "Yea",
+    "name": "Sen. Jacky Rosen [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 300087,
+    "state": "NY",
+    "vote": "Yea",
+    "name": "Sen. Charles “Chuck” Schumer [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412223,
+    "state": "NY",
+    "vote": "Yea",
+    "name": "Sen. Kirsten Gillibrand [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400050,
+    "state": "OH",
+    "vote": "Yea",
+    "name": "Sen. Sherrod Brown [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400325,
+    "state": "OH",
+    "vote": "Yea",
+    "name": "Sen. Robert “Rob” Portman [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 300055,
+    "state": "OK",
+    "vote": "Nay",
+    "name": "Sen. James “Jim” Inhofe [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412464,
+    "state": "OK",
+    "vote": "Nay",
+    "name": "Sen. James Lankford [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 300100,
+    "state": "OR",
+    "vote": "Yea",
+    "name": "Sen. Ron Wyden [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412325,
+    "state": "OR",
+    "vote": "Yea",
+    "name": "Sen. Jeff Merkley [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400408,
+    "state": "PA",
+    "vote": "Nay",
+    "name": "Sen. Patrick “Pat” Toomey [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412246,
+    "state": "PA",
+    "vote": "Yea",
+    "name": "Sen. Robert “Bob” Casey Jr. [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 300081,
+    "state": "RI",
+    "vote": "Yea",
+    "name": "Sen. John “Jack” Reed [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412247,
+    "state": "RI",
+    "vote": "Yea",
+    "name": "Sen. Sheldon Whitehouse [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 300047,
+    "state": "SC",
+    "vote": "Yea",
+    "name": "Sen. Lindsey Graham [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412471,
+    "state": "SC",
+    "vote": "Yea",
+    "name": "Sen. Tim Scott [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400546,
+    "state": "SD",
+    "vote": "Yea",
+    "name": "Sen. John Thune [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412669,
+    "state": "SD",
+    "vote": "Yea",
+    "name": "Sen. Mike Rounds [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 300002,
+    "state": "TN",
+    "vote": "Yea",
+    "name": "Sen. Lamar Alexander [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400032,
+    "state": "TN",
+    "vote": "Yea",
+    "name": "Sen. Marsha Blackburn [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 300027,
+    "state": "TX",
+    "vote": "Yea",
+    "name": "Sen. John Cornyn [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412573,
+    "state": "TX",
+    "vote": "Nay",
+    "name": "Sen. Ted Cruz [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412495,
+    "state": "UT",
+    "vote": "Nay",
+    "name": "Sen. Mike Lee [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412841,
+    "state": "UT",
+    "vote": "Yea",
+    "name": "Sen. Mitt Romney [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412321,
+    "state": "VA",
+    "vote": "Yea",
+    "name": "Sen. Mark Warner [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412582,
+    "state": "VA",
+    "vote": "Yea",
+    "name": "Sen. Timothy “Tim” Kaine [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 300065,
+    "state": "VT",
+    "vote": "Yea",
+    "name": "Sen. Patrick Leahy [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400357,
+    "state": "VT",
+    "vote": "Yea",
+    "name": "Sen. Bernard “Bernie” Sanders [I]",
+    "party": "Independent"
+  },
+  {
+    "person": 300018,
+    "state": "WA",
+    "vote": "Yea",
+    "name": "Sen. Maria Cantwell [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 300076,
+    "state": "WA",
+    "vote": "Yea",
+    "name": "Sen. Patty Murray [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400013,
+    "state": "WI",
+    "vote": "Yea",
+    "name": "Sen. Tammy Baldwin [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412496,
+    "state": "WI",
+    "vote": "Nay",
+    "name": "Sen. Ron Johnson [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400061,
+    "state": "WV",
+    "vote": "Yea",
+    "name": "Sen. Shelley Capito [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412391,
+    "state": "WV",
+    "vote": "Yea",
+    "name": "Sen. Joe Manchin III [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 300041,
+    "state": "WY",
+    "vote": "Yea",
+    "name": "Sen. Michael Enzi [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412251,
+    "state": "WY",
+    "vote": "Yea",
+    "name": "Sen. John Barrasso [R]",
+    "party": "Republican"
+  }
+]
