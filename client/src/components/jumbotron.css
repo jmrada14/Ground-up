@@ -1,0 +1,12 @@
+.jumbotron {
+    margin-top: 10%;
+    background-image: linear-gradient(
+            0deg,
+            rgba(255, 255, 255, 0.7),
+            rgba(255, 255, 255, 0.7)
+    ),
+    url("../../src/assets/happyBackgorund.jpg");
+    background-size: cover;
+    min-height: 40vh;
+    position: relative;
+}
