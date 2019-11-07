@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
+import "../jumbotron.css"
 
 class Landing extends Component {
   render() {
@@ -7,10 +8,15 @@ class Landing extends Component {
       <div style={{ height: "75vh" }} className="container valign-wrapper">
         <div className="row">
           <div className="col s12 center-align">
-            <h4>
+              <div
+                  className="jumbotron">
+              </div>
+              <br/>
+              <h4>
               <b>Welcome!</b> this is Ground-up the app that let's you follow{" "}
               <span style={{ fontFamily: "monospace" }}>local politics</span> in an easy and organized way.
             </h4>
+
             <p className="flow-text grey-text text-darken-1">
               Register or log in bellow, if you don't want an account use our demo account:
                 demo@demo.com pass: welcomeDemo
