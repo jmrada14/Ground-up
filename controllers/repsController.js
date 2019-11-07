@@ -2,7 +2,7 @@ const db = require("../models/representatives");
 console.log(db);
 module.exports = {
     findAll: function(req, res) {
-        console.log(findAll);
+
         db
             .find(req.query)
             .sort({ state: 0 })
