@@ -1,6 +1,6 @@
 const router = require("express").Router();
 const repsController = require("../../controllers/repsController");
-console.log(repsController);
+// console.log(repsController);
 
 router.route("/all")
     .get(repsController.findAll);
