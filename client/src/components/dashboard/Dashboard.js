@@ -21,16 +21,13 @@ class Dashboard extends Component {
             </h4>
           </div>
 <br/><br/>
-          <div className="section no-pad-bot orange lighten-5" id="index-banner">
+          <div className="section no-pad-bot green lighten-5" id="index-banner">
             <div className="container">
               <br/>
-                <h1 className="header center  orange-text text-darken-3">Starter Template</h1>
+                <h1 className="header center  green-text text-darken-3">Starter Template</h1>
                 <div className="row center">
                   <h5 className="header col s12 light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                     eiusmod tempor</h5>
-                </div>
-                <div className="row center">
-                  <a href="#" className="btn-large waves-effect waves-light orange darken-3">View more</a>
                 </div>
                 <br/>
 

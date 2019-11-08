@@ -1,5 +1,5 @@
 //IT IS WORKING BUDDY!!!
-const dotenv = require('dotenv');
+// const dotenv = require('dotenv');
 const axios = require('axios');
 const state = "dc";
 const chamber = "house";
@@ -43,7 +43,7 @@ axios.request({
 
         console.log(representativesObj);
 /////////////////////////////////////
-         db.create(representativesObj);
+//          db.create(representativesObj);
         db.find().then(res => console.log(res.length));
     }
 }).catch(error => {
