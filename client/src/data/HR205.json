@@ -1,0 +1,3458 @@
+[
+  {
+    "person": 400440,
+    "state": "AK",
+    "district": 0,
+    "vote": "Nay",
+    "name": "Rep. Don Young [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400004,
+    "state": "AL",
+    "district": 4,
+    "vote": "Nay",
+    "name": "Rep. Robert Aderholt [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400341,
+    "state": "AL",
+    "district": 3,
+    "vote": "Nay",
+    "name": "Rep. Mike Rogers [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412394,
+    "state": "AL",
+    "district": 2,
+    "vote": "Nay",
+    "name": "Rep. Martha Roby [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412395,
+    "state": "AL",
+    "district": 5,
+    "vote": "Nay",
+    "name": "Rep. Mo Brooks [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412396,
+    "state": "AL",
+    "district": 7,
+    "vote": "Yea",
+    "name": "Rep. Terri Sewell [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412601,
+    "state": "AL",
+    "district": 1,
+    "vote": "Nay",
+    "name": "Rep. Bradley Byrne [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412608,
+    "state": "AL",
+    "district": 6,
+    "vote": "Nay",
+    "name": "Rep. Gary Palmer [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412400,
+    "state": "AR",
+    "district": 1,
+    "vote": "Nay",
+    "name": "Rep. Eric “Rick” Crawford [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412402,
+    "state": "AR",
+    "district": 3,
+    "vote": "Nay",
+    "name": "Rep. Steve Womack [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412609,
+    "state": "AR",
+    "district": 2,
+    "vote": "Nay",
+    "name": "Rep. French Hill [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412610,
+    "state": "AR",
+    "district": 4,
+    "vote": "Nay",
+    "name": "Rep. Bruce Westerman [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400162,
+    "state": "AZ",
+    "district": 3,
+    "vote": "Yea",
+    "name": "Rep. Raúl Grijalva [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412286,
+    "state": "AZ",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. Ann Kirkpatrick [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412397,
+    "state": "AZ",
+    "district": 4,
+    "vote": "Nay",
+    "name": "Rep. Paul Gosar [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412399,
+    "state": "AZ",
+    "district": 6,
+    "vote": "Nay",
+    "name": "Rep. David Schweikert [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412612,
+    "state": "AZ",
+    "district": 7,
+    "vote": "Yea",
+    "name": "Rep. Ruben Gallego [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412682,
+    "state": "AZ",
+    "district": 1,
+    "vote": "Yea",
+    "name": "Rep. Tom O’Halleran [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412683,
+    "state": "AZ",
+    "district": 5,
+    "vote": "Nay",
+    "name": "Rep. Andy Biggs [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412745,
+    "state": "AZ",
+    "district": 8,
+    "vote": "Nay",
+    "name": "Rep. Debbie Lesko [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412753,
+    "state": "AZ",
+    "district": 9,
+    "vote": "Yea",
+    "name": "Rep. Greg Stanton [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400057,
+    "state": "CA",
+    "district": 42,
+    "vote": "Nay",
+    "name": "Rep. Ken Calvert [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400097,
+    "state": "CA",
+    "district": 53,
+    "vote": "Yea",
+    "name": "Rep. Susan Davis [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400124,
+    "state": "CA",
+    "district": 18,
+    "vote": "Yea",
+    "name": "Rep. Anna Eshoo [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400237,
+    "state": "CA",
+    "district": 13,
+    "vote": "Yea",
+    "name": "Rep. Barbara Lee [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400245,
+    "state": "CA",
+    "district": 19,
+    "vote": "Yea",
+    "name": "Rep. Zoe Lofgren [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400290,
+    "state": "CA",
+    "district": 32,
+    "vote": "Yea",
+    "name": "Rep. Grace Napolitano [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400297,
+    "state": "CA",
+    "district": 22,
+    "vote": "Nay",
+    "name": "Rep. Devin Nunes [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400347,
+    "state": "CA",
+    "district": 40,
+    "vote": "Yea",
+    "name": "Rep. Lucille Roybal-Allard [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400355,
+    "state": "CA",
+    "district": 38,
+    "vote": "Yea",
+    "name": "Rep. Linda Sánchez [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400361,
+    "state": "CA",
+    "district": 28,
+    "vote": "Yea",
+    "name": "Rep. Adam Schiff [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400371,
+    "state": "CA",
+    "district": 30,
+    "vote": "Yea",
+    "name": "Rep. Brad Sherman [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400403,
+    "state": "CA",
+    "district": 5,
+    "vote": "Yea",
+    "name": "Rep. Mike Thompson [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400422,
+    "state": "CA",
+    "district": 43,
+    "vote": "Yea",
+    "name": "Rep. Maxine Waters [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400618,
+    "state": "CA",
+    "district": 16,
+    "vote": "Yea",
+    "name": "Rep. Jim Costa [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400663,
+    "state": "CA",
+    "district": 6,
+    "vote": "Yea",
+    "name": "Rep. Doris Matsui [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412189,
+    "state": "CA",
+    "district": 9,
+    "vote": "Yea",
+    "name": "Rep. Jerry McNerney [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412190,
+    "state": "CA",
+    "district": 23,
+    "vote": "Nay",
+    "name": "Rep. Kevin McCarthy [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412259,
+    "state": "CA",
+    "district": 14,
+    "vote": "Yea",
+    "name": "Rep. Jackie Speier [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412283,
+    "state": "CA",
+    "district": 50,
+    "vote": "Nay",
+    "name": "Rep. Duncan Hunter [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412295,
+    "state": "CA",
+    "district": 4,
+    "vote": "Nay",
+    "name": "Rep. Tom McClintock [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412379,
+    "state": "CA",
+    "district": 27,
+    "vote": "Yea",
+    "name": "Rep. Judy Chu [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412382,
+    "state": "CA",
+    "district": 3,
+    "vote": "Yea",
+    "name": "Rep. John Garamendi [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412404,
+    "state": "CA",
+    "district": 37,
+    "vote": "Yea",
+    "name": "Rep. Karen Bass [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412510,
+    "state": "CA",
+    "district": 1,
+    "vote": "Nay",
+    "name": "Rep. Doug LaMalfa [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412511,
+    "state": "CA",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. Jared Huffman [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412512,
+    "state": "CA",
+    "district": 7,
+    "vote": "Yea",
+    "name": "Rep. Ami Bera [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412513,
+    "state": "CA",
+    "district": 8,
+    "vote": "Nay",
+    "name": "Rep. Paul Cook [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412514,
+    "state": "CA",
+    "district": 15,
+    "vote": "Yea",
+    "name": "Rep. Eric Swalwell [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412516,
+    "state": "CA",
+    "district": 26,
+    "vote": "Yea",
+    "name": "Rep. Julia Brownley [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412517,
+    "state": "CA",
+    "district": 29,
+    "vote": "Yea",
+    "name": "Rep. Tony Cárdenas [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412519,
+    "state": "CA",
+    "district": 36,
+    "vote": "Yea",
+    "name": "Rep. Raul Ruiz [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412520,
+    "state": "CA",
+    "district": 41,
+    "vote": "Yea",
+    "name": "Rep. Mark Takano [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412521,
+    "state": "CA",
+    "district": 47,
+    "vote": "Yea",
+    "name": "Rep. Alan Lowenthal [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412522,
+    "state": "CA",
+    "district": 51,
+    "vote": "Yea",
+    "name": "Rep. Juan Vargas [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412523,
+    "state": "CA",
+    "district": 52,
+    "vote": "Yea",
+    "name": "Rep. Scott Peters [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412613,
+    "state": "CA",
+    "district": 11,
+    "vote": "Yea",
+    "name": "Rep. Mark DeSaulnier [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412615,
+    "state": "CA",
+    "district": 31,
+    "vote": "Yea",
+    "name": "Rep. Pete Aguilar [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412616,
+    "state": "CA",
+    "district": 33,
+    "vote": "Yea",
+    "name": "Rep. Ted Lieu [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412617,
+    "state": "CA",
+    "district": 35,
+    "vote": "Yea",
+    "name": "Rep. Norma Torres [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412684,
+    "state": "CA",
+    "district": 17,
+    "vote": "Yea",
+    "name": "Rep. Ro Khanna [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412685,
+    "state": "CA",
+    "district": 20,
+    "vote": "Yea",
+    "name": "Rep. Jimmy Panetta [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412686,
+    "state": "CA",
+    "district": 24,
+    "vote": "Yea",
+    "name": "Rep. Salud Carbajal [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412687,
+    "state": "CA",
+    "district": 44,
+    "vote": "Yea",
+    "name": "Rep. Nanette Barragán [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412688,
+    "state": "CA",
+    "district": 46,
+    "vote": "Yea",
+    "name": "Rep. Luis Correa [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412739,
+    "state": "CA",
+    "district": 34,
+    "vote": "Yea",
+    "name": "Rep. Jimmy Gomez [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412754,
+    "state": "CA",
+    "district": 10,
+    "vote": "Yea",
+    "name": "Rep. Josh Harder [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412755,
+    "state": "CA",
+    "district": 21,
+    "vote": "Yea",
+    "name": "Rep. TJ Cox [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412756,
+    "state": "CA",
+    "district": 25,
+    "vote": "Yea",
+    "name": "Rep. Katie Hill [D, 2019-2019]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412757,
+    "state": "CA",
+    "district": 39,
+    "vote": "Yea",
+    "name": "Rep. Gilbert Cisneros [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412758,
+    "state": "CA",
+    "district": 45,
+    "vote": "Yea",
+    "name": "Rep. Katie Porter [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412759,
+    "state": "CA",
+    "district": 48,
+    "vote": "Yea",
+    "name": "Rep. Harley Rouda [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412760,
+    "state": "CA",
+    "district": 49,
+    "vote": "Yea",
+    "name": "Rep. Mike Levin [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400101,
+    "state": "CO",
+    "district": 1,
+    "vote": "Yea",
+    "name": "Rep. Diana DeGette [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412191,
+    "state": "CO",
+    "district": 5,
+    "vote": "Nay",
+    "name": "Rep. Doug Lamborn [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412192,
+    "state": "CO",
+    "district": 7,
+    "vote": "Yea",
+    "name": "Rep. Ed Perlmutter [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412405,
+    "state": "CO",
+    "district": 3,
+    "vote": "Nay",
+    "name": "Rep. Scott Tipton [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412619,
+    "state": "CO",
+    "district": 4,
+    "vote": "Nay",
+    "name": "Rep. Ken Buck [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412761,
+    "state": "CO",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. Joe Neguse [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412762,
+    "state": "CO",
+    "district": 6,
+    "vote": "Yea",
+    "name": "Rep. Jason Crow [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400103,
+    "state": "CT",
+    "district": 3,
+    "vote": "Yea",
+    "name": "Rep. Rosa DeLauro [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400233,
+    "state": "CT",
+    "district": 1,
+    "vote": "Yea",
+    "name": "Rep. John Larson [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412193,
+    "state": "CT",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. Joe Courtney [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412282,
+    "state": "CT",
+    "district": 4,
+    "vote": "Yea",
+    "name": "Rep. James Himes [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412763,
+    "state": "CT",
+    "district": 5,
+    "vote": "Yea",
+    "name": "Rep. Jahana Hayes [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412689,
+    "state": "DE",
+    "district": 0,
+    "vote": "Yea",
+    "name": "Rep. Lisa Blunt Rochester [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400108,
+    "state": "FL",
+    "district": 25,
+    "vote": "Yea",
+    "name": "Rep. Mario Diaz-Balart [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400170,
+    "state": "FL",
+    "district": 20,
+    "vote": "Yea",
+    "name": "Rep. Alcee Hastings [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400623,
+    "state": "FL",
+    "district": 23,
+    "vote": "Yea",
+    "name": "Rep. Debbie Wasserman Schultz [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412195,
+    "state": "FL",
+    "district": 14,
+    "vote": "Yea",
+    "name": "Rep. Kathy Castor [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412196,
+    "state": "FL",
+    "district": 16,
+    "vote": "Yea",
+    "name": "Rep. Vern Buchanan [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412250,
+    "state": "FL",
+    "district": 12,
+    "vote": "Yea",
+    "name": "Rep. Gus Bilirakis [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412309,
+    "state": "FL",
+    "district": 8,
+    "vote": "Yea",
+    "name": "Rep. Bill Posey [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412385,
+    "state": "FL",
+    "district": 22,
+    "vote": "Yea",
+    "name": "Rep. Theodore Deutch [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412410,
+    "state": "FL",
+    "district": 11,
+    "vote": "Yea",
+    "name": "Rep. Daniel Webster [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412412,
+    "state": "FL",
+    "district": 24,
+    "vote": "Yea",
+    "name": "Rep. Frederica Wilson [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412525,
+    "state": "FL",
+    "district": 3,
+    "vote": "Nay",
+    "name": "Rep. Ted Yoho [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412529,
+    "state": "FL",
+    "district": 21,
+    "vote": "Yea",
+    "name": "Rep. Lois Frankel [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412690,
+    "state": "FL",
+    "district": 1,
+    "vote": "Yea",
+    "name": "Rep. Matt Gaetz [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412691,
+    "state": "FL",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. Neal Dunn [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412692,
+    "state": "FL",
+    "district": 4,
+    "vote": "Yea",
+    "name": "Rep. John Rutherford [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412693,
+    "state": "FL",
+    "district": 5,
+    "vote": "Yea",
+    "name": "Rep. Al Lawson [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412694,
+    "state": "FL",
+    "district": 7,
+    "vote": "Yea",
+    "name": "Rep. Stephanie Murphy [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412695,
+    "state": "FL",
+    "district": 9,
+    "vote": "Yea",
+    "name": "Rep. Darren Soto [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412696,
+    "state": "FL",
+    "district": 10,
+    "vote": "Yea",
+    "name": "Rep. Val Demings [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412697,
+    "state": "FL",
+    "district": 13,
+    "vote": "Yea",
+    "name": "Rep. Charlie Crist [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412698,
+    "state": "FL",
+    "district": 18,
+    "vote": "Yea",
+    "name": "Rep. Brian Mast [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412699,
+    "state": "FL",
+    "district": 19,
+    "vote": "Yea",
+    "name": "Rep. Francis Rooney [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412764,
+    "state": "FL",
+    "district": 6,
+    "vote": "Yea",
+    "name": "Rep. Michael Waltz [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412765,
+    "state": "FL",
+    "district": 15,
+    "vote": "Yea",
+    "name": "Rep. Ross Spano [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412766,
+    "state": "FL",
+    "district": 17,
+    "vote": "Yea",
+    "name": "Rep. Gregory Steube [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412767,
+    "state": "FL",
+    "district": 26,
+    "vote": "Yea",
+    "name": "Rep. Debbie Mucarsel-Powell [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412768,
+    "state": "FL",
+    "district": 27,
+    "vote": "Yea",
+    "name": "Rep. Donna Shalala [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400030,
+    "state": "GA",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. Sanford Bishop Jr. [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400240,
+    "state": "GA",
+    "district": 5,
+    "vote": "Yea",
+    "name": "Rep. John Lewis [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400363,
+    "state": "GA",
+    "district": 13,
+    "vote": "Yea",
+    "name": "Rep. David Scott [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412199,
+    "state": "GA",
+    "district": 4,
+    "vote": "Yea",
+    "name": "Rep. Henry “Hank” Johnson Jr. [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412388,
+    "state": "GA",
+    "district": 14,
+    "vote": "Nay",
+    "name": "Rep. Tom Graves [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412416,
+    "state": "GA",
+    "district": 7,
+    "vote": "Nay",
+    "name": "Rep. Rob Woodall [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412417,
+    "state": "GA",
+    "district": 8,
+    "vote": "Nay",
+    "name": "Rep. Austin Scott [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412531,
+    "state": "GA",
+    "district": 9,
+    "vote": "Nay",
+    "name": "Rep. Doug Collins [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412622,
+    "state": "GA",
+    "district": 1,
+    "vote": "Nay",
+    "name": "Rep. Buddy Carter [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412623,
+    "state": "GA",
+    "district": 10,
+    "vote": "Nay",
+    "name": "Rep. Jody Hice [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412624,
+    "state": "GA",
+    "district": 11,
+    "vote": "Nay",
+    "name": "Rep. Barry Loudermilk [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412625,
+    "state": "GA",
+    "district": 12,
+    "vote": "Nay",
+    "name": "Rep. Rick Allen [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412700,
+    "state": "GA",
+    "district": 3,
+    "vote": "Nay",
+    "name": "Rep. Drew Ferguson IV [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412769,
+    "state": "GA",
+    "district": 6,
+    "vote": "Yea",
+    "name": "Rep. Lucy McBath [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400069,
+    "state": "HI",
+    "district": 1,
+    "vote": "Yea",
+    "name": "Rep. Ed Case [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412532,
+    "state": "HI",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. Tulsi Gabbard [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400220,
+    "state": "IA",
+    "district": 4,
+    "vote": "Nay",
+    "name": "Rep. Steve King [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412209,
+    "state": "IA",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. David Loebsack [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412771,
+    "state": "IA",
+    "district": 1,
+    "vote": "Yea",
+    "name": "Rep. Abby Finkenauer [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412772,
+    "state": "IA",
+    "district": 3,
+    "vote": "Yea",
+    "name": "Rep. Cynthia Axne [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400376,
+    "state": "ID",
+    "district": 2,
+    "vote": "Nay",
+    "name": "Rep. Michael “Mike” Simpson [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412773,
+    "state": "ID",
+    "district": 1,
+    "vote": "Nay",
+    "name": "Rep. Russ Fulcher [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400093,
+    "state": "IL",
+    "district": 7,
+    "vote": "Yea",
+    "name": "Rep. Danny Davis [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400350,
+    "state": "IL",
+    "district": 1,
+    "vote": "Yea",
+    "name": "Rep. Bobby Rush [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400360,
+    "state": "IL",
+    "district": 9,
+    "vote": "Yea",
+    "name": "Rep. Janice “Jan” Schakowsky [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400373,
+    "state": "IL",
+    "district": 15,
+    "vote": "Nay",
+    "name": "Rep. John Shimkus [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400630,
+    "state": "IL",
+    "district": 3,
+    "vote": "Yea",
+    "name": "Rep. Daniel Lipinski [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412257,
+    "state": "IL",
+    "district": 11,
+    "vote": "Yea",
+    "name": "Rep. Bill Foster [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412331,
+    "state": "IL",
+    "district": 5,
+    "vote": "Yea",
+    "name": "Rep. Mike Quigley [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412421,
+    "state": "IL",
+    "district": 16,
+    "vote": "Nay",
+    "name": "Rep. Adam Kinzinger [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412534,
+    "state": "IL",
+    "district": 10,
+    "vote": "Yea",
+    "name": "Rep. Bradley Schneider [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412536,
+    "state": "IL",
+    "district": 13,
+    "vote": "Nay",
+    "name": "Rep. Rodney Davis [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412537,
+    "state": "IL",
+    "district": 17,
+    "vote": "Yea",
+    "name": "Rep. Cheri Bustos [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412595,
+    "state": "IL",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. Robin Kelly [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412629,
+    "state": "IL",
+    "district": 12,
+    "vote": "Nay",
+    "name": "Rep. Mike Bost [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412674,
+    "state": "IL",
+    "district": 18,
+    "vote": "Nay",
+    "name": "Rep. Darin LaHood [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412701,
+    "state": "IL",
+    "district": 8,
+    "vote": "Yea",
+    "name": "Rep. Raja Krishnamoorthi [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412774,
+    "state": "IL",
+    "district": 4,
+    "vote": "Yea",
+    "name": "Rep. Jesús García [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412775,
+    "state": "IL",
+    "district": 6,
+    "vote": "Yea",
+    "name": "Rep. Sean Casten [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412776,
+    "state": "IL",
+    "district": 14,
+    "vote": "Yea",
+    "name": "Rep. Lauren Underwood [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400417,
+    "state": "IN",
+    "district": 1,
+    "vote": "Yea",
+    "name": "Rep. Peter Visclosky [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412258,
+    "state": "IN",
+    "district": 7,
+    "vote": "Yea",
+    "name": "Rep. André Carson [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412427,
+    "state": "IN",
+    "district": 8,
+    "vote": "Nay",
+    "name": "Rep. Larry Bucshon [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412538,
+    "state": "IN",
+    "district": 2,
+    "vote": "Nay",
+    "name": "Rep. Jackie Walorski [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412539,
+    "state": "IN",
+    "district": 5,
+    "vote": "Nay",
+    "name": "Rep. Susan Brooks [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412702,
+    "state": "IN",
+    "district": 3,
+    "vote": "Nay",
+    "name": "Rep. Jim Banks [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412703,
+    "state": "IN",
+    "district": 9,
+    "vote": "Yea",
+    "name": "Rep. Trey Hollingsworth [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412777,
+    "state": "IN",
+    "district": 4,
+    "vote": "Nay",
+    "name": "Rep. James Baird [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412778,
+    "state": "IN",
+    "district": 6,
+    "vote": "Nay",
+    "name": "Rep. Greg Pence [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412704,
+    "state": "KS",
+    "district": 1,
+    "vote": "Nay",
+    "name": "Rep. Roger Marshall [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412735,
+    "state": "KS",
+    "district": 4,
+    "vote": "Nay",
+    "name": "Rep. Ron Estes [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412779,
+    "state": "KS",
+    "district": 2,
+    "vote": "Nay",
+    "name": "Rep. Steven Watkins [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412780,
+    "state": "KS",
+    "district": 3,
+    "vote": "Yea",
+    "name": "Rep. Sharice Davids [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400340,
+    "state": "KY",
+    "district": 5,
+    "vote": "Nay",
+    "name": "Rep. Harold “Hal” Rogers [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412211,
+    "state": "KY",
+    "district": 3,
+    "vote": "Yea",
+    "name": "Rep. John Yarmuth [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412278,
+    "state": "KY",
+    "district": 2,
+    "vote": "Nay",
+    "name": "Rep. Brett Guthrie [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412503,
+    "state": "KY",
+    "district": 4,
+    "vote": "Nay",
+    "name": "Rep. Thomas Massie [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412541,
+    "state": "KY",
+    "district": 6,
+    "vote": "Nay",
+    "name": "Rep. Garland “Andy” Barr [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412676,
+    "state": "KY",
+    "district": 1,
+    "vote": "Nay",
+    "name": "Rep. James Comer [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412261,
+    "state": "LA",
+    "district": 1,
+    "vote": "Nay",
+    "name": "Rep. Steve Scalise [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412432,
+    "state": "LA",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. Cedric Richmond [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412630,
+    "state": "LA",
+    "district": 5,
+    "vote": "Not Voting",
+    "name": "Rep. Ralph Abraham [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412631,
+    "state": "LA",
+    "district": 6,
+    "vote": "Nay",
+    "name": "Rep. Garret Graves [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412705,
+    "state": "LA",
+    "district": 3,
+    "vote": "Nay",
+    "name": "Rep. Clay Higgins [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412706,
+    "state": "LA",
+    "district": 4,
+    "vote": "Nay",
+    "name": "Rep. Mike Johnson [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400249,
+    "state": "MA",
+    "district": 8,
+    "vote": "Yea",
+    "name": "Rep. Stephen Lynch [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400263,
+    "state": "MA",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. James “Jim” McGovern [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400291,
+    "state": "MA",
+    "district": 1,
+    "vote": "Yea",
+    "name": "Rep. Richard Neal [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412435,
+    "state": "MA",
+    "district": 9,
+    "vote": "Yea",
+    "name": "Rep. William Keating [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412543,
+    "state": "MA",
+    "district": 4,
+    "vote": "Yea",
+    "name": "Rep. Joseph Kennedy III [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412600,
+    "state": "MA",
+    "district": 5,
+    "vote": "Yea",
+    "name": "Rep. Katherine Clark [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412632,
+    "state": "MA",
+    "district": 6,
+    "vote": "Yea",
+    "name": "Rep. Seth Moulton [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412781,
+    "state": "MA",
+    "district": 3,
+    "vote": "Yea",
+    "name": "Rep. Lori Trahan [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412782,
+    "state": "MA",
+    "district": 7,
+    "vote": "Yea",
+    "name": "Rep. Ayanna Pressley [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400090,
+    "state": "MD",
+    "district": 7,
+    "vote": "Yea",
+    "name": "Rep. Elijah Cummings [D, 1996-2019]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400189,
+    "state": "MD",
+    "district": 5,
+    "vote": "Yea",
+    "name": "Rep. Steny Hoyer [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400349,
+    "state": "MD",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. A. Dutch Ruppersberger [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412212,
+    "state": "MD",
+    "district": 3,
+    "vote": "Yea",
+    "name": "Rep. John Sarbanes [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412434,
+    "state": "MD",
+    "district": 1,
+    "vote": "Nay",
+    "name": "Rep. Andy Harris [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412707,
+    "state": "MD",
+    "district": 4,
+    "vote": "Yea",
+    "name": "Rep. Anthony Brown [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412708,
+    "state": "MD",
+    "district": 8,
+    "vote": "Yea",
+    "name": "Rep. Jamie Raskin [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412783,
+    "state": "MD",
+    "district": 6,
+    "vote": "Yea",
+    "name": "Rep. David Trone [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412307,
+    "state": "ME",
+    "district": 1,
+    "vote": "Yea",
+    "name": "Rep. Chellie Pingree [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412842,
+    "state": "ME",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. Jared Golden [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400414,
+    "state": "MI",
+    "district": 6,
+    "vote": "Nay",
+    "name": "Rep. Fred Upton [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412213,
+    "state": "MI",
+    "district": 7,
+    "vote": "Nay",
+    "name": "Rep. Tim Walberg [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412437,
+    "state": "MI",
+    "district": 2,
+    "vote": "Nay",
+    "name": "Rep. Bill Huizenga [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412438,
+    "state": "MI",
+    "district": 3,
+    "vote": "Nay",
+    "name": "Rep. Justin Amash [I]",
+    "party": "Independent"
+  },
+  {
+    "person": 412546,
+    "state": "MI",
+    "district": 5,
+    "vote": "Yea",
+    "name": "Rep. Daniel Kildee [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412634,
+    "state": "MI",
+    "district": 4,
+    "vote": "Nay",
+    "name": "Rep. John Moolenaar [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412637,
+    "state": "MI",
+    "district": 12,
+    "vote": "Yea",
+    "name": "Rep. Debbie Dingell [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412638,
+    "state": "MI",
+    "district": 14,
+    "vote": "Not Voting",
+    "name": "Rep. Brenda Lawrence [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412709,
+    "state": "MI",
+    "district": 1,
+    "vote": "Nay",
+    "name": "Rep. Jack Bergman [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412710,
+    "state": "MI",
+    "district": 10,
+    "vote": "Nay",
+    "name": "Rep. Paul Mitchell [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412784,
+    "state": "MI",
+    "district": 8,
+    "vote": "Yea",
+    "name": "Rep. Elissa Slotkin [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412785,
+    "state": "MI",
+    "district": 9,
+    "vote": "Yea",
+    "name": "Rep. Andy Levin [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412786,
+    "state": "MI",
+    "district": 11,
+    "vote": "Yea",
+    "name": "Rep. Haley Stevens [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412787,
+    "state": "MI",
+    "district": 13,
+    "vote": "Yea",
+    "name": "Rep. Rashida Tlaib [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400259,
+    "state": "MN",
+    "district": 4,
+    "vote": "Yea",
+    "name": "Rep. Betty McCollum [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400316,
+    "state": "MN",
+    "district": 7,
+    "vote": "Nay",
+    "name": "Rep. Collin Peterson [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412639,
+    "state": "MN",
+    "district": 6,
+    "vote": "Nay",
+    "name": "Rep. Tom Emmer [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412788,
+    "state": "MN",
+    "district": 1,
+    "vote": "Nay",
+    "name": "Rep. Jim Hagedorn [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412789,
+    "state": "MN",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. Angie Craig [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412790,
+    "state": "MN",
+    "district": 3,
+    "vote": "Yea",
+    "name": "Rep. Dean Phillips [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412791,
+    "state": "MN",
+    "district": 5,
+    "vote": "Yea",
+    "name": "Rep. Ilhan Omar [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412792,
+    "state": "MN",
+    "district": 8,
+    "vote": "Nay",
+    "name": "Rep. Pete Stauber [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400074,
+    "state": "MO",
+    "district": 1,
+    "vote": "Yea",
+    "name": "Rep. Lacy Clay Jr. [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400158,
+    "state": "MO",
+    "district": 6,
+    "vote": "Nay",
+    "name": "Rep. Sam Graves [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400639,
+    "state": "MO",
+    "district": 5,
+    "vote": "Yea",
+    "name": "Rep. Emanuel Cleaver II [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412292,
+    "state": "MO",
+    "district": 3,
+    "vote": "Nay",
+    "name": "Rep. Blaine Luetkemeyer [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412444,
+    "state": "MO",
+    "district": 4,
+    "vote": "Nay",
+    "name": "Rep. Vicky Hartzler [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412445,
+    "state": "MO",
+    "district": 7,
+    "vote": "Nay",
+    "name": "Rep. Billy Long [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412548,
+    "state": "MO",
+    "district": 2,
+    "vote": "Nay",
+    "name": "Rep. Ann Wagner [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412596,
+    "state": "MO",
+    "district": 8,
+    "vote": "Nay",
+    "name": "Rep. Jason Smith [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400402,
+    "state": "MS",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. Bennie Thompson [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412443,
+    "state": "MS",
+    "district": 4,
+    "vote": "Nay",
+    "name": "Rep. Steven Palazzo [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412673,
+    "state": "MS",
+    "district": 1,
+    "vote": "Nay",
+    "name": "Rep. Trent Kelly [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412793,
+    "state": "MS",
+    "district": 3,
+    "vote": "Nay",
+    "name": "Rep. Michael Guest [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412736,
+    "state": "MT",
+    "district": 0,
+    "vote": "Nay",
+    "name": "Rep. Greg Gianforte [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400326,
+    "state": "NC",
+    "district": 4,
+    "vote": "Yea",
+    "name": "Rep. David Price [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400616,
+    "state": "NC",
+    "district": 1,
+    "vote": "Yea",
+    "name": "Rep. George “G.K.” Butterfield Jr. [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400643,
+    "state": "NC",
+    "district": 5,
+    "vote": "Nay",
+    "name": "Rep. Virginia Foxx [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400644,
+    "state": "NC",
+    "district": 10,
+    "vote": "Yea",
+    "name": "Rep. Patrick McHenry [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412550,
+    "state": "NC",
+    "district": 8,
+    "vote": "Nay",
+    "name": "Rep. Richard Hudson [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412552,
+    "state": "NC",
+    "district": 11,
+    "vote": "Nay",
+    "name": "Rep. Mark Meadows [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412553,
+    "state": "NC",
+    "district": 2,
+    "vote": "Nay",
+    "name": "Rep. George Holding [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412607,
+    "state": "NC",
+    "district": 12,
+    "vote": "Yea",
+    "name": "Rep. Alma Adams [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412641,
+    "state": "NC",
+    "district": 7,
+    "vote": "Nay",
+    "name": "Rep. David Rouzer [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412670,
+    "state": "NC",
+    "district": 6,
+    "vote": "Nay",
+    "name": "Rep. Mark Walker [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412712,
+    "state": "NC",
+    "district": 13,
+    "vote": "Nay",
+    "name": "Rep. Ted Budd [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412794,
+    "state": "ND",
+    "district": 0,
+    "vote": "Nay",
+    "name": "Rep. Kelly Armstrong [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400640,
+    "state": "NE",
+    "district": 1,
+    "vote": "Nay",
+    "name": "Rep. Jeff Fortenberry [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412217,
+    "state": "NE",
+    "district": 3,
+    "vote": "Nay",
+    "name": "Rep. Adrian Smith [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412713,
+    "state": "NE",
+    "district": 2,
+    "vote": "Nay",
+    "name": "Rep. Don Bacon [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412557,
+    "state": "NH",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. Ann Kuster [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412795,
+    "state": "NH",
+    "district": 1,
+    "vote": "Yea",
+    "name": "Rep. Chris Pappas [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400308,
+    "state": "NJ",
+    "district": 6,
+    "vote": "Yea",
+    "name": "Rep. Frank Pallone Jr. [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400309,
+    "state": "NJ",
+    "district": 9,
+    "vote": "Yea",
+    "name": "Rep. Bill Pascrell Jr. [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400380,
+    "state": "NJ",
+    "district": 4,
+    "vote": "Yea",
+    "name": "Rep. Christopher “Chris” Smith [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412186,
+    "state": "NJ",
+    "district": 8,
+    "vote": "Yea",
+    "name": "Rep. Albio Sires [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412506,
+    "state": "NJ",
+    "district": 10,
+    "vote": "Yea",
+    "name": "Rep. Donald Payne Jr. [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412606,
+    "state": "NJ",
+    "district": 1,
+    "vote": "Yea",
+    "name": "Rep. Donald Norcross [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412644,
+    "state": "NJ",
+    "district": 12,
+    "vote": "Yea",
+    "name": "Rep. Bonnie Watson Coleman [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412714,
+    "state": "NJ",
+    "district": 5,
+    "vote": "Yea",
+    "name": "Rep. Josh Gottheimer [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412796,
+    "state": "NJ",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. Jefferson Van Drew [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412797,
+    "state": "NJ",
+    "district": 3,
+    "vote": "Yea",
+    "name": "Rep. Andy Kim [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412798,
+    "state": "NJ",
+    "district": 7,
+    "vote": "Yea",
+    "name": "Rep. Tom Malinowski [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412799,
+    "state": "NJ",
+    "district": 11,
+    "vote": "Yea",
+    "name": "Rep. Mikie Sherrill [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412293,
+    "state": "NM",
+    "district": 3,
+    "vote": "Yea",
+    "name": "Rep. Ben Luján [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412800,
+    "state": "NM",
+    "district": 1,
+    "vote": "Yea",
+    "name": "Rep. Debra Haaland [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412801,
+    "state": "NM",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. Xochitl Torres Small [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412318,
+    "state": "NV",
+    "district": 1,
+    "vote": "Yea",
+    "name": "Rep. Dina Titus [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412500,
+    "state": "NV",
+    "district": 2,
+    "vote": "Nay",
+    "name": "Rep. Mark Amodei [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412559,
+    "state": "NV",
+    "district": 4,
+    "vote": "Yea",
+    "name": "Rep. Steven Horsford [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412802,
+    "state": "NV",
+    "district": 3,
+    "vote": "Yea",
+    "name": "Rep. Susie Lee [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400122,
+    "state": "NY",
+    "district": 16,
+    "vote": "Yea",
+    "name": "Rep. Eliot Engel [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400219,
+    "state": "NY",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. Peter “Pete” King [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400246,
+    "state": "NY",
+    "district": 17,
+    "vote": "Yea",
+    "name": "Rep. Nita Lowey [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400251,
+    "state": "NY",
+    "district": 12,
+    "vote": "Yea",
+    "name": "Rep. Carolyn Maloney [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400271,
+    "state": "NY",
+    "district": 5,
+    "vote": "Yea",
+    "name": "Rep. Gregory Meeks [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400289,
+    "state": "NY",
+    "district": 10,
+    "vote": "Yea",
+    "name": "Rep. Jerrold Nadler [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400366,
+    "state": "NY",
+    "district": 15,
+    "vote": "Yea",
+    "name": "Rep. José Serrano [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400416,
+    "state": "NY",
+    "district": 7,
+    "vote": "Yea",
+    "name": "Rep. Nydia Velázquez [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400641,
+    "state": "NY",
+    "district": 26,
+    "vote": "Yea",
+    "name": "Rep. Brian Higgins [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412221,
+    "state": "NY",
+    "district": 9,
+    "vote": "Yea",
+    "name": "Rep. Yvette Clarke [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412319,
+    "state": "NY",
+    "district": 20,
+    "vote": "Yea",
+    "name": "Rep. Paul Tonko [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412393,
+    "state": "NY",
+    "district": 23,
+    "vote": "Nay",
+    "name": "Rep. Tom Reed II [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412560,
+    "state": "NY",
+    "district": 6,
+    "vote": "Yea",
+    "name": "Rep. Grace Meng [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412561,
+    "state": "NY",
+    "district": 8,
+    "vote": "Yea",
+    "name": "Rep. Hakeem Jeffries [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412562,
+    "state": "NY",
+    "district": 18,
+    "vote": "Yea",
+    "name": "Rep. Sean Maloney [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412563,
+    "state": "NY",
+    "district": 27,
+    "vote": "Nay",
+    "name": "Rep. Chris Collins [R, 2013-2019]",
+    "party": "Republican"
+  },
+  {
+    "person": 412646,
+    "state": "NY",
+    "district": 1,
+    "vote": "Nay",
+    "name": "Rep. Lee Zeldin [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412647,
+    "state": "NY",
+    "district": 4,
+    "vote": "Yea",
+    "name": "Rep. Kathleen Rice [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412648,
+    "state": "NY",
+    "district": 21,
+    "vote": "Yea",
+    "name": "Rep. Elise Stefanik [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412649,
+    "state": "NY",
+    "district": 24,
+    "vote": "Yea",
+    "name": "Rep. John Katko [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412717,
+    "state": "NY",
+    "district": 3,
+    "vote": "Yea",
+    "name": "Rep. Thomas Suozzi [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412718,
+    "state": "NY",
+    "district": 13,
+    "vote": "Yea",
+    "name": "Rep. Adriano Espaillat [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412749,
+    "state": "NY",
+    "district": 25,
+    "vote": "Yea",
+    "name": "Rep. Joseph Morelle [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412803,
+    "state": "NY",
+    "district": 11,
+    "vote": "Yea",
+    "name": "Rep. Max Rose [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412804,
+    "state": "NY",
+    "district": 14,
+    "vote": "Yea",
+    "name": "Rep. Alexandria Ocasio-Cortez [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412805,
+    "state": "NY",
+    "district": 19,
+    "vote": "Yea",
+    "name": "Rep. Antonio Delgado [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412806,
+    "state": "NY",
+    "district": 22,
+    "vote": "Yea",
+    "name": "Rep. Anthony Brindisi [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400071,
+    "state": "OH",
+    "district": 1,
+    "vote": "Nay",
+    "name": "Rep. Steve Chabot [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400211,
+    "state": "OH",
+    "district": 9,
+    "vote": "Yea",
+    "name": "Rep. Marcy Kaptur [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400352,
+    "state": "OH",
+    "district": 13,
+    "vote": "Yea",
+    "name": "Rep. Tim Ryan [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400411,
+    "state": "OH",
+    "district": 10,
+    "vote": "Nay",
+    "name": "Rep. Michael Turner [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412226,
+    "state": "OH",
+    "district": 4,
+    "vote": "Nay",
+    "name": "Rep. Jim Jordan [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412256,
+    "state": "OH",
+    "district": 5,
+    "vote": "Nay",
+    "name": "Rep. Robert Latta [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412327,
+    "state": "OH",
+    "district": 11,
+    "vote": "Yea",
+    "name": "Rep. Marcia Fudge [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412460,
+    "state": "OH",
+    "district": 6,
+    "vote": "Nay",
+    "name": "Rep. Bill Johnson [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412461,
+    "state": "OH",
+    "district": 15,
+    "vote": "Nay",
+    "name": "Rep. Steve Stivers [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412463,
+    "state": "OH",
+    "district": 7,
+    "vote": "Nay",
+    "name": "Rep. Bob Gibbs [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412564,
+    "state": "OH",
+    "district": 2,
+    "vote": "Nay",
+    "name": "Rep. Brad Wenstrup [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412565,
+    "state": "OH",
+    "district": 3,
+    "vote": "Yea",
+    "name": "Rep. Joyce Beatty [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412566,
+    "state": "OH",
+    "district": 14,
+    "vote": "Nay",
+    "name": "Rep. David Joyce [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412675,
+    "state": "OH",
+    "district": 8,
+    "vote": "Nay",
+    "name": "Rep. Warren Davidson [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412747,
+    "state": "OH",
+    "district": 12,
+    "vote": "Nay",
+    "name": "Rep. Troy Balderson [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412807,
+    "state": "OH",
+    "district": 16,
+    "vote": "Nay",
+    "name": "Rep. Anthony Gonzalez [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400077,
+    "state": "OK",
+    "district": 4,
+    "vote": "Nay",
+    "name": "Rep. Tom Cole [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400247,
+    "state": "OK",
+    "district": 3,
+    "vote": "Nay",
+    "name": "Rep. Frank Lucas [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412568,
+    "state": "OK",
+    "district": 2,
+    "vote": "Nay",
+    "name": "Rep. Markwayne Mullin [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412748,
+    "state": "OK",
+    "district": 1,
+    "vote": "Nay",
+    "name": "Rep. Kevin Hern [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412808,
+    "state": "OK",
+    "district": 5,
+    "vote": "Yea",
+    "name": "Rep. Kendra Horn [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400033,
+    "state": "OR",
+    "district": 3,
+    "vote": "Yea",
+    "name": "Rep. Earl Blumenauer [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400100,
+    "state": "OR",
+    "district": 4,
+    "vote": "Yea",
+    "name": "Rep. Peter DeFazio [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400419,
+    "state": "OR",
+    "district": 2,
+    "vote": "Nay",
+    "name": "Rep. Greg Walden [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412315,
+    "state": "OR",
+    "district": 5,
+    "vote": "Yea",
+    "name": "Rep. Kurt Schrader [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412501,
+    "state": "OR",
+    "district": 1,
+    "vote": "Yea",
+    "name": "Rep. Suzanne Bonamici [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400114,
+    "state": "PA",
+    "district": 18,
+    "vote": "Yea",
+    "name": "Rep. Michael “Mike” Doyle Jr. [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412317,
+    "state": "PA",
+    "district": 15,
+    "vote": "Nay",
+    "name": "Rep. Glenn Thompson [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412465,
+    "state": "PA",
+    "district": 16,
+    "vote": "Nay",
+    "name": "Rep. Mike Kelly [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412569,
+    "state": "PA",
+    "district": 10,
+    "vote": "Nay",
+    "name": "Rep. Scott Perry [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412571,
+    "state": "PA",
+    "district": 8,
+    "vote": "Yea",
+    "name": "Rep. Matthew Cartwright [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412652,
+    "state": "PA",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. Brendan Boyle [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412677,
+    "state": "PA",
+    "district": 3,
+    "vote": "Yea",
+    "name": "Rep. Dwight Evans [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412721,
+    "state": "PA",
+    "district": 1,
+    "vote": "Yea",
+    "name": "Rep. Brian Fitzpatrick [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412722,
+    "state": "PA",
+    "district": 11,
+    "vote": "Nay",
+    "name": "Rep. Lloyd Smucker [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412744,
+    "state": "PA",
+    "district": 17,
+    "vote": "Yea",
+    "name": "Rep. Conor Lamb [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412750,
+    "state": "PA",
+    "district": 5,
+    "vote": "Yea",
+    "name": "Rep. Mary Scanlon [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412751,
+    "state": "PA",
+    "district": 7,
+    "vote": "Yea",
+    "name": "Rep. Susan Wild [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412809,
+    "state": "PA",
+    "district": 4,
+    "vote": "Yea",
+    "name": "Rep. Madeleine Dean [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412810,
+    "state": "PA",
+    "district": 6,
+    "vote": "Yea",
+    "name": "Rep. Chrissy Houlahan [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412811,
+    "state": "PA",
+    "district": 9,
+    "vote": "Nay",
+    "name": "Rep. Daniel Meuser [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412812,
+    "state": "PA",
+    "district": 13,
+    "vote": "Nay",
+    "name": "Rep. John Joyce [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412813,
+    "state": "PA",
+    "district": 14,
+    "vote": "Nay",
+    "name": "Rep. Guy Reschenthaler [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412843,
+    "state": "PA",
+    "district": 12,
+    "vote": "Nay",
+    "name": "Rep. Fred Keller [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400230,
+    "state": "RI",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. James “Jim” Langevin [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412470,
+    "state": "RI",
+    "district": 1,
+    "vote": "Yea",
+    "name": "Rep. David Cicilline [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400075,
+    "state": "SC",
+    "district": 6,
+    "vote": "Not Voting",
+    "name": "Rep. James “Jim” Clyburn [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400433,
+    "state": "SC",
+    "district": 2,
+    "vote": "Nay",
+    "name": "Rep. Joe Wilson [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412472,
+    "state": "SC",
+    "district": 3,
+    "vote": "Nay",
+    "name": "Rep. Jeff Duncan [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412572,
+    "state": "SC",
+    "district": 7,
+    "vote": "Nay",
+    "name": "Rep. Tom Rice [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412738,
+    "state": "SC",
+    "district": 5,
+    "vote": "Nay",
+    "name": "Rep. Ralph Norman Jr. [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412814,
+    "state": "SC",
+    "district": 1,
+    "vote": "Yea",
+    "name": "Rep. Joe Cunningham [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412815,
+    "state": "SC",
+    "district": 4,
+    "vote": "Nay",
+    "name": "Rep. William Timmons [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412816,
+    "state": "SD",
+    "district": 0,
+    "vote": "Nay",
+    "name": "Rep. Dusty Johnson [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400081,
+    "state": "TN",
+    "district": 5,
+    "vote": "Yea",
+    "name": "Rep. Jim Cooper [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412236,
+    "state": "TN",
+    "district": 9,
+    "vote": "Yea",
+    "name": "Rep. Steve Cohen [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412310,
+    "state": "TN",
+    "district": 1,
+    "vote": "Nay",
+    "name": "Rep. David “Phil” Roe [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412476,
+    "state": "TN",
+    "district": 3,
+    "vote": "Nay",
+    "name": "Rep. Charles “Chuck” Fleischmann [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412477,
+    "state": "TN",
+    "district": 4,
+    "vote": "Nay",
+    "name": "Rep. Scott DesJarlais [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412724,
+    "state": "TN",
+    "district": 8,
+    "vote": "Nay",
+    "name": "Rep. David Kustoff [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412817,
+    "state": "TN",
+    "district": 2,
+    "vote": "Nay",
+    "name": "Rep. Tim Burchett [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412818,
+    "state": "TN",
+    "district": 6,
+    "vote": "Nay",
+    "name": "Rep. John Rose [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412819,
+    "state": "TN",
+    "district": 7,
+    "vote": "Nay",
+    "name": "Rep. Mark Green [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400046,
+    "state": "TX",
+    "district": 8,
+    "vote": "Nay",
+    "name": "Rep. Kevin Brady [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400052,
+    "state": "TX",
+    "district": 26,
+    "vote": "Nay",
+    "name": "Rep. Michael Burgess [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400068,
+    "state": "TX",
+    "district": 31,
+    "vote": "Nay",
+    "name": "Rep. John Carter [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400111,
+    "state": "TX",
+    "district": 35,
+    "vote": "Yea",
+    "name": "Rep. Lloyd Doggett [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400157,
+    "state": "TX",
+    "district": 12,
+    "vote": "Nay",
+    "name": "Rep. Kay Granger [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400199,
+    "state": "TX",
+    "district": 18,
+    "vote": "Yea",
+    "name": "Rep. Sheila Jackson Lee [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400204,
+    "state": "TX",
+    "district": 30,
+    "vote": "Yea",
+    "name": "Rep. Eddie Johnson [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400404,
+    "state": "TX",
+    "district": 13,
+    "vote": "Nay",
+    "name": "Rep. Mac Thornberry [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400651,
+    "state": "TX",
+    "district": 1,
+    "vote": "Nay",
+    "name": "Rep. Louie Gohmert Jr. [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400653,
+    "state": "TX",
+    "district": 9,
+    "vote": "Yea",
+    "name": "Rep. Al Green [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400654,
+    "state": "TX",
+    "district": 10,
+    "vote": "Nay",
+    "name": "Rep. Michael McCaul [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400655,
+    "state": "TX",
+    "district": 11,
+    "vote": "Nay",
+    "name": "Rep. Michael Conaway [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400656,
+    "state": "TX",
+    "district": 24,
+    "vote": "Nay",
+    "name": "Rep. Kenny Marchant [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400657,
+    "state": "TX",
+    "district": 28,
+    "vote": "Nay",
+    "name": "Rep. Henry Cuellar [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412302,
+    "state": "TX",
+    "district": 22,
+    "vote": "Nay",
+    "name": "Rep. Pete Olson [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412480,
+    "state": "TX",
+    "district": 17,
+    "vote": "Nay",
+    "name": "Rep. Bill Flores [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412574,
+    "state": "TX",
+    "district": 14,
+    "vote": "Nay",
+    "name": "Rep. Randy Weber [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412576,
+    "state": "TX",
+    "district": 20,
+    "vote": "Yea",
+    "name": "Rep. Joaquin Castro [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412578,
+    "state": "TX",
+    "district": 25,
+    "vote": "Nay",
+    "name": "Rep. Roger Williams [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412579,
+    "state": "TX",
+    "district": 33,
+    "vote": "Yea",
+    "name": "Rep. Marc Veasey [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412580,
+    "state": "TX",
+    "district": 34,
+    "vote": "Nay",
+    "name": "Rep. Filemon Vela [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412653,
+    "state": "TX",
+    "district": 4,
+    "vote": "Nay",
+    "name": "Rep. John Ratcliffe [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412654,
+    "state": "TX",
+    "district": 23,
+    "vote": "Nay",
+    "name": "Rep. Will Hurd [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412655,
+    "state": "TX",
+    "district": 36,
+    "vote": "Nay",
+    "name": "Rep. Brian Babin [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412725,
+    "state": "TX",
+    "district": 15,
+    "vote": "Yea",
+    "name": "Rep. Vicente Gonzalez [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412726,
+    "state": "TX",
+    "district": 19,
+    "vote": "Nay",
+    "name": "Rep. Jodey Arrington [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412746,
+    "state": "TX",
+    "district": 27,
+    "vote": "Nay",
+    "name": "Rep. Michael Cloud [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412820,
+    "state": "TX",
+    "district": 2,
+    "vote": "Nay",
+    "name": "Rep. Dan Crenshaw [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412821,
+    "state": "TX",
+    "district": 3,
+    "vote": "Nay",
+    "name": "Rep. Van Taylor [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412822,
+    "state": "TX",
+    "district": 5,
+    "vote": "Nay",
+    "name": "Rep. Lance Gooden [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412823,
+    "state": "TX",
+    "district": 6,
+    "vote": "Nay",
+    "name": "Rep. Ron Wright [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412824,
+    "state": "TX",
+    "district": 7,
+    "vote": "Nay",
+    "name": "Rep. Lizzie Fletcher [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412825,
+    "state": "TX",
+    "district": 16,
+    "vote": "Yea",
+    "name": "Rep. Veronica Escobar [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412826,
+    "state": "TX",
+    "district": 21,
+    "vote": "Nay",
+    "name": "Rep. Chip Roy [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412827,
+    "state": "TX",
+    "district": 29,
+    "vote": "Nay",
+    "name": "Rep. Sylvia Garcia [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412828,
+    "state": "TX",
+    "district": 32,
+    "vote": "Yea",
+    "name": "Rep. Colin Allred [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400029,
+    "state": "UT",
+    "district": 1,
+    "vote": "Nay",
+    "name": "Rep. Rob Bishop [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412581,
+    "state": "UT",
+    "district": 2,
+    "vote": "Nay",
+    "name": "Rep. Chris Stewart [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412740,
+    "state": "UT",
+    "district": 3,
+    "vote": "Nay",
+    "name": "Rep. John Curtis [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412829,
+    "state": "UT",
+    "district": 4,
+    "vote": "Yea",
+    "name": "Rep. Ben McAdams [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400364,
+    "state": "VA",
+    "district": 3,
+    "vote": "Yea",
+    "name": "Rep. Robert “Bobby” Scott [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412255,
+    "state": "VA",
+    "district": 1,
+    "vote": "Nay",
+    "name": "Rep. Robert Wittman [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412272,
+    "state": "VA",
+    "district": 11,
+    "vote": "Yea",
+    "name": "Rep. Gerald Connolly [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412485,
+    "state": "VA",
+    "district": 9,
+    "vote": "Nay",
+    "name": "Rep. Morgan Griffith [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412657,
+    "state": "VA",
+    "district": 8,
+    "vote": "Yea",
+    "name": "Rep. Donald Beyer [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412728,
+    "state": "VA",
+    "district": 4,
+    "vote": "Not Voting",
+    "name": "Rep. Donald McEachin [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412830,
+    "state": "VA",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. Elaine Luria [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412831,
+    "state": "VA",
+    "district": 5,
+    "vote": "Nay",
+    "name": "Rep. Denver Riggleman [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412832,
+    "state": "VA",
+    "district": 6,
+    "vote": "Nay",
+    "name": "Rep. Ben Cline [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412833,
+    "state": "VA",
+    "district": 7,
+    "vote": "Yea",
+    "name": "Rep. Abigail Spanberger [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412834,
+    "state": "VA",
+    "district": 10,
+    "vote": "Yea",
+    "name": "Rep. Jennifer Wexton [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412239,
+    "state": "VT",
+    "district": 0,
+    "vote": "Yea",
+    "name": "Rep. Peter Welch [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400232,
+    "state": "WA",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. Rick Larsen [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400379,
+    "state": "WA",
+    "district": 9,
+    "vote": "Yea",
+    "name": "Rep. Adam Smith [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400659,
+    "state": "WA",
+    "district": 5,
+    "vote": "Nay",
+    "name": "Rep. Cathy McMorris Rodgers [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412486,
+    "state": "WA",
+    "district": 3,
+    "vote": "Yea",
+    "name": "Rep. Jaime Herrera Beutler [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412505,
+    "state": "WA",
+    "district": 1,
+    "vote": "Yea",
+    "name": "Rep. Suzan DelBene [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412583,
+    "state": "WA",
+    "district": 6,
+    "vote": "Yea",
+    "name": "Rep. Derek Kilmer [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412584,
+    "state": "WA",
+    "district": 10,
+    "vote": "Yea",
+    "name": "Rep. Denny Heck [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412660,
+    "state": "WA",
+    "district": 4,
+    "vote": "Nay",
+    "name": "Rep. Dan Newhouse [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412730,
+    "state": "WA",
+    "district": 7,
+    "vote": "Yea",
+    "name": "Rep. Pramila Jayapal [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412835,
+    "state": "WA",
+    "district": 8,
+    "vote": "Yea",
+    "name": "Rep. Kim Schrier [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400218,
+    "state": "WI",
+    "district": 3,
+    "vote": "Yea",
+    "name": "Rep. Ron Kind [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 400365,
+    "state": "WI",
+    "district": 5,
+    "vote": "Nay",
+    "name": "Rep. James Sensenbrenner Jr. [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 400661,
+    "state": "WI",
+    "district": 4,
+    "vote": "Yea",
+    "name": "Rep. Gwen Moore [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412488,
+    "state": "WI",
+    "district": 7,
+    "vote": "Nay",
+    "name": "Rep. Sean Duffy [R, 2011-2019]",
+    "party": "Republican"
+  },
+  {
+    "person": 412585,
+    "state": "WI",
+    "district": 2,
+    "vote": "Yea",
+    "name": "Rep. Mark Pocan [D]",
+    "party": "Democrat"
+  },
+  {
+    "person": 412661,
+    "state": "WI",
+    "district": 6,
+    "vote": "Nay",
+    "name": "Rep. Glenn Grothman [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412731,
+    "state": "WI",
+    "district": 8,
+    "vote": "Yea",
+    "name": "Rep. Mike Gallagher [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412836,
+    "state": "WI",
+    "district": 1,
+    "vote": "Nay",
+    "name": "Rep. Bryan Steil [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412487,
+    "state": "WV",
+    "district": 1,
+    "vote": "Nay",
+    "name": "Rep. David McKinley [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412662,
+    "state": "WV",
+    "district": 2,
+    "vote": "Nay",
+    "name": "Rep. Alex Mooney [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412837,
+    "state": "WV",
+    "district": 3,
+    "vote": "Nay",
+    "name": "Rep. Carol Miller [R]",
+    "party": "Republican"
+  },
+  {
+    "person": 412732,
+    "state": "WY",
+    "district": 0,
+    "vote": "Nay",
+    "name": "Rep. Liz Cheney [R]",
+    "party": "Republican"
+  }
+]
