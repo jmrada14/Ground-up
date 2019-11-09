@@ -13,50 +13,70 @@ class Dashboard extends Component {
     const { user } = this.props.auth;
 
     return (
-      <div style={{ height: "75vh" }} className="container valign-wrapper">
-        <div className="row">
+      <div style={{ height: "75vh",
+      flexDirection : "column"}} className="container valign-wrapper">
+
+          <div className="row">
           <div className="col s12 left-align">
             <h4>
               <b>Hey there,</b> {user.name.split(" ")[0]}
             </h4>
           </div>
-<br/><br/>
-          <div className="section no-pad-bot green lighten-5" id="index-banner">
-            <div className="container">
-              <br/>
-                <h1 className="header center  green-text text-darken-3">Starter Template</h1>
-                <div className="row center">
-                  <h5 className="header col s12 light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                    eiusmod tempor</h5>
-                </div>
-                <br/>
-
-            </div>
-          </div>
-
-          <div className="col s12 m4">
-            <div className="icon-block">
-              <h2 className="center light-blue-text"><i className="fa fa-user-plus"/></h2>
-              <h5 className="center">Feature two</h5>
-
-              <p className="light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-              </p>
-            </div>
-          </div>
-
-          <div className="col s12 m4">
-            <div className="icon-block">
-              <h2 className="center"> <i className="fa fa-cogs"/></h2>
-              <h5 className="center">Feature three</h5>
-
-              <p className="light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-              </p>
-            </div>
-          </div>
         </div>
+
+
+
+          <div className="row">
+              <div className="col s12 left-align">
+          <div className="section no-pad-bot green lighten-5" id="index-banner">
+              <div className="container">
+                  <br/>
+                  <h1 className="header center  green-text text-darken-3">Starter Template</h1>
+                  <div className="row center">
+                      <h5 className="header col s12 light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                          eiusmod tempor</h5>
+                  </div>
+                  <br/>
+
+              </div>
+          </div>
+              </div>
+          </div>
+
+          <div className="row">
+          <div className="col s12 m4">
+              <div className="icon-block">
+                  <h2 className="center light-blue-text"><i className="fa fa-user-plus"/></h2>
+                  <h5 className="center">Feature two</h5>
+
+                  <p className="light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+                  </p>
+              </div>
+          </div>
+
+          <div className="col s12 m4">
+              <div className="icon-block">
+                  <h2 className="center"> <i className="fa fa-cogs"/></h2>
+                  <h5 className="center">Feature three</h5>
+
+                  <p className="light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+                  </p>
+              </div>
+          </div>
+              <div className="col s12 m4">
+                  <div className="icon-block">
+                      <h2 className="center"> <i className="fa fa-cogs"/></h2>
+                      <h5 className="center">Feature three</h5>
+
+                      <p className="light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+                      </p>
+                  </div>
+              </div>
 
       </div>
 
+
+      </div>
     );
   }
 }
