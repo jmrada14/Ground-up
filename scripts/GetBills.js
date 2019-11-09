@@ -1,18 +1,19 @@
 const axios = require('axios');
 const congress = "116";
-const billId = "hr312";
+const billId = ["hr205","hr676","hr823","hr1373","hr1146","hr1941","hr312","hr9","hr266","hr265","hr3055","hr2181","hres656","hres548","sjres53","s47","hres329","hr1644","hr1500","hr987"];
 const db = require("../models/bills");
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost/ground-up');
+mongoose.connect('mongodb://localhost/ground-up-test');
 ////////////////////////
-axios.request({
-    url: `https://api.propublica.org/congress/v1/${congress}/bills/${billId}.json`,
+
+billId.forEach(bill => {axios.request({
+    url: `https://api.propublica.org/congress/v1/${congress}/bills/${bill}.json`,
     headers: { 'X-API-Key': '9q67HMZ2ly0hOrXWjT9l31WN6TiGuh7XrkBl1vC' },
     method: 'get'
 }).then(response => {
     // console.log(response.data);
     let dataArray = response.data.results;
- console.log(dataArray);
+    console.log(dataArray);
     for (let i = 0; i < dataArray.length; i++) {
         console.log(dataArray[i])
 
@@ -64,3 +65,6 @@ axios.request({
 }).catch(error => {
     console.log(error);
 });
+});
+
+
