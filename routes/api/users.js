@@ -104,6 +104,12 @@ router.post("/login", (req, res) => {
       }
     });
   });
-});
 
+
+
+});
+router.get("/test", (req, res) => {
+      User.find()
+          .then(dbUser => res.json(dbUser))
+    });
 module.exports = router;
