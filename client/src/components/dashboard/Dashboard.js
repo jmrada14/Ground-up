@@ -4,10 +4,10 @@ import { connect } from "react-redux";
 import { logoutUser } from "../../actions/authActions";
 
 class Dashboard extends Component {
-  // onLogoutClick = e => {
-  //   e.preventDefault();
-  //   this.props.logoutUser();
-  // };
+  onLogoutClick = e => {
+    e.preventDefault();
+    this.props.logoutUser();
+  };
 
   render() {
     const { user } = this.props.auth;
@@ -75,6 +75,18 @@ class Dashboard extends Component {
 
       </div>
 
+          <button
+              style={{
+                  width: "150px",
+                  borderRadius: "3px",
+                  letterSpacing: "1.5px",
+                  marginTop: "1rem"
+              }}
+              onClick={this.onLogoutClick}
+              className="btn btn-large waves-effect waves-light hoverable green accent-3"
+          >
+              Logout
+          </button>
 
       </div>
     );
