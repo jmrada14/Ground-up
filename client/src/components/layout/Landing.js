@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import {Row, Col, Card, CardTitle} from "react-materialize"
+
 // import "../jumbotron.css"
 
 class Landing extends Component {
@@ -9,12 +9,21 @@ class Landing extends Component {
       <div style={{ height: "75vh" }} className="container valign-wrapper">
         <div className="row">
           <div className="col s12 center-align">
-              <Row>
-                  <Col m={6} s={12}>
-                      <Card style={{"background-image": "url('../../assets/happyBackgorund')"}} header={<CardTitle />} actions={[<a />]}>
-                      </Card>
-                  </Col>
-              </Row>
+              <div className="row">
+                  <div className="col s12 left-align">
+                      <div className="section no-pad-bot green lighten-5" id="index-banner">
+                          <div className="container">
+                              <br/>
+                              <h3 className="header center  green-text text-darken-3">Building politics from the ground up</h3>
+                              <img style={{"background-image" : `url("https://www.ppic.org/wp-content/uploads/Crowd-of-Diverse-People_800x528.jpg")`}} alt="people"/>
+                              <div className="row center">
+                              </div>
+                              <br/>
+
+                          </div>
+                      </div>
+                  </div>
+              </div>
               <h4>
               <b>Welcome!</b> this is Ground-up the app that let's you follow{" "}
               <span style={{ fontFamily: "monospace" }}>local politics</span> in an easy and organized way.
