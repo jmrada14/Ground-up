@@ -5,11 +5,20 @@ class NavBar extends Component {
   render() {
     return (
         <Navbar className={"green accent-3"} brand={<a />} alignLinks="right">
-            <NavItem href="">
-                Getting started
+            <NavItem href="/dashboard">
+                Home
             </NavItem>
-            <NavItem href="components.html">
-                Components
+            <NavItem href="/members">
+                Government members
+            </NavItem>
+            <NavItem href="/bills">
+                Bills passed
+            </NavItem>
+            <NavItem href="/about">
+                About us
+            </NavItem>
+            <NavItem href="/api-access">
+                API
             </NavItem>
         </Navbar>
     );
