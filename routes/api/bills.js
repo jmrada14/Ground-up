@@ -8,4 +8,8 @@ router.route("/all")
 router.route("/voterecord")
     .get(billsController.findAllVotes);
 
+router.route("/voterecord/:state")
+    .get(billsController.findAllVotesByState);
+
+
 module.exports = router;

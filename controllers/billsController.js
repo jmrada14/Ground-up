@@ -19,5 +19,14 @@ module.exports = {
             .select("votingRecord")
             .then(dbModel => res.json(dbModel))
             .catch(err => res.status(422).json(err));
+    },
+
+    findAllVotesByState: function(req, res) {
+        console.log(res);
+        db
+            .find({ state: req.params.state })
+            .select("votingRecord")
+            .then(dbModel => res.json(dbModel))
+            .catch(err => res.status(422).json(err));
     }
 };

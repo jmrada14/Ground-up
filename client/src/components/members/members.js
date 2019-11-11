@@ -19,7 +19,7 @@ class Members extends Component {
           <div className="row">
             <div className="col s12 left-align">
               <h4>
-                <b>Hey there,</b> {user.name.split(" ")[0]}
+                <b>test</b>
               </h4>
             </div>
           </div>
@@ -31,8 +31,10 @@ class Members extends Component {
               <div className="section no-pad-bot green lighten-5" id="index-banner">
                 <div className="container">
                   <br/>
-                  <h1 className="header center  green-text text-darken-3">Search members</h1>
-                  <div className="row center">
+
+
+
+                    <div className="row center">
 
 
 
@@ -42,7 +44,16 @@ class Members extends Component {
                 </div>
               </div>
             </div>
+              <div className="input-field col s12">
+                  <select className="browser-default">
+                      <option value="" disabled selected></option>
+                      <option value="1">Option 1</option>
+                      <option value="2">Option 2</option>
+                      <option value="3">Option 3</option>
+                  </select>
+              </div>
           </div>
+
 
           <button
               style={{
