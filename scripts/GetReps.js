@@ -7,7 +7,7 @@ const states = ["AL","AK","AZ","AR","CA","CO","CT","DE","FL","GA","HI","ID","IL"
 
 const db = require("../models/representatives");
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost/ground-up-test');
+mongoose.connect('mongodb://localhost/ground-up');
 ////////////////////////
 const resultsFunction = (chamber, state, response) => {
     // console.log(response.data.results);
