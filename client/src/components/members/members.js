@@ -10,50 +10,51 @@ class Members extends Component {
   };
 
   render() {
-    const { user } = this.props.auth;
 
     return (
+
+
         <div style={{ height: "75vh",
-          flexDirection : "column"}} className="container valign-wrapper">
+            flexDirection : "column"}} className="container valign-wrapper">
+            <br/>
+            <div className="row">
+                <div className="col s12 left-align">
+                    <div className="section no-pad-bot green lighten-5" id="index-banner">
+                        <div className="container">
+                            <br/>
+                            <h1 className="header center  green-text text-darken-3">Starter Template</h1>
+                            <div className="row center">
+                                <h5 className="header col s12 light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                                    eiusmod tempor</h5>
+                            </div>
+                            <br/>
 
-          <div className="row">
-            <div className="col s12 left-align">
-              <h4>
-                <b>test</b>
-              </h4>
-            </div>
-          </div>
-
-
-
-          <div className="row">
-            <div className="col s12 left-align">
-              <div className="section no-pad-bot green lighten-5" id="index-banner">
-                <div className="container">
-                  <br/>
-
-
-
-                    <div className="row center">
-
-
-
-                  </div>
-                  <br/>
-
+                        </div>
+                    </div>
                 </div>
-              </div>
             </div>
-              <div className="input-field col s12">
-                  <select className="browser-default">
-                      <option value="" disabled selected></option>
-                      <option value="1">Option 1</option>
-                      <option value="2">Option 2</option>
-                      <option value="3">Option 3</option>
-                  </select>
-              </div>
-          </div>
 
+            <div className="input-field col s12">
+                <select className="browser-default">
+                    <option value="" disabled selected> Search Members </option>
+                    <option value="1">All members</option>
+                    <option value="2">Members by chamber</option>
+                    <option value="3">Members by state</option>
+                </select>
+            </div>
+
+            <button
+                style={{
+                    width: "150px",
+                    borderRadius: "3px",
+                    letterSpacing: "1.5px",
+                    marginTop: "1rem"
+                }}
+                onClick={this.onLogoutClick}
+                className="btn btn-large waves-effect waves-light hoverable green accent-3"
+            >
+                Search
+            </button>
 
           <button
               style={{

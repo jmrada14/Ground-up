@@ -1,6 +1,8 @@
 import React from "react";
 import './Table.css';
 import HR9 from "../../data/HR9"
+// import billsAPI from "../../utils/BillsAPI"
+
 
 class Table extends React.Component {
    constructor(props) {
@@ -39,6 +41,23 @@ class Table extends React.Component {
 
    render() {
       return (
+          <div>
+              <div className="row">
+                  <div className="col s12 left-align">
+                      <div className="section no-pad-bot green lighten-5" id="index-banner">
+                          <div className="container">
+                              <br/>
+                              <h1 className="header center  green-text text-darken-3">Starter Template</h1>
+                              <div className="row center">
+                                  <h5 className="header col s12 light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                                      eiusmod tempor</h5>
+                              </div>
+                              <br/>
+
+                          </div>
+                      </div>
+                  </div>
+              </div>
          <div>
    
             <table id='members'>
@@ -57,6 +76,7 @@ class Table extends React.Component {
          
             </table>
          </div>
+          </div>
       )
    }
 }
