@@ -49,7 +49,7 @@ class Table extends React.Component {
                               <br/>
                               <h1 className="header center  green-text text-darken-3">Ground-Up</h1>
                               <div className="row center">
-                                  <h5 className="header col s12 light">We can improve, so let's do it...from the ground up! This interactive table of bills focuses on all environmental bills passed this year, alongside a few other bills focusing on newer issues.</h5>
+                                  <h5 className="header col s12 light">We can improve, so let's do it...from the ground up! <hr />This interactive table of bills focuses on all environmental bills passed this year. It also has a few other bills regarding the newer issues our country now faces.</h5>
                               </div>
                               <br/>
 

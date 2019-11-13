@@ -13,64 +13,114 @@ class Dashboard extends Component {
     const { user } = this.props.auth;
 
     return (
-      <div style={{ height: "75vh",
-      flexDirection : "column"}} className="container valign-wrapper">
-
-          <div className="row">
+      <div
+        style={{ height: "75vh", flexDirection: "column" }}
+        className="container valign-wrapper"
+      >
+        <div className="row">
           <div className="col s12 left-align">
             <h4>
-              <b>About us</b>
+              <b>About Us</b>
             </h4>
           </div>
         </div>
 
-
-
-          <div className="row">
-              <div className="col s12 left-align">
-          <div className="section no-pad-bot green lighten-5" id="index-banner">
+        <div className="row">
+          <div className="col s12 left-align">
+            <div
+              className="section no-pad-bot green lighten-5"
+              id="index-banner"
+            >
               <div className="container">
-                  <br/>
-                  <h1 className="header center  green-text text-darken-3">Ground up</h1>
-                  <div className="row center">
-                  </div>
-                  <br/>
-
+                <br />
+                <h1 className="header center  green-text text-darken-3">
+                  Ground-Up
+                </h1>
+                <h5 className="header center col s12 light">
+                  <hr />
+                  We can improve, so let's do it...from the ground up!
+                </h5>
+                <div className="row center"></div>
+                <br />
               </div>
+            </div>
           </div>
-              </div>
+        </div>
 
-      </div>
+        <p className="flow-text">
+          <b>
+            Voting in United States local elections has long been a process in
+            which few people participate.
+          </b>{" "}
+          Set against Presidential voting cycles, when roughly half the country
+          votes, local elections typically garner only half of that, bringing
+          total participation to a number fluctuating between 20 and 25 percent.
+          When compared to other countries' participation in local politics, the
+          numbers become concerning. According to the Organization for Economic
+          Cooperation and Development, the United States places 31st among 35
+          developed, democratic countries within the organization for voter
+          turnout in local elections.
+        </p>
 
+        <p className="flow-text">
+          <b>
+            One of the more worrisome facts regarding Americans' lack of
+            participation in local government is the direct impact made to
+            communities via the laws and bills passed locally.
+          </b>{" "}
+          Important communitity markers such as: quality of local schools,
+          policing and public safety, public transit, city colleges and job
+          training, income tax rates, and reproductive rights are voted upon at
+          the local level. No matter how strong your feelings are for a sitting
+          President, they have no say in the funding for your local school
+          system, or the health of your local roads, or the availability of
+          loans and grants from your local colleges. Thankfully, at the end of
+          the 2018 mid-term elections, a groundswell of change and support
+          became evident. More people voted in the 2018 mid-term elections than
+          every election cycle before it, stretching all the way back to 1966.
+          Whether or not America is changing in this regard isn't a topic up for
+          disussion. It is a fact we should learn from.
+        </p>
 
-          <p className="flow-text">
+        <p className="flow-text">
+          <b>We are living in a country undergoing a transformation.</b>{" "}
+          Demographics across the country are changing. According to both the
+          U.S. Census Bureau and a recent Pew Research Poll, Baby Boomers no
+          longer comprise the largest generation, because Millenials do, at 73
+          million people. That is roughly 1 in 5 Americans. The fact that 1 in 5
+          Americans were born in or after 1981 brings with it a subset of facts,
+          one of which is worth noting here. Take nightly cable news viewers and
+          viewership as an example. The average age of the viewer watching cable
+          news on "the big four:" CBS, NBC, ABC and Fox News, is 65, according
+          to a Pew Research analysis of Nielsen Media Research data completed in
+          2018. This same study also researched the total amount of viewers the
+          nightly news maintains, and this total has seen a drop year over year
+          since 2010.
+        </p>
+        <p className="flow-text">
+          <b>So, where are these new voters going for their information?</b> To the
+          Internet. Applications like Ground-Up, video hosting sites such as
+          Vimeo and Youtube, and raw statistics from independent sites that
+          scrape government websites are becoming the go-to for the growing
+          classes of both younger people and younger people interested in
+          politics. Podcasts from independent Journalists are on the rise,
+          alongside their sister websites. At Ground-Up, we are trying to grab a
+          piece of this growing market share of new, government-conscious
+          Americans who don't rely on conventional media for their information.
+        </p>
 
-
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis enim ligula, ultricies vitae aliquam sit amet, lacinia eget ante. Ut sed lectus vitae tellus interdum finibus at et turpis. Praesent ornare malesuada risus, sed tempus turpis tristique in. Suspendisse euismod, ex quis dictum consectetur, est lacus vehicula ante, ut dapibus orci erat at dolor. Pellentesque lacinia lorem ac tincidunt tempor. Integer ac tellus consequat, malesuada libero id, viverra neque. Curabitur in quam interdum, fringilla ligula vitae, porta ante. Vivamus eget lacus in urna posuere tempor vel sed arcu. Sed sed scelerisque dui. Mauris egestas erat at placerat ultrices.
-
-              Sed rhoncus dolor nec felis pharetra aliquam. Etiam laoreet venenatis lorem. Fusce iaculis lacinia justo. Nam semper elementum ipsum eget convallis. Vestibulum et massa ligula. Etiam sit amet commodo massa. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi nisl enim, imperdiet quis auctor vitae, scelerisque et mauris. Integer eget ullamcorper nunc. Etiam semper augue sit amet pulvinar fringilla. Aenean nisi nibh, convallis eget mi ultricies, aliquet cursus purus. Suspendisse potenti. Maecenas tellus augue, lobortis non eros in, pulvinar commodo elit. Mauris vitae gravida tortor.
-
-              Curabitur maximus augue lectus, quis laoreet leo pharetra vel. Cras quam velit, molestie in est a, varius semper nisl. Phasellus aliquet faucibus nisl, id facilisis nunc pretium a. Maecenas lacus leo, accumsan at ante sit amet, viverra fringilla metus. Vestibulum pulvinar sapien tortor. Quisque venenatis tellus eget ex semper auctor non in libero. Nullam venenatis justo ex, ac imperdiet dolor consectetur eget. Morbi sed elit quis erat luctus sollicitudin ac consequat libero. Fusce molestie nec purus eu aliquam. Sed ut consequat dolor. In erat diam, rutrum id placerat eu, convallis ac libero. Suspendisse ac hendrerit arcu. Donec odio turpis, dignissim sed arcu in, viverra lobortis mi. Suspendisse iaculis felis sit amet leo venenatis, elementum lacinia turpis mattis. Proin id erat eros.
-
-              Aliquam pharetra mi ac auctor mollis. Pellentesque blandit mauris tellus, at vulputate leo rhoncus ac. Vestibulum justo dolor, ultrices vel lectus sed, sollicitudin pellentesque dui. Sed in mauris in metus efficitur vestibulum vel sed justo. Morbi nec condimentum augue. Quisque sed nisi libero. Aliquam placerat elit vel leo sagittis rhoncus. Mauris hendrerit tortor est, et suscipit mi consequat et. Praesent sit amet nisl luctus, molestie ante sed, molestie massa.
-
-              Maecenas condimentum elit sit amet leo commodo, ac semper nisl iaculis. Mauris in congue mauris, id porttitor metus. Vestibulum ultrices, lacus eu ultricies elementum, urna velit fermentum magna, in pretium velit dui at massa. Maecenas vel elit urna. Aliquam eleifend magna et nibh iaculis ullamcorper. Vivamus justo neque, dignissim sit amet lorem et, fermentum venenatis augue. Vestibulum congue libero lectus, sed mattis tellus mollis ac. Vestibulum mattis id enim nec pharetra. Pellentesque dapibus non dui id pellentesque. Praesent sed elit blandit, pellentesque sapien pharetra, posuere orci. Nulla at rutrum tellus. Nam neque nibh, ultrices in urna quis, consequat facilisis nibh. Maecenas commodo ut elit ut accumsan.
-          </p>
-
-
-          <button
-              style={{
-                  width: "150px",
-                  borderRadius: "3px",
-                  letterSpacing: "1.5px",
-                  marginTop: "1rem"
-              }}
-              onClick={this.onLogoutClick}
-              className="btn btn-large waves-effect waves-light hoverable green accent-3"
-          >
-              Logout
-          </button>
-
+        <button
+          style={{
+            width: "150px",
+            borderRadius: "3px",
+            letterSpacing: "1.5px",
+            marginTop: "1rem"
+          }}
+          onClick={this.onLogoutClick}
+          className="btn btn-large waves-effect waves-light hoverable green accent-3"
+        >
+          Logout
+        </button>
       </div>
     );
   }
@@ -85,7 +135,4 @@ const mapStateToProps = state => ({
   auth: state.auth
 });
 
-export default connect(
-  mapStateToProps,
-  { logoutUser }
-)(Dashboard);
+export default connect(mapStateToProps, { logoutUser })(Dashboard);

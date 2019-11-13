@@ -33,7 +33,7 @@ class Dashboard extends Component {
                   <br/>
                   <h1 className="header center  green-text text-darken-3">Ground-Up</h1>
                   <div className="row center">
-                      <h5 className="header col s12 light">We can improve, so let's do it...from the ground up! Check out Government Members + Bills Passed to begin learning about your representative community.</h5>
+                      <h5 className="header col s12 light">We can improve, so let's do it...from the ground up! <hr /> Click on Government Members + Bills Passed to begin learning about your representative community. Click on About Us to learn more.</h5>
                   </div>
                   <br/>
 
@@ -48,7 +48,7 @@ class Dashboard extends Component {
                   <h2 className="center light-blue-text"><i className="fa fa-user-plus"/></h2>
                   <h5 className="center">Did You Know?</h5>
 
-                  <p className="light">Historically, local election voter turnout was low. Roughly 1 in 5 people would vote in their local elections. Yet local elections can be a litmus test for prospective national policy rollouts, as federal lawmakers observe what bills pass at the local level before creating and adapting federal policies.  
+                  <p className="light">Historically, local election voter turnout is low. Roughly 1 in 5 people vote in their local elections. Yet local elections can be a litmus test for prospective national policy rollouts, as federal lawmakers observe what bills pass at the local level before creating and adapting federal policies.  
                   </p>
               </div>
           </div>
@@ -67,7 +67,7 @@ class Dashboard extends Component {
                       <h2 className="center"> <i className="fa fa-cogs"/></h2>
                       <h5 className="center">We're Getting Better!</h5>
 
-                      <p className="light">2018 was a historic year for voter turnout in local elections. Almost 50% of the people came out to vote, and the demographics are historic too. According to the US Census Bureau, Millenials upped their share of total votes in local elections from 22% to 42%, Generations X and Z saw historic increases in their turnouts, and minorities voted in greater numbers than they previously had.
+                      <p className="light">2018 was a historic year for voter turnout in local elections. Almost 50% of the people came out to vote, and the demographics were historic too. According to the U.S. Census Bureau, Millenials upped their share of total votes in local elections from 22% to 42%, Generations X and Z saw historic increases in their turnouts, and minorities voted in greater numbers than they previously had.
                       </p>
                   </div>
               </div>
