@@ -2,14 +2,31 @@ import React, { Component } from "react";
 import PropTypes from "prop-types";
 import { connect } from "react-redux";
 import { logoutUser } from "../../actions/authActions";
+import API from "../../utils/MembersAPI"
+import MemberCard from "./cards"
+
 
 class Members extends Component {
+    state = {
+        members : []
+    };
   onLogoutClick = e => {
     e.preventDefault();
     this.props.logoutUser();
   };
 
-  render() {
+  componentDidMount() {
+      API.getAllMembers()
+          .then(data => {
+              this.setState({members: data.data})
+              console.log(this.state.members)
+          })
+          .catch(err => {console.log(err)})
+
+
+  }
+
+    render() {
 
     return (
 
@@ -49,7 +66,7 @@ class Members extends Component {
                     letterSpacing: "1.5px",
                     marginTop: "1rem"
                 }}
-                onClick={this.onLogoutClick}
+                onClick={this.searchMembers}
                 className="btn btn-large waves-effect waves-light hoverable green accent-3"
             >
                 Search
@@ -67,6 +84,17 @@ class Members extends Component {
           >
             Logout
           </button>
+            {this.state.members.map((item, i)=>(
+                <MemberCard
+                name={item.name}
+                state={item.state}
+                chamber={item.chamber}
+                party={item.party}
+                />
+            ))}
+
+
+
 
         </div>
     );
