@@ -20,7 +20,7 @@ class Dashboard extends Component {
         <div className="row">
           <div className="col s12 left-align">
             <h4>
-              <b>About Us</b>
+              <b>About Us + Learn More</b>
             </h4>
           </div>
         </div>
@@ -46,7 +46,14 @@ class Dashboard extends Component {
             </div>
           </div>
         </div>
-
+        <h2><b>About Us:</b></h2>
+        <p className="flow-text">
+          <b>
+            Hi! We are Juan Rada and Sanjeev Chadeesingh, and we developed Ground-Up.
+          </b>{" "}
+        Sanjeev Chadeesingh was born in the United States. His parents left Jamaica during a trying political time, when substantial amounts of Jamaicans left the island. The fact that changes in government policies influenced where he was born was the impetus behind his interest in government. Sanjeev's love of economic and environmental policy is now married with his budding web development skills, allowing him to realize the dream of creating an application that makes understanding politics easier. Juan Rada was born in Venezuela, and had an interest in computer programming at a young age, which was cultivated by his uncle. He watched as policy and politicians transformed the identity of his country again and again, and became interested in activism. After a close call at a rally, he decided to attempt change indirectly, and use his development skills to better understand the data inherent in understanding policy. 
+        </p>
+       <h2><b>Learn More:</b></h2>
         <p className="flow-text">
           <b>
             Voting in United States local elections has long been a process in
