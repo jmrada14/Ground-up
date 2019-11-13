@@ -9,13 +9,13 @@ class NavBar extends Component {
                 Home
             </NavItem>
             <NavItem href="/members">
-                Government members
+                Government Members
             </NavItem>
             <NavItem href="/bills">
-                Bills passed
+                Bills Passed
             </NavItem>
             <NavItem href="/about">
-                About us
+                About Us
             </NavItem>
             <NavItem href="/api-access">
                 API

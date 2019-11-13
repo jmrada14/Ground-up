@@ -31,10 +31,9 @@ class Dashboard extends Component {
           <div className="section no-pad-bot green lighten-5" id="index-banner">
               <div className="container">
                   <br/>
-                  <h1 className="header center  green-text text-darken-3">Starter Template</h1>
+                  <h1 className="header center  green-text text-darken-3">Ground-Up</h1>
                   <div className="row center">
-                      <h5 className="header col s12 light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                          eiusmod tempor</h5>
+                      <h5 className="header col s12 light">We can improve, so let's do it...from the ground up! <hr /> Click on Government Members + Bills Passed to begin learning about your representative community. Click on About Us to learn more.</h5>
                   </div>
                   <br/>
 
@@ -47,9 +46,9 @@ class Dashboard extends Component {
           <div className="col s12 m4">
               <div className="icon-block">
                   <h2 className="center light-blue-text"><i className="fa fa-user-plus"/></h2>
-                  <h5 className="center">Feature two</h5>
+                  <h5 className="center">Did You Know?</h5>
 
-                  <p className="light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+                  <p className="light">Historically, local election voter turnout is low. Roughly 1 in 5 people vote in their local elections. Yet local elections can be a litmus test for prospective national policy rollouts, as federal lawmakers observe what bills pass at the local level before creating and adapting federal policies.  
                   </p>
               </div>
           </div>
@@ -57,18 +56,18 @@ class Dashboard extends Component {
           <div className="col s12 m4">
               <div className="icon-block">
                   <h2 className="center"> <i className="fa fa-cogs"/></h2>
-                  <h5 className="center">Feature three</h5>
+                  <h5 className="center">Policy: Local To Federal</h5>
 
-                  <p className="light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+                  <p className="light">Women's Suffrage, The Environmental Protection Agency, Marriage Equality and Minimum Wage were all local, grassroots policies before they were brought to the federal government's attention; the federal actions and policies behind them were seeded by local governments.
                   </p>
               </div>
           </div>
               <div className="col s12 m4">
                   <div className="icon-block">
                       <h2 className="center"> <i className="fa fa-cogs"/></h2>
-                      <h5 className="center">Feature three</h5>
+                      <h5 className="center">We're Getting Better!</h5>
 
-                      <p className="light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+                      <p className="light">2018 was a historic year for voter turnout in local elections. Almost 50% of the people came out to vote, and the demographics were historic too. According to the U.S. Census Bureau, Millenials upped their share of total votes in local elections from 22% to 42%, Generations X and Z saw historic increases in their turnouts, and minorities voted in greater numbers than they previously had.
                       </p>
                   </div>
               </div>
