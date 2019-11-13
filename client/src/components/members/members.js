@@ -22,10 +22,9 @@ class Members extends Component {
                     <div className="section no-pad-bot green lighten-5" id="index-banner">
                         <div className="container">
                             <br/>
-                            <h1 className="header center  green-text text-darken-3">Starter Template</h1>
+                            <h1 className="header center  green-text text-darken-3">Ground-Up</h1>
                             <div className="row center">
-                                <h5 className="header col s12 light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                    eiusmod tempor</h5>
+                                <h5 className="header col s12 light">We can improve, so let's do it...from the ground up! Please search our database of active congress members, and learn about who is making decisions in your neighborhood.</h5>
                             </div>
                             <br/>
 

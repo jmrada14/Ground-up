@@ -14,7 +14,7 @@ class Landing extends Component {
                       <div className="section no-pad-bot green lighten-5" id="index-banner">
                           <div className="container">
                               <br/>
-                              <h3 className="header center  green-text text-darken-3">Building politics from the ground up</h3>
+                              <h3 className="header center  green-text text-darken-3">Ground-Up</h3>
                               <img style={{"background-image" : `url("https://www.ppic.org/wp-content/uploads/Crowd-of-Diverse-People_800x528.jpg")`}} alt="people"/>
                               <div className="row center">
                               </div>
@@ -25,12 +25,12 @@ class Landing extends Component {
                   </div>
               </div>
               <h4>
-              <b>Welcome!</b> this is Ground-up the app that let's you follow{" "}
-              <span style={{ fontFamily: "monospace" }}>local politics</span> in an easy and organized way.
+              <b>Welcome to Ground-Up!</b>{" "} 
+              <span style={{ fontFamily: "monospace" }}>  This app helps you follow local politics, allowing you to take part in shaping this country..from the ground up!</span> 
             </h4>
 
             <p className="flow-text grey-text text-darken-1">
-              Register or log in bellow, if you don't want an account use our demo account:<br/>
+              Register or log in below. If you don't want an account just yet, please use our demo account:<br/>
                 demo@demo.com pass: welcomeDemo
             </p>
             <br />
