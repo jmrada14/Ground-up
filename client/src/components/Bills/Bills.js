@@ -1,7 +1,7 @@
 import React from "react";
 import './Table.css';
-import HR9 from "../../data/HR9"
-// import billsAPI from "../../utils/BillsAPI"
+// import HR9 from "../../data/HR9"
+import API from "../../utils/BillsAPI"
 
 
 class Table extends React.Component {
@@ -14,20 +14,38 @@ class Table extends React.Component {
          //    { name: 3, vote: 'Saad', state: 16, party: 'saad@email.com' },
          //    { name: 4, vote: 'Asad', state: 25, party: 'asad@email.com' }
          // ]
-         members: HR9
+         bills: [],
+          votingRecord: []
       }
    }
 
-   renderTableHeader() {
-      let header = Object.keys(this.state.members[0])
+   componentDidMount() {
+       API.getAllVotingRecord()
+           .then(data => {
+               const votingRecord = [];
+               data.data.forEach(item => {
+                   votingRecord.push(item.votingRecord)
+               });
+
+               this.setState({bills : data.data,
+               votingRecord: votingRecord[0]
+               });
+
+               console.log(this.state.votingRecord);
+           })
+           .catch(err => {console.log(err)})
+   }
+
+    renderTableHeader() {
+      let header = Object.keys(this.state.bills.title)
       return header.map((key, index) => {
          return <th key={index}>{key.toUpperCase()}</th>
       })
    }
 
    renderTableData() {
-      return this.state.members.map((members, index) => {
-         const { name, vote, state, party } = members 
+      return this.state.votingRecord.map((item, index) => {
+         const { name, vote, state, party } = item;
          return (
             <tr key={name}>
                <td>{name}</td>
