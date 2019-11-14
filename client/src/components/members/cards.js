@@ -1,23 +1,21 @@
-
+import React from "react";
+import "./cards.css"
 function MemberCard(props) {
     return (
         <div className="card">
             <div className="content">
                 <ul>
                     <li>
-                        <strong>Name:</strong>
+                        <strong>Name: {props.name}</strong>
                     </li>
                     <li>
-                        <strong>State:</strong>
+                        <strong>State: {props.state}</strong>
                     </li>
                     <li>
-                        <strong>Chamber:</strong>
+                        <strong>Chamber: {props.chamber}</strong>
                     </li>
                     <li>
-                        <strong>Role:</strong>
-                    </li>
-                    <li>
-                        <strong>Party:</strong>
+                        <strong>Party: {props.party}</strong>
                     </li>
                     <li>
                         <strong>Social media:</strong>

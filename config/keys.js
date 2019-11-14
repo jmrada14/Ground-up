@@ -1,4 +1,4 @@
 module.exports = {
-  mongoURI: "mongodb://localhost:27017/ground-up-test",
+  mongoURI: process.env.MONGODB_URI ||"mongodb://localhost:27017/ground-up-test",
   secretOrKey: "secret"
 };
