@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-
+import "./style.css"
 // import "../jumbotron.css"
 
 class Landing extends Component {
@@ -10,12 +10,14 @@ class Landing extends Component {
         <div className="row">
           <div className="col s12 center-align">
               <div className="row">
-                  <div className="col s12 left-align">
-                      <div className="section no-pad-bot green lighten-5" id="index-banner">
+                  <div className="col s12 left-align" id="opacity">
+
+                      <div className="section no-pad-bot green lighten-5" id="index-banner" style={{backgroundImage : `url("https://www.ppic.org/wp-content/uploads/Crowd-of-Diverse-People_800x528.jpg")`,
+                          marginTop: "0px", backgroundSize: "cover", position: "relative"}}>
                           <div className="container">
                               <br/>
                               <h3 className="header center  green-text text-darken-3">Ground-Up</h3>
-                              <img style={{"background-image" : `url("https://www.ppic.org/wp-content/uploads/Crowd-of-Diverse-People_800x528.jpg")`}} alt="people"/>
+                              <img  alt="people"/>
                               <div className="row center">
                               </div>
                               <br/>
