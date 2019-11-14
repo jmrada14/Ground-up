@@ -6,6 +6,7 @@ const passport = require("passport");
 const routes = require("./routes/api");
 const app = express();
 
+
 // Bodyparser middleware
 app.use(
     bodyParser.urlencoded({
@@ -31,9 +32,9 @@ app.use(passport.initialize());
 
 // Passport config
 require("./config/passport")(passport);
-
 // Routes
 app.use("/api", routes);
+
 
 const port = process.env.PORT || 5000;
 
