@@ -6,9 +6,6 @@ const passport = require("passport");
 const routes = require("./routes/api");
 const app = express();
 
-if (process.env.NODE_ENV === "production"){
-    app.use(express.static("client/build"))
-}
 
 // Bodyparser middleware
 app.use(
@@ -35,9 +32,10 @@ app.use(passport.initialize());
 
 // Passport config
 require("./config/passport")(passport);
-
+app.use('/', express.static(path.join(__dirname, '/client/build')));
 // Routes
 app.use("/api", routes);
+
 
 const port = process.env.PORT || 5000;
 
