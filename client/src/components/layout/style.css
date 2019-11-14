@@ -1,0 +1,15 @@
+#opacity {
+    background-color: white;
+    opacity: 0.5;
+}
+
+#banner-parent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h3.header {
+    background-color: transparent;
+    text-shadow: 1px 1px 3px #000000;
+}
