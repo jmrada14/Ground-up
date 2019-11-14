@@ -32,7 +32,7 @@ class Members extends Component {
 
 
         <div style={{ height: "75vh",
-            flexDirection : "column"}} className="container valign-wrapper">
+            flexDirection : "column"}} className="container">
             <br/>
             <div className="row">
                 <div className="col s12 left-align">
@@ -41,7 +41,7 @@ class Members extends Component {
                             <br/>
                             <h1 className="header center  green-text text-darken-3">Ground-Up</h1>
                             <div className="row center">
-                                <h5 className="header col s12 light">We can improve, so let's do it...from the ground up! <hr /> Please search our database of active congress members, and learn about whom is making decisions in your neighborhood.</h5>
+                                <h5 className="header col s12 light">We can improve, so let's do it...from the ground up! <hr /> Please scroll through this list of congress members, and learn about the one's affecting your community.</h5>
                             </div>
                             <br/>
 

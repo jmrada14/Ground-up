@@ -16,7 +16,7 @@ module.exports = {
         console.log("Back");
         db
             .find()
-            .select("votingRecord")
+            // .select("votingRecord")
             .then(dbModel => res.json(dbModel))
             .catch(err => res.status(422).json(err));
     },
