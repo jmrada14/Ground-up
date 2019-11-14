@@ -1,0 +1,7 @@
+.card {
+    float: left;
+    border: solid;
+    border-width: 1px;
+    border-color: green;
+    padding: 5px;
+}
