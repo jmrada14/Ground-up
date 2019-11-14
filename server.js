@@ -6,6 +6,10 @@ const passport = require("passport");
 const routes = require("./routes/api");
 const app = express();
 
+if (process.env.NODE_ENV === "production"){
+    app.use(express.static("client/build"))
+}
+
 // Bodyparser middleware
 app.use(
     bodyParser.urlencoded({
