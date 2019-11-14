@@ -1,4 +1,5 @@
-import React from "react"
+import React from "react";
+import "./cards.css"
 function MemberCard(props) {
     return (
         <div className="card">

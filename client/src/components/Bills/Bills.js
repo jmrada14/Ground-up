@@ -1,7 +1,8 @@
 import React from "react";
 import './Table.css';
 // import HR9 from "../../data/HR9"
-import API from "../../utils/BillsAPI"
+import API from "../../utils/BillsAPI";
+
 
 
 class Table extends React.Component {
@@ -15,8 +16,11 @@ class Table extends React.Component {
          //    { name: 4, vote: 'Asad', state: 25, party: 'asad@email.com' }
          // ]
          bills: [],
-          votingRecord: []
+         votingRecord: [],
+         billTitle:[]
+
       }
+   
    }
 
    componentDidMount() {
@@ -28,8 +32,8 @@ class Table extends React.Component {
                });
 
                this.setState({bills : data.data,
-               votingRecord: votingRecord[0]
-               });
+               votingRecord: votingRecord[0],
+               billTitle: this.state.bills.votingRecord});
 
                console.log(this.state.votingRecord);
            })
@@ -76,7 +80,18 @@ class Table extends React.Component {
                   </div>
               </div>
          <div>
-   
+
+         <div className="input-field col s12">
+      <select className="browser-default">
+        <option value="" disabled selected>
+          {" "}
+          Search Bills{" "}
+        </option>
+        <option value="1">All members</option>
+        
+      </select>
+    </div>
+
             <table id='members'>
 
 
