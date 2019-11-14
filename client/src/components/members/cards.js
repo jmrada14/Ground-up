@@ -17,7 +17,7 @@ function MemberCard(props) {
                         <strong>Party: {props.party}</strong>
                     </li>
                     <li>
-                        <strong>Social media:</strong>
+                        <strong>Twitter: {props.twitter}</strong>
                     </li>
                 </ul>
             </div>

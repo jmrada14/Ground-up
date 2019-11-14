@@ -32,7 +32,6 @@ app.use(passport.initialize());
 
 // Passport config
 require("./config/passport")(passport);
-app.use('/', express.static(path.join(__dirname, '/client/build')));
 // Routes
 app.use("/api", routes);
 
