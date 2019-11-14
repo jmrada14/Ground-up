@@ -32,7 +32,7 @@ class Members extends Component {
 
 
         <div style={{ height: "75vh",
-            flexDirection : "column"}} className="container valign-wrapper">
+            flexDirection : "column"}} className="container">
             <br/>
             <div className="row">
                 <div className="col s12 left-align">
