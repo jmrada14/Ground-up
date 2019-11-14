@@ -8,7 +8,7 @@ const  representativeSchema = new Schema({
     role: {type: String, required:true},//Role
     gender: {type: String, required:true},// F-M or other if applies
     party: {type: String, required:true},//nothing to comment
-    socialMedia: {type: Object, required:true},//social media such as tw-fb-youtube
+    twitter: {type: String},//social media such as tw-fb-youtube
     // add more if desired, this is the data we get:
     /*
     "https://api.propublica.org/congress/v1/members/{senate}/{FL}/current.json" -H "X-API-Key: 9q67HMZ2ly0hOrXWjT9l31WN6TiGuh7XrkBl1vC"

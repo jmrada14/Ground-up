@@ -7,7 +7,7 @@ const states = ["AL","AK","AZ","AR","CA","CO","CT","DE","FL","GA","HI","ID","IL"
 
 const db = require("../models/representatives");
 const mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost/ground-up-test');
+mongoose.connect('mongodb://localhost/ground-up');
 ////////////////////////
 const resultsFunction = (chamber, state, response) => {
     // console.log(response.data.results);
@@ -24,11 +24,7 @@ const resultsFunction = (chamber, state, response) => {
         // console.log(repGender);
         let repParty = dataArray[i].party;
         // console.log(repParty);
-
-        let repSocialM = {
-            tw: dataArray[i].twitter_id,
-            facebook: dataArray[i].facebook_acount
-        };
+let repTwitter = dataArray[i].twitter_id;
         // console.log(repSocialM);
         ///////////////////////////////
         const representativesObj = {
@@ -38,7 +34,8 @@ const resultsFunction = (chamber, state, response) => {
             role: repRole,
             gender: repGender,
             party: repParty,
-            socialMedia: repSocialM
+            twitter: repTwitter
+
 
         };
 

@@ -18,7 +18,7 @@ class Members extends Component {
   componentDidMount() {
       API.getAllMembers()
           .then(data => {
-              this.setState({members: data.data})
+              this.setState({members: data.data});
               console.log(this.state.members)
           })
           .catch(err => {console.log(err)})
@@ -90,6 +90,7 @@ class Members extends Component {
                 state={item.state}
                 chamber={item.chamber}
                 party={item.party}
+                twitter ={item.twitter}
                 />
             ))}
 
