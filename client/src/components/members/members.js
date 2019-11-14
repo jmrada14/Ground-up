@@ -50,42 +50,9 @@ class Members extends Component {
                 </div>
             </div>
 
-            <div className="input-field col s12">
-                <select className="browser-default">
-                    <option value="" disabled selected> Search Members </option>
-                    <option value="1">All members</option>
-                    <option value="2">Members by chamber</option>
-                    <option value="3">Members by state</option>
-                </select>
-            </div>
-
-            <button
-                style={{
-                    width: "150px",
-                    borderRadius: "3px",
-                    letterSpacing: "1.5px",
-                    marginTop: "1rem"
-                }}
-                onClick={this.searchMembers}
-                className="btn btn-large waves-effect waves-light hoverable green accent-3"
-            >
-                Search
-            </button>
-
-          <button
-              style={{
-                width: "150px",
-                borderRadius: "3px",
-                letterSpacing: "1.5px",
-                marginTop: "1rem"
-              }}
-              onClick={this.onLogoutClick}
-              className="btn btn-large waves-effect waves-light hoverable green accent-3"
-          >
-            Logout
-          </button>
             {this.state.members.map((item, i)=>(
-                <MemberCard
+                <MemberCard style={{float: "left",
+                color : "blue"}}
                 name={item.name}
                 state={item.state}
                 chamber={item.chamber}
