@@ -17,9 +17,10 @@ class NavBar extends Component {
             <NavItem href="/about">
                 About Us
             </NavItem>
-            <NavItem href="/api-access">
+            <NavItem href="/apidocs">
                 API
             </NavItem>
+
         </Navbar>
     );
   }

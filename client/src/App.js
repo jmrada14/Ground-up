@@ -14,7 +14,7 @@ import Login from "./components/auth/Login";
 import PrivateRoute from "./components/private-route/PrivateRoute";
 import Dashboard from "./components/dashboard/Dashboard";
 import Bills from "../src/components/Bills/Bills";
-// import Bills1 from "../src/components/Bills/Bills[1]"
+import Docs from "../src/components/ApiAccess/docs"
 import Members from "../src/components/members/members"
 import About from "../src/components/About me/Dashboard"
 import "./App.css";
@@ -49,7 +49,7 @@ class App extends Component {
             <Route exact path="/register" component={Register} />
             <Route exact path="/login" component={Login} />
             <Route exact path="/bills" component={Bills} />
-            {/*<Route exact path="/bills1" component={Bills1}/>*/}
+            <Route exact path="/apidocs" component={Docs}/>
             <Route exact path="/members" component={Members} />
             <Route exact path="/about" component={About} />
             <Switch>

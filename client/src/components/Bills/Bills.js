@@ -48,6 +48,7 @@ class Table extends React.Component {
   }
 
 
+
   renderTableData() {
     return this.state.votingRecord.map((item, index) => {
       const { name, vote, state, party } = item;
