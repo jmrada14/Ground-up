@@ -54,21 +54,12 @@ class Dashboard extends Component {
             Hi! We are Juan Rada and Sanjeev Chadeesingh, and we developed
             Ground-Up.
           </b>{" "}
-          Sanjeev Chadeesingh was born in the United States, a few years after
-          his parents left Jamaica. His parents left Jamaica during a trying
-          political time, when substantial numbers of Jamaicans left the island.
-          The fact that changes in government policies influenced where he was
-          born was the impetus behind his curiosity of all things government.
-          Sanjeev's interest in economic and environmental policy is now married
-          with his budding web development skills, allowing him to realize the
-          dream of creating an application that makes understanding politics
-          easier. Juan Rada was born in Venezuela, and had an interest in
-          computer programming at a young age, which was cultivated by his
-          uncle. He watched as policy and politicians transformed the identity
-          of his country again and again, and became interested in activism.
-          After a close call at a rally, he decided to attempt change
-          indirectly, and use his development skills to better understand the
-          complex data inherent in forecasting policy changes.
+          Sanjeev merged his interest in economic and environmental policy with
+          his budding web development skills. After a conversation with Juan
+          about politics, he wanted to make an application that put a spotlight on the
+          local governments in America. Juan decided to use his development
+          skills to better his understanding of complex government data,
+          with the hope of accurately forecasting policy changes.
         </p>
         <h2>
           <b>Learn More:</b>

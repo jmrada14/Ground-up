@@ -6,7 +6,7 @@ import "./style.css"
 class Landing extends Component {
   render() {
     return (
-      <div style={{ height: "75vh" }} className="container valign-wrapper">
+      <div style={{ height: "95vh" }} className="container valign-wrapper">
         <div className="row">
           <div className="col s12 center-align">
               <div className="row">
@@ -16,8 +16,7 @@ class Landing extends Component {
                           marginTop: "0px", backgroundSize: "cover", position: "relative"}}>
                           <div className="container">
                               <br/>
-                              <h3 className="header center  green-text text-darken-3">Ground-Up</h3>
-                              <img  alt="people"/>
+                              <h1 className="header center  green-text text-darken-3">Ground-Up</h1>
                               <div className="row center">
                               </div>
                               <br/>
