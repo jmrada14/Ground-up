@@ -10,39 +10,57 @@ class ApiDocs extends Component {
     };
 
     render() {
-        const { user } = this.props.auth;
 
         return (
             <div style={{ height: "75vh",
                 flexDirection : "column"}} className="container valign-wrapper">
 
-                <div className="row">
-                    <div className="col s12 left-align">
-                        <h4>
-                            <b>Hey there,</b> {user.name.split(" ")[0]}
-                        </h4>
-                    </div>
-                </div>
 
+                <p className="flow-text">
+                   Our API has 2 main utilities:
+                   <b>Get members & Get bills</b>
+                    <br/>
+                    <br/>
+                    <h1><b>Get members:<br/></b></h1>
+                    <br/>
+                    <h3>Available routes and expected response:</h3>
+                    <br/><code>
+                        <h3> Using curl: <br/><br/></h3>
 
+                    <br/>
+                        <h4>Get all members:</h4><br/><br/>
+                       curl https://afternoon-spire-83943.herokuapp.com/api/members/all
+                        <br/><br/>
+                        Response: an array containing 532 members from house and senate.
+                        <br/><br/>
+                        <br/><br/>
 
-                <div className="row">
-                    <div className="col s12 left-align">
-                        <div className="section no-pad-bot green lighten-5" id="index-banner">
-                            <div className="container">
-                                <br/>
-                                <h1 className="header center  green-text text-darken-3">Ground-Up</h1>
-                                <div className="row center">
-                                    <h5 className="header col s12 light">We can improve, so let's do it...from the ground up! <hr /> Access our API, open and free for all people! </h5>
-                                </div>
-                                <br/>
+                        <h4>Get members by chamber:</h4><br/><br/>
+                    curl https://afternoon-spire-83943.herokuapp.com/api/members/chamber/CHAMBER
+                    <br/><br/>
+                    add desired chamber where CHAMBER, example: <br/><br/>curl https://afternoon-spire-83943.herokuapp.com/api/members/chamber/house
+                    <br/><br/>Response: an array containing members of senate <b>OR</b> house depending on the desired chamber <br/><br/>
 
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                    <h4>Get members by state:</h4><br/><br/>
+                    curl https://afternoon-spire-83943.herokuapp.com/api/members/state/STATE
+                    <br/><br/>
+                    add desired state where STATE, please use capital case, example: <br/><br/>curl https://afternoon-spire-83943.herokuapp.com/api/members/state/AK
+                    <br/><br/>Response: an array containing members of senate and house from the desired state <br/><br/>
 
-                <code> TEST </code>
+                    <h4>Get members by party:</h4><br/><br/>
+                    curl https://afternoon-spire-83943.herokuapp.com/api/members/party/PARTY
+                    <br/><br/>
+                    add desired party where PARTY, please use capital case, example: <br/><br/>curl https://afternoon-spire-83943.herokuapp.com/api/members/party/D
+                    <br/><br/>Response: an array containing members of senate and house from the desired party <br/><br/>
+
+                    <h4>Get members by gender:</h4><br/><br/>
+                    curl https://afternoon-spire-83943.herokuapp.com/api/members/gender/GENDER
+                    <br/><br/>
+                    add desired gender where GENDER, please use capital case, example: <br/><br/>curl https://afternoon-spire-83943.herokuapp.com/api/members/gender/F
+                    <br/><br/>Response: an array containing members of senate and house from the desired gender <br/><br/>
+
+                </code>
+                </p>
 
 
                 <button

@@ -20,6 +20,7 @@ class NavBar extends Component {
             <NavItem href="/apidocs">
                 API
             </NavItem>
+
         </Navbar>
     );
   }
