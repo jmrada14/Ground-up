@@ -16,7 +16,7 @@ class Landing extends Component {
                           marginTop: "0px", backgroundSize: "cover", position: "relative"}}>
                           <div className="container">
                               <br/>
-                              <h1 className="header center  green-text text-darken-3">Ground-Up</h1>
+                              <h1 className="header center  green-text text-darken-3"><b>Ground-Up</b></h1>
                               <div className="row center">
                               </div>
                               <br/>
