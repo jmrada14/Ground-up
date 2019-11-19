@@ -7,38 +7,37 @@ class Table extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      // members: [
-      //    { name: 1, vote: 'Wasif', state: 21, party: 'wasif@email.com' },
-      //    { name: 2, vote: 'Ali', state: 19, party: 'ali@email.com' },
-      //    { name: 3, vote: 'Saad', state: 16, party: 'saad@email.com' },
-      //    { name: 4, vote: 'Asad', state: 25, party: 'asad@email.com' }
-      // ]
       bills: [],
       votingRecord: [],
+        currentBill: false,
+
 
     };
   }
 
   componentDidMount() {
-    API.getAllVotingRecord()
-      .then(data => {
-        const votingRecord = [];
-        data.data.forEach(item => {
-          votingRecord.push(item.votingRecord);
-        });
-
-        this.setState({
-          bills: data.data,
-          votingRecord: votingRecord[0]
-          
-        });
-
-        console.log(this.state.bills);
-      })
-      .catch(err => {
-        console.log(err);
-      });
+    this.getBill()
   }
+
+  getBill(){
+      API.getAllBills()
+          .then (data => {
+                const currentBill = this.state.currentBill || data.data[0]._id;
+                console.log(data.data[0]._id)
+              this.setState({
+                  bills: data.data,
+                currentBill: currentBill
+
+              });
+
+              // console.log(this.state.bills);
+          })
+          .catch(err => {
+              console.log(err);
+          });
+  }
+
+
 
   renderTableHeader() {
     let header = Object.keys(this.state.bills.title);
@@ -47,20 +46,32 @@ class Table extends React.Component {
     });
   }
 
+selectBill = (e) => {
+      console.log(e.target.value);
+    this.setState({currentBill: e.target.value})
+    // console.log(this.state.currentBill);
 
+}
 
-  renderTableData() {
-    return this.state.votingRecord.map((item, index) => {
-      const { name, vote, state, party } = item;
-      return (
-        <tr key={name}>
-          <td>{name}</td>
-          <td>{vote}</td>
-          <td>{state}</td>
-          <td>{party}</td>
-        </tr>
-      );
-    });
+  renderTableData = () => {
+      console.log(this.state.bills);
+      if(this.state.bills.length) {
+          let thisBill = this.state.bills.filter(bill => bill._id === this.state.currentBill);
+
+          return thisBill[0].votingRecord.map((item, index) => {
+              const {name, vote, state, party} = item;
+              return (
+                  <tr key={index}>
+                      <td>{name}</td>
+                      <td>{vote}</td>
+                      <td>{state}</td>
+                      <td>{party}</td>
+                  </tr>
+              );
+          });
+      }else {
+          return false;
+      }
   }
 
   render() {
@@ -94,9 +105,9 @@ class Table extends React.Component {
 
           <div className="input-field col s12">
 
-         <select >
+         <select className='billSelect' onChange={this.selectBill}>
          {this.state.bills.map(optn =>(
-            <option value={optn.title}>{optn.title}</option>
+            <option value={optn._id}>{optn.title}</option>
          ))}
          </select>
            
